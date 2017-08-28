@@ -1,0 +1,2059 @@
+Enault_NN and_CC colleagues_NNS proposed_VVD an_DD improved_VVNJ phylogenetic_JJ profile_NN based_VVN on_II a_DD normalized_VVNJ Blastp_NN bit_NN score_NN 4_MC ._. 
+ Enault and colleagues proposed an improved phylogenetic profile based on a normalized Blastp bit score 4 .
+Enault
+colleagues
+an
+phylogenetic profile
+a
+Blastp bit score
+
+In_II a_DD previous_JJ paper_NN 37_NN we_PN introduced_VVD an_DD alternative_JJ Bayesian_NN framework_NN for_II modelling_VVGN hierarchical_JJ classes_NNS ._. 
+ In a previous paper 37 we introduced an alternative Bayesian framework for modelling hierarchical classes .
+a previous paper 37
+an alternative Bayesian framework
+hierarchical classes
+
+These_DD sequences_NNS were_VBD used_VVN to_II search_NN for_II the_DD nearly_JJ invariant_NN nucleotides_NNS of_II the_DD inverse_JJ core_NN AAC_NN and_CC core_NN GTT_NN sites_NNS separated_VVN by_II a_DD distance_NN typical_JJ of_II previously_RR identified_VVD attC_VVNJ sites_NNS 50_MC to_II 150_MC bp_NN Figure_NN 2A_NN ._. 
+ These sequences were used to search for the nearly invariant nucleotides of the inverse core AAC and core GTT sites separated by a distance typical of previously identified attC sites 50 to 150 bp Figure 2A .
+These sequences
+search
+the nearly invariant nucleotides
+the inverse core AAC
+core GTT sites
+a distance typical
+sites
+bp Figure 2A
+
+In_II most_DD published_VVNJ SVR_NN studies_NNS we_PN have_VHB examined_VVN these_DD model_NN parameters_NNS were_VBD determined_VVN one_MC at_II a_DD time_NN by_II first_JJ fixing_VVGJ all_JJ other_JJ parameters_NNS then_RR letting_VVGN the_DD parameter_NN take_VVB a_DD range_NN of_II different_JJ values_NNS and_CC thus_RR identifying_VVGN the_DD value_NN that_PNR corresponds_VVZ to_II the_DD best_JJT model_NN performance_NN assessed_VVN by_II cross_NN validation_NN 20_MC 21_MC ._. 
+ In most published SVR studies we have examined these model parameters were determined one at a time by first fixing all other parameters then letting the parameter take a range of different values and thus identifying the value that corresponds to the best model performance assessed by cross validation 20 21 .
+most
+SVR studies
+these model parameters
+a time
+first
+all other parameters
+the parameter
+a range
+different values
+the value
+the
+model performance
+cross validation
+
+Cherkassky_NNP and_CC Ma_NN 22_MC advocated_VVN picking_VVG two_MC of_II the_DD three_MC SVR_NN model_NN parameters_NNS e_VVB and_CC C_NN from_II training_VVGN data_NNS based_VVN on_II characterizations_NNS of_II the_DD data_NNS such_II+ as_II noise_NN level_NN and_CC sample_NN number_NN ._. 
+ Cherkassky and Ma 22 advocated picking two of the three SVR model parameters e and C from training data based on characterizations of the data such as noise level and sample number .
+Cherkassky
+Ma
+the
+SVR model parameters
+C
+data
+characterizations
+the data
+noise level
+sample number
+
+Another_DD way_NN to_TO obtain_VVI suboptimal_JJ solutions_NNS from_II a_DD HMM_NN is_VBZ to_TO do_VVI HMM_NN sampling_VVGN 7_NN ._. 
+ Another way to obtain suboptimal solutions from a HMM is to do HMM sampling 7 .
+Another way
+suboptimal solutions
+a HMM
+HMM
+7
+
+REDUCE_NN requires_VVZ only_RR a_DD single_JJ expression_NN dataset_NN and_CC makes_VVZ use_NN of_II the_DD entire_JJ genomic_JJ dataset_NN both_CC signal_NN and_CC background_NN to_TO assess_VVI the_DD significance_NN of_II individual_JJ motifs_NNS ._. 
+ REDUCE requires only a single expression dataset and makes use of the entire genomic dataset both signal and background to assess the significance of individual motifs .
+REDUCE
+a single expression dataset
+use
+the entire genomic dataset
+signal
+background
+the significance
+individual motifs
+
+In_II this_DD paper_NN we_PN introduce_VVB a_DD Bootstrap_NNP procedure_NN to_TO test_VVI the_DD null_JJ hypothesis_NN that_CST each_DD gene_NN has_VHZ the_DD same_JJ relevance_NN between_II two_MC conditions_NNS where_PNR the_DD relevance_NN is_VBZ represented_VVN by_II the_DD Shapley_NN value_NN of_II a_DD particular_JJ coalitional_JJ game_NN defined_VVN on_II a_DD microarray_NN data_NNS set_NN ._. 
+ In this paper we introduce a Bootstrap procedure to test the null hypothesis that each gene has the same relevance between two conditions where the relevance is represented by the Shapley value of a particular coalitional game defined on a microarray data set .
+this paper
+a Bootstrap procedure
+the null hypothesis
+each gene
+the same relevance
+conditions
+the relevance
+the Shapley value
+a particular coalitional game
+a microarray data set
+
+Investigating_VVG whether_CST different_JJ sidechain_NN repacking_VVGN could_VM alter_VVB this_DD discrepancy_NN a_DD scheme_NN for_II packing_VVGN sidechains_NNS towards_II protein_NN structure_NN has_VHZ been_VBN derived_VVN from_II a_DD mean_NN field_NN framework_NN Figure_NN 4_MC ._. 
+ Investigating whether different sidechain repacking could alter this discrepancy a scheme for packing sidechains towards protein structure has been derived from a mean field framework Figure 4 .
+different sidechain
+this discrepancy a scheme
+sidechains
+protein structure
+a mean field framework Figure
+
+A_DD modified_VVNJ version_NN of_II the_DD MMM_NN Mod2MMM_NN hereafter_RR introduced_VVN in_II 6_MC assumes_VVZ that_CST the_DD denominator_NN and_CC the_DD numerator_NN of_II one_MC of_II t_JJ statistic_JJ type_NN score_NN zi_NN may_VM not_RR be_VBB independent_JJ ._. 
+ A modified version of the MMM Mod2MMM hereafter introduced in 6 assumes that the denominator and the numerator of one of t statistic type score zi may not be independent .
+A
+version
+the MMM Mod2MMM
+the denominator
+the numerator
+t statistic type score zi
+independent
+
+We_PN used_VVD the_DD new_JJ descriptive_JJ CAT_NN Correspondence_NN At_II the_DD Top_NN plots_NNS originally_RR proposed_VVN by_II Irizzarry_NN 9_NN to_TO evaluate_VVI the_DD array_NN to_II array_NN precision_NN within_II each_DD microarray_NN platform_NN for_II the_DD three_MC replicates_NNS ._. 
+ We used the new descriptive CAT Correspondence At the Top plots originally proposed by Irizzarry 9 to evaluate the array to array precision within each microarray platform for the three replicates .
+the new descriptive CAT Correspondence
+the Top plots
+Irizzarry 9
+the array
+array precision
+each microarray platform
+the
+replicates
+
+Such_DD observation_NN increases_VVZ the_DD reliability_NN of_II those_DD clusters_NNS ._. 
+ Such observation increases the reliability of those clusters .
+Such observation
+the reliability
+those clusters
+
+Here_RR we_PN propose_VVB additional_JJ data_NNS selection_NN using_VVG a_DD GA_NN for_II selecting_VVGN additional_JJ learning_VVGJ data_NNS sets_NNS ._. 
+ Here we propose additional data selection using a GA for selecting additional learning data sets .
+additional data selection
+a GA
+additional
+data sets
+
+If_CS a_DD paper_NN is_VBZ classified_VVN as_II not_RR belonging_VVG to_II any_PND of_II the_DD nine_MC categories_NNS the_DD paper_NN is_VBZ assigned_VVN to_II the_DD category_NNS with_II the_DD lowest_JJT probability_NN of_II not_RR belonging_VVG to_II it_PN ._. 
+ If a paper is classified as not belonging to any of the nine categories the paper is assigned to the category with the lowest probability of not belonging to it .
+a paper
+the
+categories the paper
+the category
+the
+probability
+
+PPRM_NN uses_NNS inter_VVB sample_NN ratios_NNS to_TO quantify_VVI variability_NN in_II expression_NN ._. 
+ PPRM uses inter sample ratios to quantify variability in expression .
+PPRM uses
+sample ratios
+variability
+expression
+
+When_CS the_DD evolution_NN stops_VVZ at_II a_DD sufficiently_RR low_JJ temperature_NN linked_VVNJ vertices_NNS in_II the_DD same_JJ state_NN are_VBB declared_VVN network_NN communities_NNS ._. 
+ When the evolution stops at a sufficiently low temperature linked vertices in the same state are declared network communities .
+the evolution
+a
+low temperature
+vertices
+the same state
+network communities
+
+We_PN produced_VVD master_JJ alignments_NNS for_II each_DD protein_NN so_RR that_CST subset_NN alignments_NNS can_VM be_VBB subsequently_RR extracted_VVN through_II metadata_NNS queries_NN without_II further_JJ realignment_NN ._. 
+ We produced master alignments for each protein so that subset alignments can be subsequently extracted through metadata queries without further realignment .
+master alignments
+each protein
+subset alignments
+metadata queries
+further realignment
+
+Recently_RR Multiplex_JJ Ligation_NN dependent_JJ Probe_NN Amplification_NN MLPA_NN 9_NN has_VHZ also_RR been_VBN used_VVN to_TO quantify_VVI copy_NN number_NN classes_NNS ._. 
+ Recently Multiplex Ligation dependent Probe Amplification MLPA 9 has also been used to quantify copy number classes .
+Multiplex Ligation dependent Probe Amplification MLPA 9
+copy number classes
+
+These_DD three_MC indexes_NNS were_VBD summarized_VVN in_II a_DD sequence_NN diversity_NN plot_NN SDP_NN and_CC were_VBD used_VVN to_TO assist_VVI cDNA_NN microarray_NN probe_NN selections_NNS for_II organisms_NNS without_II any_DD genomic_JJ information_NN ._. 
+ These three indexes were summarized in a sequence diversity plot SDP and were used to assist cDNA microarray probe selections for organisms without any genomic information .
+These
+indexes
+a sequence diversity plot SDP
+cDNA microarray probe selections
+organisms
+any genomic information
+
+Thus_RR we_PN can_VM estimate_VVB the_DD substitution_NN matrix_NN conditional_JJ probabilities_NNS at_II any_DD other_JJ arbitrary_JJ time_NN simply_RR using_VVG equation_NN 2_MC and_CC reconstruct_VVI the_DD joint_NN probabilities_NNS at_II any_DD other_JJ arbitrary_JJ time_NN ._. 
+ Thus we can estimate the substitution matrix conditional probabilities at any other arbitrary time simply using equation 2 and reconstruct the joint probabilities at any other arbitrary time .
+the substitution matrix conditional probabilities
+any other arbitrary time
+equation
+the joint probabilities
+any other arbitrary time
+
+In_II parametric_JJ bootstrap_VVGN the_DD objective_NN is_VBZ to_TO infer_VVI a_DD characteristic_JJ from_II a_DD sample_NN x1_NN x2_NN .._CS+ xn_CS taken_VVN from_II a_DD population_NN with_II known_VVNJ distribution_NN F_NN ._. 
+ In parametric bootstrap the objective is to infer a characteristic from a sample x1 x2 ..xn taken from a population with known distribution F .
+parametric
+the objective
+a characteristic
+a sample x1 x2
+a population
+distribution F
+
+Lastly_RR the_DD viability_NN of_II using_VVGN global_JJ Poisson_NN p_NN values_NNS was_VBD assessed_VVN with_II the_DD simulated_VVNJ spike_NN in_II data_NNS sets_NNS ._. 
+ Lastly the viability of using global Poisson p values was assessed with the simulated spike in data sets .
+the viability
+global Poisson p values
+the
+spike
+data sets
+
+These_DD two_MC selected_VVNJ genes_NNS are_VBB then_RR removed_VVN from_II the_DD gene_NN set_NN and_CC the_DD procedure_NN is_VBZ repeated_VVN on_II the_DD remaining_VVGJ set_NN until_II a_DD specified_VVNJ number_NN of_II genes_NNS has_VHZ been_VBN selected_VVN ._. 
+ These two selected genes are then removed from the gene set and the procedure is repeated on the remaining set until a specified number of genes has been selected .
+These
+genes
+the gene set
+the procedure
+the
+set
+a
+number
+genes
+
+Genes_NNS were_VBD assigned_VVN a_DD p_NN value_NN in_II each_DD study_NN separately_RR and_CC the_DD results_NNS were_VBD combined_VVN to_TO estimate_VVI a_DD gene_NN specific_JJ p_NN value_NN across_II all_DD studies_NNS ._. 
+ Genes were assigned a p value in each study separately and the results were combined to estimate a gene specific p value across all studies .
+Genes
+a p value
+each study
+the results
+a gene specific p value
+all studies
+
+The_DD relative_JJ binding_VVGJ energies_NNS for_II dimer_NN formation_NN were_VBD computed_VVN using_VVG the_DD MM_NN PBSA_NN module_NN of_II AMBER_NN 8.0_MC employing_VVG molecular_JJ mechanics_NNS and_CC a_DD continuum_NN solvent_NN model_NN 30_MC ._. 
+ The relative binding energies for dimer formation were computed using the MM PBSA module of AMBER 8.0 employing molecular mechanics and a continuum solvent model 30 .
+The relative
+energies
+dimer formation
+the MM PBSA module
+AMBER
+molecular mechanics
+a continuum solvent model
+
+However_RR we_PN felt_VVB that_CST this_PND would_VM not_RR bias_VVZ the_DD structure_NN of_II the_DD network_NN significantly_RR given_VVN that_CST most_DD authors_NNS tend_VVD to_TO co_VVI author_NN most_PND of_II their_PNG articles_NNS with_II a_DD similar_JJ group_NN of_II collaborators_NNS ._. 
+ However we felt that this would not bias the structure of the network significantly given that most authors tend to co author most of their articles with a similar group of collaborators .
+the structure
+the network
+most authors
+author
+articles
+a similar group
+collaborators
+
+Presumably_RR the_DD three_MC clusters_NNS converge_VVB downstream_JJ to_II some_DD extent_NN but_CC at_II the_DD hub_NN level_NN this_PND indicates_VVZ that_CST these_DD components_NNS offer_VVB highly_RR specialized_VVNJ non_NN redundant_JJ services_NNS to_II the_DD cell_NN cycle_NN cluster_NN likely_RR due_II+ to_II the_DD ancient_JJ nature_NN of_II their_PNG function_NN ._. 
+ Presumably the three clusters converge downstream to some extent but at the hub level this indicates that these components offer highly specialized non redundant services to the cell cycle cluster likely due to the ancient nature of their function .
+the
+clusters
+downstream
+some extent
+the hub level
+these components
+non redundant services
+the cell cycle cluster
+the ancient nature
+function
+
+Compared_VVN to_II logistic_JJ regression_NN local_JJ regression_NN models_NNS provide_VVB greater_JJR flexibility_NN as_II the_DD regression_NN curve_NN can_VM approximate_RR any_DD smooth_JJ function_NN ._. 
+ Compared to logistic regression local regression models provide greater flexibility as the regression curve can approximate any smooth function .
+logistic regression local regression models
+flexibility
+the regression curve
+any smooth function
+
+For_II a_DD given_VVNJ feature_NN A_II the_DD boundary_NN Tmin_NN which_PNR minimizes_VVZ the_DD entropy_NN function_NN over_II all_DD possible_JJ partition_NN boundaries_NNS is_VBZ selected_VVN as_II a_DD binary_JJ discretization_NN boundary_NN ._. 
+ For a given feature A the boundary Tmin which minimizes the entropy function over all possible partition boundaries is selected as a binary discretization boundary .
+a
+feature
+the boundary Tmin
+the entropy function
+all possible partition boundaries
+a binary discretization boundary
+
+However_RR calculation_NN of_II alignments_NNS using_VVG these_DD models_NNS always_RR requires_VVZ quadratic_JJ time_NN which_PNR is_VBZ prohibitively_RR slow_JJ for_II many_DD large_JJ scale_NN applications_NNS ._. 
+ However calculation of alignments using these models always requires quadratic time which is prohibitively slow for many large scale applications .
+calculation
+alignments
+these models
+quadratic time
+slow
+many large scale applications
+
+Predikin_RR identifies_VVZ the_DD key_JJ residues_NNS in_II the_DD protein_NN kinase_NN catalytic_JJ domain_NN termed_VVN substrate_NN determining_VVGN residues_NNS SDRs_NN which_PNR determine_VVB the_DD sequence_NN of_II the_DD substrate_NN heptapeptide_NN ._. 
+ Predikin identifies the key residues in the protein kinase catalytic domain termed substrate determining residues SDRs which determine the sequence of the substrate heptapeptide .
+the key residues
+the protein kinase catalytic domain
+substrate
+residues SDRs
+the sequence
+the substrate heptapeptide
+
+Another_DD possibility_NN is_VBZ the_DD clustering_VVGN of_II t_JJ invariants_NNS as_CS described_VVN in_II this_DD paper_NN which_PNR generally_RR results_VVZ in_II overlapping_VVGJ subnetworks_NNS ._. 
+ Another possibility is the clustering of t invariants as described in this paper which generally results in overlapping subnetworks .
+Another possibility
+the
+t invariants
+this paper
+subnetworks
+
+The_DD area_NN under_II this_DD curve_NN can_VM be_VBB used_VVN as_II a_DD measure_NN of_II the_DD accuracy_NN of_II the_DD test_NN ._. 
+ The area under this curve can be used as a measure of the accuracy of the test .
+The area
+this curve
+a measure
+the accuracy
+the test
+
+In_II this_DD sense_NN local_JJ decodings_NNS of_II sequences_NNS are_VBB more_RR informative_JJ ._. 
+ In this sense local decodings of sequences are more informative .
+this sense local decodings
+sequences
+informative
+
+A_DD recent_JJ study_NN introduced_VVD an_DD ANOVA_NN Analysis_NN of_II Variance_NN model_NN to_TO select_VVI discriminative_NN genes_NNS from_II several_JJ datasets_NNS derived_VVN from_II different_JJ experimental_JJ environments_NNS 15_MC ._. 
+ A recent study introduced an ANOVA Analysis of Variance model to select discriminative genes from several datasets derived from different experimental environments 15 .
+A recent study
+an ANOVA Analysis
+Variance model
+discriminative genes
+several datasets
+different experimental environments
+
+The_DD proposed_VVNJ assessment_NN scheme_NN can_VM be_VBB used_VVN to_II complement_NN existing_VVGJ pre_JJ filter_NN assessment_NN processes_NNS to_TO ensure_VVI that_CST only_RR good_JJ quality_NN spectra_NNS are_VBB sent_JJ for_II protein_NN identification_NN process_NN reducing_VVGN false_JJ positive_JJ protein_NN detection_NN by_II database_NN search_NN and_CC de_VVB novo_JJ sequencing_VVGN protein_NN identification_NN tools_NNS ._. 
+ The proposed assessment scheme can be used to complement existing pre filter assessment processes to ensure that only good quality spectra are sent for protein identification process reducing false positive protein detection by database search and de novo sequencing protein identification tools .
+The
+assessment scheme
+complement
+pre filter assessment processes
+good quality spectra
+sent
+protein identification process
+false positive protein detection
+database search
+novo
+protein identification tools
+
+We_PN believe_VVB that_CST t2prhd_NN is_VBZ a_DD helpful_JJ tool_NN with_II which_PNR to_TO study_VVI the_DD pattern_NN of_II repeat_NN evolution_NN ._. 
+ We believe that t2prhd is a helpful tool with which to study the pattern of repeat evolution .
+t2prhd
+a helpful tool
+the pattern
+repeat evolution
+
+Non_NN published_VVNJ indices_NNS were_VBD excluded_VVN by_II default_JJ but_CC can_VM be_VBB employed_VVN as_II additional_JJ replacement_NN criteria_NNS using_VVG thresholds_NNS based_VVN on_II results_NNS obtained_VVN in_II this_DD paper_NN Additional_JJ file_NN 2_MC ._. 
+ Non published indices were excluded by default but can be employed as additional replacement criteria using thresholds based on results obtained in this paper Additional file 2 .
+Non
+indices
+default
+additional replacement criteria
+thresholds
+results
+this paper Additional file
+
+1_MC Support_NN Vector_NN Machine_NN SVM_NN technology_NN is_VBZ used_VVN to_TO identify_VVI articles_NNS about_II biomolecular_JJ interactions_NNS and_CC confirm_VVB sentences_NNS that_PNR mention_VVB specific_JJ protein_NN protein_NN interactions_NNS ._. 
+ 1 Support Vector Machine SVM technology is used to identify articles about biomolecular interactions and confirm sentences that mention specific protein protein interactions .
+Support Vector Machine SVM technology
+articles
+biomolecular interactions
+sentences
+specific protein protein interactions
+
+We_PN also_RR show_VVB that_CST the_DD LMS_NN fit_NN can_VM be_VBB extended_VVN to_II multiple_JJ level_NN superposition_NN between_II two_MC conformations_NNS with_II several_JJ rigid_JJ domains_NNS ._. 
+ We also show that the LMS fit can be extended to multiple level superposition between two conformations with several rigid domains .
+the LMS fit
+multiple level superposition
+conformations
+several rigid domains
+
+Resolution_NN of_II this_DD system_NN yields_NNS ?_CS+ i_CS+ j_CS the_DD expected_VVNJ frequency_NN of_II dinucleotides_NNS under_II this_DD Markov_NNP chain_NN ._. 
+ Resolution of this system yields ?i j the expected frequency of dinucleotides under this Markov chain .
+Resolution
+this system yields
+the
+frequency
+dinucleotides
+this Markov chain
+
+It_PN was_VBD found_VVN that_CST high_JJ percentage_NN of_II identified_VVNJ interactions_NNS shares_VVZ GO_NN Biological_JJ Process_NN annotations_NNS 39.5_MC for_II a_DD 102_MC interaction_NN enriched_VVNJ gene_NN set_NN and_CC 23.0_MC for_II a_DD larger_JJR 999_NN cyclically_RR expressed_VVN gene_NN set_NN ._. 
+ It was found that high percentage of identified interactions shares GO Biological Process annotations 39.5 for a 102 interaction enriched gene set and 23.0 for a larger 999 cyclically expressed gene set .
+high percentage
+interactions
+GO Biological Process annotations
+a
+interaction
+gene set
+a
+999
+gene set
+
+There_EX are_VBB at_RR+ least_RR four_MC different_JJ ways_NNS to_TO calculate_VVI protein_NN identity_NN 20_MC of_II which_PNR the_DD mechanism_NN used_VVN in_II this_DD work_NN was_VBD the_DD one_MC based_VVN on_II the_DD length_NN of_II the_DD shortest_NN sequence_NN ._. 
+ There are at least four different ways to calculate protein identity 20 of which the mechanism used in this work was the one based on the length of the shortest sequence .
+different ways
+protein identity
+the mechanism
+this work
+the
+the length
+the shortest sequence
+
+Using_VVG DF_NN SNPs_NN potential_JJ biomarkers_NNS could_VM be_VBB quickly_RR identified_VVN based_VVN on_II SNPs_NN SNP_NN types_NNS or_CC SNP_NN patterns_NNS ._. 
+ Using DF SNPs potential biomarkers could be quickly identified based on SNPs SNP types or SNP patterns .
+DF SNPs potential biomarkers
+SNPs SNP types
+SNP patterns
+
+In_II addition_NN to_II the_DD collection_NN of_II MIPS_NN protein_NN complexes_NNS we_PN have_VHB also_RR used_VVD the_DD same_JJ evaluation_NN metric_JJ adopted_VVN in_II 8_MC called_VVNJ geometric_JJ similarity_NN index_NN ._. 
+ In addition to the collection of MIPS protein complexes we have also used the same evaluation metric adopted in 8 called geometric similarity index .
+addition
+the collection
+MIPS protein complexes
+the same evaluation metric
+geometric similarity index
+
+In_II order_NN to_II use_NN PlasmoHT_NN one_PN need_VVB to_TO provide_VVI PlasmoDB_NN ID_NN as_II all_DD proteins_NNS in_II our_PNG dataset_NN are_VBB not_RR from_II PlasmoDB_NN database_NN so_CS it_PN could_VM not_RR be_VBB applied_VVN on_II all_DB the_DD proteins_NNS 20_MC ._. 
+ In order to use PlasmoHT one need to provide PlasmoDB ID as all proteins in our dataset are not from PlasmoDB database so it could not be applied on all the proteins 20 .
+order
+use PlasmoHT
+PlasmoDB ID
+all proteins
+dataset
+PlasmoDB database
+all the proteins
+
+The_DD single_JJ path_NN relationship_NN was_VBD applied_VVN to_II each_DD possible_JJ pair_NN of_II these_DD paths_NNS path_NN for_II GO1_NN and_CC GO2_NN respectively_RR and_CC is_VBZ henceforth_RR referred_VVN to_TO as_VVI path_NN pairs_NNS ._. 
+ The single path relationship was applied to each possible pair of these paths path for GO1 and GO2 respectively and is henceforth referred to as path pairs .
+The single path relationship
+each possible pair
+these paths path
+GO1
+GO2
+path pairs
+
+Where_CS the_DD comparisons_NNS is_VBZ equal_JJ to_II the_DD number_NN of_II cancer_NN samples_NNS multiplied_NN by_II the_DD number_NN of_II normal_JJ samples_NNS ._. 
+ Where the comparisons is equal to the number of cancer samples multiplied by the number of normal samples .
+the comparisons
+equal
+the number
+cancer samples multiplied
+the number
+normal samples
+
+The_DD last_JJ refinement_NN stage_NN employs_VVZ a_DD variant_NN of_II the_DD tree_NN dependent_JJ restricted_VVNJ partitioning_VVGN 24_MC ._. 
+ The last refinement stage employs a variant of the tree dependent restricted partitioning 24 .
+The last refinement stage
+a variant
+the tree dependent
+
+The_DD results_NNS are_VBB essentially_RR coherent_JJ with_II the_DD biology_NN ._. 
+ The results are essentially coherent with the biology .
+The results
+coherent
+the biology
+
+SIM4_NN efficiently_RR aligns_VVZ a_DD transcribed_VVNJ and_CC spliced_VVNJ DNA_NN sequence_NN mRNA_NN EST_NN with_II a_DD genomic_JJ sequence_NN containing_VVG the_DD corresponding_VVGJ gene_NN allowing_VVG for_II introns_NNS in_II the_DD genomic_JJ sequence_NN and_CC a_DD relatively_RR small_JJ number_NN of_II sequencing_VVGN errors_NNS ._. 
+ SIM4 efficiently aligns a transcribed and spliced DNA sequence mRNA EST with a genomic sequence containing the corresponding gene allowing for introns in the genomic sequence and a relatively small number of sequencing errors .
+SIM4
+a
+DNA sequence mRNA EST
+a genomic sequence
+the
+gene
+introns
+the genomic sequence
+a
+small number
+errors
+
+The_DD final_JJ e_NN string_VVGN obtained_VVN at_II the_DD root_NN is_VBZ then_RR applied_VVN to_II the_DD sequence_NN ._. 
+ The final e string obtained at the root is then applied to the sequence .
+The final e
+the root
+the sequence
+
+The_DD model_NN parameters_NNS A_NN and_CC B_NN in_II score_NN function_NN are_VBB determined_VVN by_II the_DD noise_NN variance_NN of_II the_DD spectrum_NN s2_NN which_PNR can_VM be_VBB automatically_RR estimated_VVN by_II LOWESS_NN regression_NN ._. 
+ The model parameters A and B in score function are determined by the noise variance of the spectrum s2 which can be automatically estimated by LOWESS regression .
+The model parameters A
+B
+score function
+the noise variance
+the spectrum s2
+LOWESS regression
+
+Sorting_VVGN is_VBZ based_VVN on_II the_DD p_NN values_NNS calculated_VVN for_II the_PND observed_VVN over_II representation_NN in_II order_NN to_TO show_VVI the_DD best_JJT results_NNS at_II the_DD top_NN of_II the_DD list_NN ._. 
+ Sorting is based on the p values calculated for the observed over representation in order to show the best results at the top of the list .
+the p values
+representation
+order
+the
+results
+the top
+the list
+
+Quantile_JJ normalization_NN was_VBD proposed_VVN by_II Bolstad_NNP et_CC al3_NN for_II Affymetrix_NN style_NN single_JJ channel_NN arrays_NNS and_CC by_II Yang_NNP and_CC Thorne_NN 4_MC for_II two_MC color_JJ cDNA_NN arrays_NNS ._. 
+ Quantile normalization was proposed by Bolstad et al3 for Affymetrix style single channel arrays and by Yang and Thorne 4 for two color cDNA arrays .
+Quantile normalization
+Bolstad
+al3
+Affymetrix style single channel arrays
+Yang
+Thorne
+color cDNA arrays
+
+The_DD protein_NN sequence_NN Jukes_NN Cantor_NN model_NN assigns_VVZ the_DD same_JJ probability_NN to_II each_DD substitution_NN and_CC is_VBZ hence_RR a_DD rather_RR poor_JJ approximation_NN ._. 
+ The protein sequence Jukes Cantor model assigns the same probability to each substitution and is hence a rather poor approximation .
+The protein sequence Jukes Cantor model
+the same probability
+each substitution
+a
+poor approximation
+
+We_PN therefore_RR developed_VVD a_DD hierarchical_JJ evaluation_NN measure_NN as_CS described_VVN in_II the_DD Methods_NNS section_NN ._. 
+ We therefore developed a hierarchical evaluation measure as described in the Methods section .
+a hierarchical evaluation measure
+the Methods section
+
+Article_NN ids_NNS were_VBD sorted_VVN by_II this_DD score_NN in_II descending_VVGJ order_NN ._. 
+ Article ids were sorted by this score in descending order .
+Article ids
+this score
+order
+
+Article_NN ids_NNS were_VBD sorted_VVN by_II this_DD score_NN in_II descending_VVGJ order_NN ._. 
+ Article ids were sorted by this score in descending order .
+Article ids
+this score
+order
+
+The_DD maximality_NN procedure_NN makes_VVZ use_NN of_II Ri_NN with_II p_NN remaining_VVGJ equal_JJ to_II the_DD lowest_JJT index_NN of_II Ri_NN ._. 
+ The maximality procedure makes use of Ri with p remaining equal to the lowest index of Ri .
+The maximality procedure
+use
+Ri
+p
+equal
+the
+index
+Ri
+
+The_DD PhenoBlast_NN Metric_NN is_VBZ used_VVN to_II rank_NN genes_NNS based_VVN on_II the_DD similarity_NN of_II their_PNG phenotypic_JJ signatures_NNS to_II the_DD profile_NN of_II a_DD query_JJ gene_NN ._. 
+ The PhenoBlast Metric is used to rank genes based on the similarity of their phenotypic signatures to the profile of a query gene .
+The PhenoBlast Metric
+rank genes
+the similarity
+phenotypic signatures
+the profile
+a query gene
+
+Recently_RR a_DD conservation_NN score_NN for_II ranking_VVGN predicted_VVNJ motif_NN instances_NNS has_VHZ been_VBN proposed_VVN 19_MC ._. 
+ Recently a conservation score for ranking predicted motif instances has been proposed 19 .
+a conservation score
+motif instances
+
+We_PN calculated_VVD accuracy_NN by_II dividing_VVGN the_DD number_NN of_II comparative_JJ base_NN pairs_NNS that_PNR were_VBD predicted_VVN exactly_RR with_II Mfold_NN by_II the_DD total_JJ number_NN of_II canonical_JJ base_NN pairs_NNS in_II the_DD comparative_JJ model_NN excluding_VVG any_DD base_NN pairs_NNS with_II IUPAC_NN symbols_NNS other_JJ than_CSN G_NN C_NN A_NN or_CC U_NN see_VVB Prediction_NN Accuracy_NN Calculations_NNS in_II Methods_NNS ._. 
+ We calculated accuracy by dividing the number of comparative base pairs that were predicted exactly with Mfold by the total number of canonical base pairs in the comparative model excluding any base pairs with IUPAC symbols other than G C A or U see Prediction Accuracy Calculations in Methods .
+accuracy
+the number
+comparative base pairs
+Mfold
+the total number
+canonical base pairs
+the comparative model
+any base pairs
+IUPAC symbols other
+G C A
+U
+Prediction Accuracy Calculations
+Methods
+
+The_DD class_NN label_NN for_II each_DD test_NN sample_NN is_VBZ determined_VVN by_II averaging_VVGN all_DD 10_MC of_II its_PNG SVM_NN scores_NNS and_CC it_PN is_VBZ based_VVN on_II this_DD value_NN that_CST the_DD sample_NN is_VBZ classified_VVN ._. 
+ The class label for each test sample is determined by averaging all 10 of its SVM scores and it is based on this value that the sample is classified .
+The class label
+each test sample
+all
+SVM scores
+this value
+the sample
+
+Alternately_RR the_DD user_NN can_VM designate_VVB the_DD occupancy_NN and_CC /_SYM or_CC B_NN factor_NN to_II search_NN for_II particular_JJ residues_NNS or_CC residue_NN sets_NNS of_II interest_NN ._. 
+ Alternately the user can designate the occupancy and/or B factor to search for particular residues or residue sets of interest .
+the user
+the occupancy
+B factor
+search
+particular residues
+residue sets
+interest
+
+An_DD alternative_JJ way_NN to_TO apply_VVI non_JJ linear_JJ normalisation_NN is_VBZ to_TO use_VVI quantiles_NNS 28_MC ._. 
+ An alternative way to apply non linear normalisation is to use quantiles 28 .
+An alternative way
+non linear normalisation
+quantiles
+
+These_DD artificial_JJ repeats_NNS were_VBD compared_VVN to_II the_DD RE_NN nucleic_JJ acid_NN sequences_NNS using_VVG ClustalW_NN to_TO find_VVI RS_NN like_II oligonucleotides_NNS ._. 
+ These artificial repeats were compared to the RE nucleic acid sequences using ClustalW to find RS like oligonucleotides .
+These artificial repeats
+the RE nucleic acid sequences
+ClustalW
+RS
+oligonucleotides
+
+In_II another_DD work_NN Bunescu_NN et_CC al_JJ restricted_VVNJ feature_NN classes_NNS to_II those_PND within_II dependency_NN paths_NNS but_CC simply_RR calculated_VVN the_DD number_NN of_II co_JJ occurring_VVGJ features_NNS as_II the_DD kernel_NN score_NN 39_MC ._. 
+ In another work Bunescu et al restricted feature classes to those within dependency paths but simply calculated the number of co occurring features as the kernel score 39 .
+another work Bunescu
+al
+feature classes
+dependency paths
+the number
+co
+features
+the kernel score
+
+Furthermore_RR our_PNG retention_NN time_NN prediction_NN model_NN is_VBZ based_VVN on_II a_DD new_JJ kernel_NN function_NN in_II conjunction_NN with_II support_NN vector_NN regression_NN 24_MC which_PNR allows_VVZ us_JJ to_TO predict_VVI peptide_NN retention_NN times_NNS very_RR accurately_RR requiring_VVG only_RR a_DD very_RR small_JJ amount_NN of_II training_VVGN data_NNS ._. 
+ Furthermore our retention time prediction model is based on a new kernel function in conjunction with support vector regression 24 which allows us to predict peptide retention times very accurately requiring only a very small amount of training data .
+retention time prediction model
+a new kernel function
+conjunction
+support vector regression
+us
+peptide retention times
+a
+small amount
+data
+
+The_DD DNA_NN microarray_NN 2_MC is_VBZ another_DD good_JJ application_NN of_II nucleic_JJ acid_NN hybridization_NN technology_NN ._. 
+ The DNA microarray 2 is another good application of nucleic acid hybridization technology .
+The DNA microarray
+another good application
+nucleic acid hybridization technology
+
+Finally_RR all_DD significant_JJ clusters_NNS in_II which_PNR the_DD number_NN of_II elements_NNS belonging_VVG to_II the_DD class_NN that_PNR is_VBZ being_VBG considered_VVN is_VBZ lower_JJR than_CSN 2_MC are_VBB also_RR discarded_VVN ._. 
+ Finally all significant clusters in which the number of elements belonging to the class that is being considered is lower than 2 are also discarded .
+all significant clusters
+the number
+elements
+the class
+
+We_PN thus_RR are_VBB considering_VVG all_DD possible_JJ sequence_NN alignments_NNS and_CC weighing_NN them_PN appropriately_RR see_VVB 23_MC according_II+ to_II our_PNG indel_NN model_NN ._. 
+ We thus are considering all possible sequence alignments and weighing them appropriately see 23 according to our indel model .
+all possible sequence alignments
+weighing
+indel model
+
+Other_JJ advantages_NNS include_VVB the_DD ability_NN to_TO characterize_VVI relationships_NNS between_II genes_NNS and_CC the_DD changes_NNS in_II biological_JJ processes_NNS such_II+ as_II disease_NN states_NNS developmental_JJ stages_NNS and_CC responses_NNS to_II drugs_NNS 10_MC 11_MC ._. 
+ Other advantages include the ability to characterize relationships between genes and the changes in biological processes such as disease states developmental stages and responses to drugs 10 11 .
+Other advantages
+the ability
+relationships
+genes
+the changes
+biological processes
+disease states developmental stages
+responses
+drugs
+
+The_DD pull_JJ down_NN DNA_NN fragments_NNS are_VBB PCR_NN amplified_VVNJ and_CC co_JJ hybridized_NN with_II a_DD whole_JJ genome_NN sample_NN to_TO generate_VVI a_DD two_MC color_JJ image_NN ._. 
+ The pull down DNA fragments are PCR amplified and co hybridized with a whole genome sample to generate a two color image .
+The pull down DNA fragments
+PCR
+co hybridized
+a whole genome sample
+a
+color image
+
+In_II AL_NN the_DD distance_NN between_II two_MC clusters_NNS is_VBZ calculated_VVN by_II the_DD average_JJ distance_NN between_II the_DD samples_NNS in_II one_MC group_NN and_CC the_DD samples_NNS in_II the_DD other_JJ group_NN ._. 
+ In AL the distance between two clusters is calculated by the average distance between the samples in one group and the samples in the other group .
+AL the distance
+clusters
+the average distance
+the samples
+group
+the samples
+the other group
+
+Whenever_RR a_DD stopping_VVGJ criterion_NN for_II one_MC of_II the_DD reactions_NNS is_VBZ reached_VVN the_DD integration_NN is_VBZ interrupted_VVN and_CC the_DD corresponding_VVGJ reaction_NN event_NN is_VBZ instantiated_VVN ._. 
+ Whenever a stopping criterion for one of the reactions is reached the integration is interrupted and the corresponding reaction event is instantiated .
+a
+criterion
+the reactions
+the integration
+the
+reaction event
+
+For_II example_NN genes_NNS that_PNR cluster_NN specifically_RR with_II other_JJ genes_NNS from_II a_DD more_RR distantly_RR related_VVNJ species_NNS rather_RR than_CSN with_II genes_NNS from_II a_DD closely_RR related_VVNJ species_NNS are_VBB often_RR inferred_VVN to_TO have_VHI been_VBN horizontally_RR transferred_VVN ._. 
+ For example genes that cluster specifically with other genes from a more distantly related species rather than with genes from a closely related species are often inferred to have been horizontally transferred .
+example genes
+cluster
+other genes
+a
+species
+genes
+a
+species
+
+Just_CS+ as_CS common_JJ function_NN can_VM be_VBB inferred_VVN between_II homologous_JJ proteins_NNS homologous_JJ interaction_NN can_VM be_VBB used_VVN to_TO infer_VVI interaction_NN between_II homologues_NNS of_II interacting_VVGJ proteins_NNS ._. 
+ Just as common function can be inferred between homologous proteins homologous interaction can be used to infer interaction between homologues of interacting proteins .
+common function
+homologous proteins homologous interaction
+interaction
+homologues
+proteins
+
+We_PN decide_VVB to_II circumvent_NN this_DD problem_NN by_II considering_VVG the_DD set_NN of_II all_DD possible_JJ alignments_NNS and_CC their_PNG corresponding_VVGJ likelihood_NN under_II our_PNG model_NN as_CS opposed_VVN to_II a_DD fixed_VVNJ optimal_JJ alignment_NN ._. 
+ We decide to circumvent this problem by considering the set of all possible alignments and their corresponding likelihood under our model as opposed to a fixed optimal alignment .
+circumvent this problem
+the set
+all possible alignments
+likelihood
+model
+a
+optimal alignment
+
+Chen_NN et_CC alpredict_JJ mucin_NN glycosylation_NN sites_NNS using_VVG k_NN spaced_VVNJ pairwise_NN patterns_NNS and_CC support_NN vector_NN machines_NN ._. 
+ Chen et alpredict mucin glycosylation sites using k spaced pairwise patterns and support vector machines .
+Chen
+alpredict mucin glycosylation sites
+k
+pairwise patterns
+support vector machines
+
+In_II future_JJ studies_NNS the_DD use_NN of_II longer_JJR sequences_NNS that_PNR form_VVB higher_JJR order_NN structures_NNS will_VM generate_VVB more_RR specific_JJ peptide_NN inhibitors_NNS from_II in_II silico_NN panning_VVGN ._. 
+ In future studies the use of longer sequences that form higher order structures will generate more specific peptide inhibitors from in silico panning .
+future studies the use
+sequences
+order structures
+specific peptide inhibitors
+silico
+
+For_II instance_NN the_DD event_NN whereby_CST Alice_NN repairs_VVZ instrument_NN 1000_MC is_VBZ stored_VVN as_II instrument_NN repair_NN event_NN number_NN 1234_NN is_VBZ done_VDN on_II instrument_NN 1000_MC and_CC is_VBZ done_VDN by_II Alice_NN ._. 
+ For instance the event whereby Alice repairs instrument 1000 is stored as instrument repair event number 1234 is done on instrument 1000 and is done by Alice .
+instance the event
+Alice
+instrument
+instrument repair event number 1234
+instrument
+Alice
+
+Relationships_NNS between_II pathway_NN summary_NN expressions_NNS p_NN and_CC individual_JJ gene_NN expressions_NNS g_VVG for_II which_PNR the_DD gene_NN is_VBZ not_RR already_RR a_DD known_VVNJ member_NN of_II the_DD pathway_NN may_VM then_RR be_VBB compared_VVN between_II two_MC phenotypes_NNS ._. 
+ Relationships between pathway summary expressions p and individual gene expressions g for which the gene is not already a known member of the pathway may then be compared between two phenotypes .
+Relationships
+pathway summary expressions p
+individual gene expressions
+the gene
+a
+member
+the pathway
+phenotypes
+
+We_PN have_VHB illustrated_VVN a_DD procedure_NN for_II identifying_VVGN interesting_VVGJ feature_NN sets_NNS of_II genes_NNS to_TO distinguish_VVI a_DD tumor_NN class_NN from_II a_DD set_NN of_II normal_JJ tissues_NNS from_II large_JJ scale_NN systematic_JJ gene_NN expression_NN data_NNS sets_VVZ obtained_VVN by_II DNA_NN microarrays_NNS ._. 
+ We have illustrated a procedure for identifying interesting feature sets of genes to distinguish a tumor class from a set of normal tissues from large scale systematic gene expression data sets obtained by DNA microarrays .
+a procedure
+feature sets
+genes
+a tumor class
+a set
+normal tissues
+large scale systematic gene expression data
+DNA microarrays
+
+The_DD spatial_JJ trend_NN is_VBZ estimated_VVN from_II these_DD centered_VVNJ log_NN ratios_NNS ._. 
+ The spatial trend is estimated from these centered log ratios .
+The spatial trend
+these
+log ratios
+
+As_CS shown_VVN in_II Dumais_NN et_CC al_NN 9_MC this_PND can_VM be_VBB used_VVN to_TO improve_VVI the_DD recall_NN of_II a_DD synonym_NN classifier_NN although_CS at_II the_DD cost_NN of_II its_PNG precision_NN ._. 
+ As shown in Dumais et al 9 this can be used to improve the recall of a synonym classifier although at the cost of its precision .
+Dumais
+al
+the recall
+a synonym classifier
+the cost
+precision
+
+Rescue_NN ESE_NN identified_VVD candidate_NN exonic_JJ splicing_VVGJ enhancers_NNS in_II vertebrate_NN exons_NNS based_VVN on_II their_PNG statistical_JJ features_NNS ._. 
+ Rescue ESE identified candidate exonic splicing enhancers in vertebrate exons based on their statistical features .
+Rescue ESE
+candidate exonic
+enhancers
+vertebrate exons
+statistical features
+
+PromoterInspector_NN program_NN 9_MC was_VBD the_DD first_JJ software_NN tool_NN used_VVN to_TO identify_VVI the_DD promoters_NNS in_II human_NN chromosome_NN 22_MC ._. 
+ PromoterInspector program 9 was the first software tool used to identify the promoters in human chromosome 22 .
+PromoterInspector program
+the first software tool
+the promoters
+human chromosome
+
+TFBS_NN prediction_NN is_VBZ usually_RR attempted_VVN using_VVG position_NN weight_NN matrices_NNS PWMs_NN 2_MC 4_NN ._. 
+ TFBS prediction is usually attempted using position weight matrices PWMs 2 4 .
+TFBS prediction
+position weight matrices PWMs
+4
+
+Even_RR information_NN on_II the_DD predicted_VVNJ class_NN of_II the_DD neighboring_NN tokens_NNS does_VDZ not_RR improve_VVB our_PNG results_NNS ._. 
+ Even information on the predicted class of the neighboring tokens does not improve our results .
+information
+the
+class
+the neighboring tokens
+results
+
+Our_PNG study_NN provides_VVZ an_DD investigation_NN of_II the_DD functional_JJ organization_NN of_II five_MC coexpression_NN networks_NNS using_VVG data_NNS from_II three_MC mammalian_JJ organisms_NNS ._. 
+ Our study provides an investigation of the functional organization of five coexpression networks using data from three mammalian organisms .
+study
+an investigation
+the functional organization
+coexpression networks
+data
+mammalian organisms
+
+Unigenic_JJ evolution_NN is_VBZ a_DD powerful_JJ genetic_JJ strategy_NN involving_VVG random_JJ mutagenesis_NN of_II a_DD single_JJ gene_NN product_NN to_TO delineate_VVI functionally_RR important_JJ domains_NNS of_II a_DD protein_NN ._. 
+ Unigenic evolution is a powerful genetic strategy involving random mutagenesis of a single gene product to delineate functionally important domains of a protein .
+Unigenic evolution
+a powerful genetic strategy
+random mutagenesis
+a single gene product
+important domains
+a protein
+
+1_MC Random_JJ From_II Data_NNS RFD_NN k_NN randomly_RR selected_VVNJ genes_NNS vectors_NNS are_VBB used_VVN as_II the_DD starting_VVGJ centroids_NNS ._. 
+ 1 Random From Data RFD k randomly selected genes vectors are used as the starting centroids .
+Random
+Data RFD k
+genes vectors
+the
+centroids
+
+Sequences_NNS are_VBB randomly_RR selected_VVN on_II this_DD basis_NN ._. 
+ Sequences are randomly selected on this basis .
+Sequences
+this basis
+
+Then_RR for_II all_DB the_DD ambiguous_JJ individuals_NNS with_II more_RR than_CSN one_MC heterozygous_JJ site_NN it_PN picks_VVZ up_II a_DD compatible_JJ haplotype_NN from_II that_CST list_NN and_CC adds_VVZ the_DD complementary_JJ haplotype_NN to_RR continue_VVB the_DD process_NN ._. 
+ Then for all the ambiguous individuals with more than one heterozygous site it picks up a compatible haplotype from that list and adds the complementary haplotype to continue the process .
+all the ambiguous individuals
+heterozygous site
+a compatible haplotype
+list
+the complementary haplotype
+the process
+
+We_PN have_VHB therefore_RR chosen_VVN to_TO use_VVI a_DD variant_NN of_II PLSR_NN called_VVN Bridge_NN PLSR_NN 14_MC ._. 
+ We have therefore chosen to use a variant of PLSR called Bridge PLSR 14 .
+a variant
+PLSR
+Bridge PLSR
+
+By_II this_DD strategy_NN we_PN were_VBD able_JJ to_TO provide_VVI functional_JJ clues_NNS to_II proteins_NNS that_PNR do_VDB not_RR show_VVB any_DD significant_JJ sequence_NN or_CC global_JJ structural_JJ similarity_NN with_II proteins_NNS in_II the_DD current_JJ databases_NNS ._. 
+ By this strategy we were able to provide functional clues to proteins that do not show any significant sequence or global structural similarity with proteins in the current databases .
+this strategy
+able
+functional clues
+proteins
+any significant sequence
+global structural similarity
+proteins
+the current databases
+
+We_PN have_VHB named_VVN this_DD array_NN area_NN map_NN as_CS it_PN in_II fact_NN maps_VVZ the_DD total_JJ area_NN of_II each_DD object_NN to_II its_PNG centroid_JJ ._. 
+ We have named this array area map as it in fact maps the total area of each object to its centroid .
+this array area map
+fact
+the total area
+each object
+centroid
+
+Each_DD network_NN outputs_VVZ a_DD score_NN in_II the_DD range_NN 0.000_MC 1.000_MC where_CS scores_NNS below_II 0.5_MC indicate_VVB non_JJ cleavage_NN and_CC scores_NNS above_II 0.5_MC indicate_VVB potential_JJ cleavage_NN ._. 
+ Each network outputs a score in the range 0.000 1.000 where scores below 0.5 indicate non cleavage and scores above 0.5 indicate potential cleavage .
+Each network
+a score
+the range
+scores
+non cleavage
+scores
+potential cleavage
+
+The_DD global_JJ lowess_NN normalization_NN is_VBZ carried_VVN out_II first_JJ and_CC takes_VVZ dye_NN biases_NNS into_II account_NN ._. 
+ The global lowess normalization is carried out first and takes dye biases into account .
+The global lowess normalization
+first
+dye biases
+account
+
+The_DD final_JJ estimated_VVNJ accuracy_NN of_II this_DD artificial_JJ annotation_NN is_VBZ the_DD percentage_NN of_II true_JJ LORF_NN ._. 
+ The final estimated accuracy of this artificial annotation is the percentage of true LORF .
+The final
+accuracy
+this artificial annotation
+the percentage
+true LORF
+
+It_PN is_VBZ implemented_VVN using_VVG the_DD R_NN statistical_JJ language_NN in_II the_DD limma_NN bioconductor_NN package_NN 40_MC ._. 
+ It is implemented using the R statistical language in the limma bioconductor package 40 .
+the R statistical language
+the limma bioconductor package
+
+The_DD computationally_RR reconstituted_VVNJ tissue_NN profile_NN Swas_NN either_CC not_RR further_RR normalized_VVN or_CC normalized_VVN by_II local_JJ regression_NN ._. 
+ The computationally reconstituted tissue profile Swas either not further normalized or normalized by local regression .
+The
+tissue profile Swas
+local regression
+
+If_CS the_DD results_NNS of_II automatic_JJ alignment_NN are_VBB unsatisfactory_JJ semiautomatic_JJ alignment_NN is_VBZ possible_JJ ._. 
+ If the results of automatic alignment are unsatisfactory semiautomatic alignment is possible .
+the results
+automatic alignment
+unsatisfactory semiautomatic alignment
+possible
+
+A_DD Gaussian_JJ Mixture_NN Model_NN GMM_NN is_VBZ employed_VVN to_TO estimate_VVI the_DD distribution_NN of_II each_DD existing_VVGJ phenotype_NN and_CC then_RR used_VVN as_II reference_NN distribution_NN in_II gap_NN statistics_NNS ._. 
+ A Gaussian Mixture Model GMM is employed to estimate the distribution of each existing phenotype and then used as reference distribution in gap statistics .
+A Gaussian Mixture Model GMM
+the distribution
+each
+phenotype
+reference distribution
+gap statistics
+
+java_NN is_VBZ available_JJ from_II the_DD STRAP_NN website_NN ._. 
+ java is available from the STRAP website .
+java
+available
+the STRAP website
+
+In_II effect_NN BEA_NN was_VBD capable_JJ to_TO detect_VVI relationships_NNS among_II proteins_NNS by_II relying_VVGN on_II the_DD presence_NN or_CC absence_NN of_II third_JJ party_NN proteins_NNS ._. 
+ In effect BEA was capable to detect relationships among proteins by relying on the presence or absence of third party proteins .
+effect BEA
+capable
+relationships
+proteins
+the presence
+absence
+third party proteins
+
+A_DD simple_JJ estimate_NN of_II the_DD correct_JJ rates_NNS can_VM be_VBB obtained_VVN by_II using_VVGN the_DD same_JJ learning_VVGJ dataset_NN as_II the_DD testing_VVGN one_MC ._. 
+ A simple estimate of the correct rates can be obtained by using the same learning dataset as the testing one .
+A simple estimate
+the correct rates
+the same
+dataset
+the
+
+Furthermore_RR we_PN show_VVB that_CST our_PNG design_NN compares_VVZ favorably_JJ in_II terms_NNS of_II efficiency_NN to_II the_DD previously_RR described_VVN non_JJ adaptive_JJ combinatorial_NN pooling_VVGJ designs_NNS ._. 
+ Furthermore we show that our design compares favorably in terms of efficiency to the previously described non adaptive combinatorial pooling designs .
+design
+favorably
+terms
+efficiency
+the
+non adaptive combinatorial
+designs
+
+Among_II these_DD four_MC factors_NNS the_DD latter_NN two_MC are_VBB obtained_VVN from_II the_DD primary_JJ sequence_NN while_CS the_DD former_JJ two_MC are_VBB extracted_VVN from_II the_DD secondary_JJ structures_NNS predicted_VVN using_VVG Proteus_NN ._. 
+ Among these four factors the latter two are obtained from the primary sequence while the former two are extracted from the secondary structures predicted using Proteus .
+these
+factors the latter
+the primary sequence
+the former
+the secondary structures
+Proteus
+
+We_PN implemented_VVD a_DD stochastic_JJ coupling_VVGN scheme_NN to_TO be_VBI able_JJ to_TO couple_VVI the_DD simulated_VVNJ enzyme_NN to_II arbitrary_JJ simulated_VVNJ or_CC experimental_JJ calcium_NN time_NN series_NN ._. 
+ We implemented a stochastic coupling scheme to be able to couple the simulated enzyme to arbitrary simulated or experimental calcium time series .
+a stochastic
+scheme
+able
+the
+enzyme
+arbitrary
+experimental calcium time series
+
+Then_RR the_DD intersection_NN is_VBZ obtained_VVN by_II checking_VVGN whether_CST each_DD working_VVGJ list_NN element_NN corresponds_VVZ to_II a_DD value_NN of_II true_JJ in_II the_DD boolean_NN array_NN ._. 
+ Then the intersection is obtained by checking whether each working list element corresponds to a value of true in the boolean array .
+the intersection
+each
+list element
+a value
+true
+the boolean array
+
+Some_DD tools_NNS such_II+ as_II DAVID_NN 5_MC and_CC FatiGO_NNP 6_MC examine_VVB the_DD percentage_NN of_II the_DD gene_NN list_NN that_PNR is_VBZ directly_RR associated_VVN with_II a_DD node_NN of_II the_DD knowledgebase_NN ._. 
+ Some tools such as DAVID 5 and FatiGO 6 examine the percentage of the gene list that is directly associated with a node of the knowledgebase .
+Some tools
+DAVID
+FatiGO
+the percentage
+the gene list
+a node
+the knowledgebase
+
+Selecting_VVGJ proteins_NNS from_II the_DD table_NN will_VM show_VVB the_DD full_JJ protein_NN sequence_NN and_CC highlight_VVI the_DD repeated_VVNJ regions_NNS allowing_VVG users_NNS to_TO determine_VVI the_DD full_JJ repeat_NN motif_NN ._. 
+ Selecting proteins from the table will show the full protein sequence and highlight the repeated regions allowing users to determine the full repeat motif .
+proteins
+the table
+the full protein sequence
+the
+regions
+users
+the full repeat motif
+
+A_DD common_JJ way_NN to_TO tackle_VVI this_DD problem_NN is_VBZ to_TO use_VVI database_NN searches_NNS to_TO find_VVI proteins_NNS similar_JJ to_II a_DD newly_RR discovered_VVD protein_NN thus_RR inferring_VVGJ protein_NN function_NN ._. 
+ A common way to tackle this problem is to use database searches to find proteins similar to a newly discovered protein thus inferring protein function .
+A common way
+this problem
+database searches
+proteins similar
+a
+protein
+protein function
+
+Sequence_NN signatures_NNS derived_VVN from_II characteristic_JJ variant_NN patterns_NNS provide_VVB for_II a_DD concise_JJ and_CC understandable_VVI representation_NN of_II individual_JJ sequences_NNS and_CC evolving_VVGJ strains_NNS while_CS the_DD timelines_NNS assembled_VVN from_II signatures_NNS of_II historical_JJ sequences_NNS are_VBB a_DD helpful_JJ tool_NN for_II understanding_VVGN the_DD emergence_NN of_II specific_JJ characteristics_NNS ._. 
+ Sequence signatures derived from characteristic variant patterns provide for a concise and understandable representation of individual sequences and evolving strains while the timelines assembled from signatures of historical sequences are a helpful tool for understanding the emergence of specific characteristics .
+Sequence signatures
+characteristic variant patterns
+a concise
+representation
+individual sequences
+strains
+the timelines
+signatures
+historical sequences
+a helpful tool
+the emergence
+specific characteristics
+
+Based_VVN on_II one_MC of_II them_PN Mandell_RR et_CC al28_NN have_VHB found_VVN that_CST the_DD number_NN of_II protein_NN secondary_JJ structure_NN segments_NNS is_VBZ related_VVN to_II the_DD coefficients_NN cycles_NNS at_II certain_JJ scale_NN calculated_VVN by_II continuous_JJ wavelet_NN transform_NN CWT_NN ._. 
+ Based on one of them Mandell et al28 have found that the number of protein secondary structure segments is related to the coefficients cycles at certain scale calculated by continuous wavelet transform CWT .
+al28
+the number
+protein secondary structure segments
+the coefficients cycles
+certain scale
+continuous wavelet transform CWT
+
+The_DD eQTL_NN locations_NNS from_II these_DD individual_JJ analyses_NNS for_II all_DD genes_NNS are_VBB then_RR superimposed_VVN to_TO identify_VVI common_JJ regions_NNS that_PNR control_VVB the_DD expression_NN of_II a_DD large_JJ number_NN of_II genes_NNS i_VVB ._PN econtain_VVB broad_JJ effect_NN eQTLs_NNS ._. 
+ The eQTL locations from these individual analyses for all genes are then superimposed to identify common regions that control the expression of a large number of genes i.econtain broad effect eQTLs .
+The eQTL locations
+these individual analyses
+all genes
+common regions
+the expression
+a large number
+genes
+broad effect eQTLs
+
+Then_RR for_II every_DD pair_NN of_II seeds_NNS with_II distance_NN 1000_MC XSTREAM_NN initially_RR invokes_VVZ a_DD filtration_NN step_NN which_PNR jumps_NNS across_II Ma_DD user_JJ defined_VVNJ number_NN of_II times_NNS t_VVB and_CC looks_NNS for_II matching_VVGJ hashcodes_NNS ._. 
+ Then for every pair of seeds with distance 1000 XSTREAM initially invokes a filtration step which jumps across Ma user defined number of times t and looks for matching hashcodes .
+every pair
+seeds
+distance
+XSTREAM
+a filtration step
+jumps
+Ma user
+number
+times
+looks
+hashcodes
+
+Raftery_NN 62_MC gave_VVD further_RR empirical_JJ evidence_NN for_II the_DD accuracy_NN of_II this_DD approximation_NN ._. 
+ Raftery 62 gave further empirical evidence for the accuracy of this approximation .
+Raftery
+empirical evidence
+the accuracy
+this approximation
+
+Finally_RR to_TO account_VVI for_II the_DD multiplicity_NN of_II comparisons_NNS the_DD most_RRT significant_JJ curves_NNS are_VBB selected_VVN by_II controlling_VVGN q_NN values_NNS using_VVG an_DD FDR_NN like_II procedure_NN 30_MC ._. 
+ Finally to account for the multiplicity of comparisons the most significant curves are selected by controlling q values using an FDR like procedure 30 .
+the multiplicity
+comparisons the
+significant curves
+q values
+an FDR
+procedure
+
+Among_II three_MC strategies_NNS to_TO combine_VVI multiple_JJ datasets_NNS concatenate_VVB feature_NN vectors_NNS combine_VVB the_DD kernels_NNS or_CC combine_VVB the_DD discriminant_NN values_NNS we_PN chose_VVB the_DD strategy_NN to_TO combine_VVI the_DD kernels_NNS which_PNR Pavlidis_NN et_CC alfound_VVN to_TO produce_VVI the_DD best_JJT performance_NN 10_MC ._. 
+ Among three strategies to combine multiple datasets concatenate feature vectors combine the kernels or combine the discriminant values we chose the strategy to combine the kernels which Pavlidis et alfound to produce the best performance 10 .
+strategies
+multiple datasets
+feature vectors
+the kernels
+the discriminant values
+the strategy
+the kernels
+Pavlidis
+the
+performance
+
+If_CS this_DD probability_NN is_VBZ high_JJ and_CC the_DD model_NN is_VBZ good_JJ one_NN may_VM infer_VVB that_CST the_DD sequences_NNS are_VBB likely_RR to_TO be_VBI homologs_NNS ._. 
+ If this probability is high and the model is good one may infer that the sequences are likely to be homologs .
+this probability
+high
+the model
+good one
+the sequences
+homologs
+
+The_DD most_RRT common_JJ form_NN of_II robust_JJ regression_NN is_VBZ to_TO iteratively_RR weight_NN points_NNS based_VVN on_II their_PNG distance_NN from_II the_DD curve_NN ._. 
+ The most common form of robust regression is to iteratively weight points based on their distance from the curve .
+The
+common form
+robust regression
+weight points
+distance
+the curve
+
+In_II the_DD first_JJ one_MC the_DD selected_VVNJ subset_NN starts_VVZ empty_JJ and_CC features_NNS are_VBB inserted_VVN by_II optimizing_VVGN a_DD criterion_NN function_NN until_II a_DD stop_NN condition_NN is_VBZ satisfied_VVN which_PNR is_VBZ often_RR based_VVN on_II the_DD subset_NN size_NN or_CC a_DD threshold_NN ._. 
+ In the first one the selected subset starts empty and features are inserted by optimizing a criterion function until a stop condition is satisfied which is often based on the subset size or a threshold .
+the first
+the
+subset
+empty
+features
+a criterion function
+a stop condition
+the subset size
+a threshold
+
+For_II example_NN Pathway_NN Processor_NN 7_MC puts_VVZ several_JJ generated_VVNJ gene_NN expression_NN values_NNS at_II the_DD same_JJ position_NN on_II a_DD corresponding_VVGJ KEGG_NN static_JJ image_NN when_CS it_PN visualizes_VVB pathways_NNS ._. 
+ For example Pathway Processor 7 puts several generated gene expression values at the same position on a corresponding KEGG static image when it visualizes pathways .
+example Pathway Processor
+several
+gene expression values
+the same position
+a
+KEGG static image
+pathways
+
+Lander_NNP et_CC al2_NN introduced_VVD a_DD Hidden_NNP Markov_NNP Model_NN HMM_NN where_PNR the_DD meiosis_NN indicators_NNS are_VBB the_DD unobserved_VVNJ variables_NNS ._. 
+ Lander et al2 introduced a Hidden Markov Model HMM where the meiosis indicators are the unobserved variables .
+Lander
+al2
+a Hidden Markov Model HMM
+the meiosis indicators
+the
+variables
+
+The_DD microarray_NN design_NN procedure_NN described_VVN here_RR could_VM also_RR be_VBB used_VVN for_II multi_JJ species_NNS or_CC cross_NN species_NN microarray_NN design_NN in_II a_DD scenario_RR where_CS the_DD sequences_NNS with_II high_JJ similarity_NN from_II different_JJ species_NN cross_NN hybridize_NN to_II each_DD other_JJ 32_NN but_CC not_RR necessary_JJ be_VBB assembled_VVN into_II contigs_NNS ._. 
+ The microarray design procedure described here could also be used for multi species or cross species microarray design in a scenario where the sequences with high similarity from different species cross hybridize to each other 32 but not necessary be assembled into contigs .
+The microarray design procedure
+multi species
+cross species microarray design
+a
+the sequences
+high similarity
+different species cross hybridize
+each other 32
+necessary
+contigs
+
+A_DD good_JJ agreement_NN was_VBD observed_VVN between_II computed_VVNJ E_NN values_NNS and_CC simulations_NNS for_II a_DD number_NN of_II complete_JJ RNA_NN motifs_NNS ._. 
+ A good agreement was observed between computed E values and simulations for a number of complete RNA motifs .
+A good agreement
+E values
+simulations
+a number
+complete RNA motifs
+
+In_II such_DD cases_NNS using_VVG spatial_JJ trend_NN correction_NN after_II spatial_JJ segmentation_NN helps_JJ to_TO remove_VVI or_CC reduce_VVB these_DD two_MC types_NNS of_II spatial_JJ effect_NN while_CS preserving_VVGN the_DD true_JJ biological_JJ signal_NN ._. 
+ In such cases using spatial trend correction after spatial segmentation helps to remove or reduce these two types of spatial effect while preserving the true biological signal .
+such cases
+spatial trend correction
+spatial segmentation helps
+these
+types
+spatial effect
+the true biological signal
+
+The_DD preliminary_JJ results_NNS presented_VVN here_RR suggest_VVB that_CST in_II general_JJ useful_JJ information_NN was_VBD obtained_VVN once_RR approximately_RR 10_MC of_II edges_NNS were_VBD removed_VVN from_II Y2H_NN datasets_NNS and_CC a_DD slightly_RR higher_JJR proportion_NN 25_MC from_II affinity_NN purification_NN data_NNS ._. 
+ The preliminary results presented here suggest that in general useful information was obtained once approximately 10 of edges were removed from Y2H datasets and a slightly higher proportion 25 from affinity purification data .
+The preliminary results
+general useful information
+edges
+Y2H datasets
+a
+proportion
+affinity purification data
+
+If_CS the_DD number_NN of_II pre_RR classified_VVN points_NNS is_VBZ large_JJ it_PN makes_VVZ sense_NN to_TO use_VVI the_DD majority_NN vote_NN of_II the_DD nearest_JJT k_NN neighbors_NN ._. 
+ If the number of pre classified points is large it makes sense to use the majority vote of the nearest k neighbors .
+the number
+points
+large
+sense
+the majority vote
+the
+k neighbors
+
+An_DD important_JJ conclusion_NN from_II the_DD spike_NN in_II experiment_NN is_VBZ that_CST the_DD background_NN normalisation_NN recommended_VVN by_II Illumina_NN is_VBZ not_RR appropriate_JJ for_II some_DD DE_NN analyses_NNS ._. 
+ An important conclusion from the spike in experiment is that the background normalisation recommended by Illumina is not appropriate for some DE analyses .
+An important conclusion
+the spike
+experiment
+the background normalisation
+Illumina
+appropriate
+some DE analyses
+
+In_II this_PND report_VVB we_PN used_VVD topological_JJ indices_NNS to_II catalogue_NN and_CC to_TO classify_VVI RNA_NN structures_NNS based_VVN on_II the_DD correlations_NNS between_II conserved_VVNJ RNA_NN secondary_JJ structures_NNS and_CC topological_JJ indices_NNS ._. 
+ In this report we used topological indices to catalogue and to classify RNA structures based on the correlations between conserved RNA secondary structures and topological indices .
+topological indices
+catalogue
+RNA structures
+the correlations
+RNA secondary structures
+topological indices
+
+pTARGET_NN 22_MC predicts_NNS subcellular_JJ localization_NN using_VVG amino_JJ acid_NN composition_NN in_II combination_NN with_II location_NN specific_JJ PFAM_NN domains_NNS 23_MC ._. 
+ pTARGET 22 predicts subcellular localization using amino acid composition in combination with location specific PFAM domains 23 .
+pTARGET
+predicts subcellular localization
+amino acid composition
+combination
+location specific PFAM domains
+
+We_PN start_NN with_II phase_NN classification_NN assigning_VVG each_DD gene_NN a_DD phase_NN based_VVN on_II maximal_JJ correlation_NN to_II an_DD ideal_JJ cosine_NN curve_NN ._. 
+ We start with phase classification assigning each gene a phase based on maximal correlation to an ideal cosine curve .
+start
+phase classification
+each gene a phase
+maximal correlation
+an ideal cosine curve
+
+The_DD phase_NN shift_NN lag_NN that_PNR produces_VVZ the_DD highest_JJT correlation_NN coefficient_NN is_VBZ assumed_VVN to_TO be_VBI the_DD most_RRT likely_JJ phase_NN of_II a_DD particular_JJ profile_NN ._. 
+ The phase shift lag that produces the highest correlation coefficient is assumed to be the most likely phase of a particular profile .
+The phase shift lag
+the
+correlation coefficient
+the
+likely phase
+a particular profile
+
+Within_II BeadScan_VVGN the_DD local_JJ background_NN measures_NNS are_VBB subtracted_VVN from_II the_DD bead_NN foreground_NN values_NNS to_TO produce_VVI the_DD intensities_NNS in_II the_DD bead_NN level_NN text_NN files_NNS ._. 
+ Within BeadScan the local background measures are subtracted from the bead foreground values to produce the intensities in the bead level text files .
+the local background measures
+the bead foreground values
+the intensities
+the bead level text files
+
+The_DD Ito_NNP dataset_NN see_VVB below_II took_NN 24_MC h_NN when_CS 500_MC edges_NNS were_VBD removed_VVN ._. 
+ The Ito dataset see below took 24 h when 500 edges were removed .
+The Ito dataset
+took
+h
+edges
+
+These_DD two_MC issues_NNS are_VBB realistic_JJ in_II the_DD cis_NN regulatory_JJ motif_NN discovery_NN process_NN and_CC are_VBB representative_JJ of_II current_JJ problems_NNS in_II cis_NN regulatory_JJ motif_NN discovery_NN ._. 
+ These two issues are realistic in the cis regulatory motif discovery process and are representative of current problems in cis regulatory motif discovery .
+These
+issues
+realistic
+the cis regulatory motif discovery process
+representative
+current problems
+cis regulatory motif discovery
+
+The_DD best_RRT matching_VVGJ protein_NN sequence_NN returned_VVD by_II BLAST_NN for_II each_DD input_NN protein_NN was_VBD selected_VVN and_CC terms_NNS assigned_VVN to_TO it_VVI by_II curators_NNS were_VBD then_RR assigned_VVN as_II predicted_VVNJ term_NN for_II the_DD input_NN protein_NN ._. 
+ The best matching protein sequence returned by BLAST for each input protein was selected and terms assigned to it by curators were then assigned as predicted term for the input protein .
+The
+protein sequence
+BLAST
+each input protein
+terms
+curators
+term
+the input protein
+
+Average_JJ linkage_NN tries_NNS to_TO avoid_VVI these_DD effects_NNS by_II computing_VVGN the_DD average_NN ._. 
+ Average linkage tries to avoid these effects by computing the average .
+Average linkage tries
+these effects
+the average
+
+The_DD edges_NNS were_VBD then_RR marked_VVN as_II pixels_NNS of_II local_JJ maxima_NN in_II filter_NN response_NN ._. 
+ The edges were then marked as pixels of local maxima in filter response .
+The edges
+pixels
+local maxima
+filter response
+
+Perl_NN 23_MC scripts_NNS query_RR the_DD database_NN for_II BLAST_NN hits_VVZ along_RR with_II gene_NN indices_NNS to_TO determine_VVI the_DD number_NN of_II sequence_NN homolog_NN pairs_NNS that_PNR occur_VVB in_II consecutive_JJ order_NN ._. 
+ Perl 23 scripts query the database for BLAST hits along with gene indices to determine the number of sequence homolog pairs that occur in consecutive order .
+Perl
+scripts
+the database
+BLAST
+gene indices
+the number
+sequence homolog pairs
+consecutive order
+
+Within_II the_DD DNA_NN sequences_NNS gap_NN characters_NNS are_VBB coded_VVN as_II missing_VVGJ data_NNS and_CC the_DD gap_NN region_NN characters_NNS are_VBB then_RR placed_VVN at_II the_DD end_NN of_II each_DD sequence_NN ._. 
+ Within the DNA sequences gap characters are coded as missing data and the gap region characters are then placed at the end of each sequence .
+the DNA sequences gap characters
+data
+the gap region characters
+the end
+each sequence
+
+It_PN is_VBZ also_RR possible_JJ to_TO select_VVI patterns_NNS using_VVG thresholds_NNS on_II quality_NN scores_NNS ._. 
+ It is also possible to select patterns using thresholds on quality scores .
+possible
+patterns
+thresholds
+quality scores
+
+Each_DD expert_NN uses_VVZ a_DD subset_NN of_II the_DD data_NNS to_TO predict_VVI protein_NN interactions_NNS and_CC expert_NN predictions_NNS are_VBB combined_VVN such_CS+ that_CS the_DD weight_NN of_II each_DD expert_NN depends_VVZ on_II the_DD input_NN data_NNS for_II the_DD predicted_VVNJ protein_NN pair_NN ._. 
+ Each expert uses a subset of the data to predict protein interactions and expert predictions are combined such that the weight of each expert depends on the input data for the predicted protein pair .
+Each expert
+a subset
+the data
+protein interactions
+expert predictions
+the weight
+each expert
+the input data
+the
+protein pair
+
+Additionally_RR it_PN makes_VVZ an_DD extra_JJ 4.2_MC of_II correct_JJ classification_NN decisions_NNS when_CS only_RR the_DD highest_JJT scoring_VVGJ predictions_NNS were_VBD used_VVN to_TO infer_VVI classification_NN ._. 
+ Additionally it makes an extra 4.2 of correct classification decisions when only the highest scoring predictions were used to infer classification .
+an extra
+correct classification decisions
+the
+predictions
+classification
+
+Picard_NN et_CC al3_NN used_VVD a_DD piecewise_RR constant_JJ regression_NN model_NN where_PNR the_DD parameters_NNS are_VBB estimated_VVN maximizing_VVG a_DD penalized_VVNJ likelihood_NN i_NN ._. ethe_NN likelihood_NN with_II the_DD addition_NN of_II a_DD penalty_NN function_NN ._. 
+ Picard et al3 used a piecewise constant regression model where the parameters are estimated maximizing a penalized likelihood i.ethe likelihood with the addition of a penalty function .
+Picard
+al3
+a
+constant regression model
+the parameters
+a
+likelihood i.ethe likelihood
+the addition
+a penalty function
+
+The_DD de_NN noising_VVGN is_VBZ achieved_VVN using_VVG soft_JJ thresholding_NN or_CC penalization_NN so_RR that_PND for_II each_DD gene_NN class_NN centroids_NNS are_VBB shrunken_VVN towards_II the_DD overall_JJ centroid_NN ._. 
+ The de noising is achieved using soft thresholding or penalization so that for each gene class centroids are shrunken towards the overall centroid .
+The de
+soft thresholding
+penalization
+each gene class centroids
+the overall centroid
+
+Examples_NNS are_VBB PDBsum_NN 5_MC and_CC the_DD IMB_NN Jena_NN Image_NN Library_NN 6_MC ._. 
+ Examples are PDBsum 5 and the IMB Jena Image Library 6 .
+Examples
+PDBsum
+the IMB Jena Image Library
+
+A_DD high_JJ lodsratio_NN indicates_VVZ a_DD higher_JJR chance_NN of_II true_JJ differential_JJ expression_NN compared_VVN to_II a_DD low_JJ lodsratio_NN see_VVB also_RR Methods_NNS Parameter_NN estimation_NN ._. 
+ A high lodsratio indicates a higher chance of true differential expression compared to a low lodsratio see also Methods Parameter estimation .
+A high lodsratio
+a
+chance
+true differential expression
+a low lodsratio
+Methods Parameter estimation
+
+Pellegrini_NN et_CC al3_NN firstly_RR proposed_VVN a_DD phylogenetic_JJ profile_NN described_VVN as_II a_DD string_VVGN of_II bits_NNS each_PND bit_VVB representing_VVG the_DD absence_NN or_CC presence_NN of_II an_DD homologous_JJ gene_NN in_II a_DD given_VVNJ genome_NN ._. 
+ Pellegrini et al3 firstly proposed a phylogenetic profile described as a string of bits each bit representing the absence or presence of an homologous gene in a given genome .
+Pellegrini
+al3
+a phylogenetic profile
+a
+bits
+the absence
+presence
+an homologous gene
+a
+genome
+
+The_DD innovative_NN strategy_NN of_II ping_VVGN pong_VVGJ search_NN is_VBZ a_DD na_NNP ?_NNP ve_JJ path_NN map_NN retrieval_NN tool_NN for_II fly_NN interactome_NN based_VVN on_II the_DD shortest_NN paths_NNS between_II any_DD two_MC proteins_NNS collected_VVN in_II Fly_JJ DPI_NN ._. 
+ The innovative strategy of ping pong search is a na?ve path map retrieval tool for fly interactome based on the shortest paths between any two proteins collected in Fly DPI .
+The innovative strategy
+search
+a na?ve path map retrieval tool
+fly interactome
+the shortest paths
+any
+proteins
+Fly DPI
+
+For_II example_NN 40_MC similarity_NN on_II a_DD stretch_NN of_II 40_MC aa_NN converts_VVZ to_II 20_MC similarity_NN on_II an_DD 80_MC aa_NN window_NN ._. 
+ For example 40 similarity on a stretch of 40 aa converts to 20 similarity on an 80 aa window .
+example
+similarity
+a stretch
+aa
+similarity
+an
+aa window
+
+The_DD dictionary_JJ look_NN up_NN performs_VVZ exact_JJ matching_VVGN between_II the_DD terms_NNS in_II the_DD lexicon_NN and_CC the_DD terms_NNS in_II the_DD literature_NN ._. 
+ The dictionary look up performs exact matching between the terms in the lexicon and the terms in the literature .
+The dictionary look up
+exact
+the terms
+the lexicon
+the terms
+the literature
+
+The_DD results_NNS show_VVB that_CST one_PN may_VVB obtain_VVI a_DD global_JJ view_NN of_II the_DD tree_NN of_II life_NN by_II comparing_VVG the_DD metabolic_JJ pathway_NN structures_NNS using_VVG meta_NN level_NN information_NN rather_RR than_CSN sequence_NN information_NN ._. 
+ The results show that one may obtain a global view of the tree of life by comparing the metabolic pathway structures using meta level information rather than sequence information .
+The results
+a global view
+the tree
+life
+the metabolic pathway structures
+meta level information
+sequence information
+
+LA_NN kernel_NN 11_MC is_VBZ one_MC of_II the_DD direct_JJ kernel_NN functions_NNS ._. 
+ LA kernel 11 is one of the direct kernel functions .
+LA kernel
+the direct kernel functions
+
+Finally_RR we_PN propose_VVB the_DD use_NN of_II a_DD training_VVGN scheme_NN that_CST when_CS the_DD training_VVGN set_NN is_VBZ enriched_VVN for_II nonbinders_NNS consistently_RR improves_VVZ the_DD overall_JJ classifier_NN accuracy_NN compared_VVN to_II cost_NN insensitive_JJ classifiers_NN and_CC in_II particular_NN increases_VVZ the_DD sensitivity_NN of_II the_DD classifiers_NN ._. 
+ Finally we propose the use of a training scheme that when the training set is enriched for nonbinders consistently improves the overall classifier accuracy compared to cost insensitive classifiers and in particular increases the sensitivity of the classifiers .
+the use
+a
+scheme
+the
+set
+nonbinders
+the overall classifier accuracy
+cost insensitive classifiers
+particular
+the sensitivity
+the classifiers
+
+It_PN also_RR depends_VVZ on_II the_DD virtual_JJ tag_VVGJ database_NN definition_NN and_CC this_DD procedure_NN may_VM lead_VVB in_II some_DD cases_NNS to_II tag_VVGN to_II gene_NN assignments_NNS that_PNR can_VM be_VBB ambiguous_JJ incorrect_JJ or_CC unavailable_JJ 25_NN ._. 
+ It also depends on the virtual tag database definition and this procedure may lead in some cases to tag to gene assignments that can be ambiguous incorrect or unavailable 25 .
+the virtual
+database definition
+this procedure
+some cases
+gene assignments
+ambiguous incorrect
+unavailable 25
+
+On_II this_DD dataset_NN Pomeroy_NN et_CC al20_NN applied_VVN OVA_NN S2N_NN statistics_NNS and_CC the_DD standard_JJ t_NN statistics_NNS to_TO select_VVI a_DD number_NN of_II genes_NNS and_CC then_RR built_VVB a_DD weighted_VVNJ KNN_NN k_NN 5_MC to_TO predict_VVI class_NN memberships_NNS ._. 
+ On this dataset Pomeroy et al20 applied OVA S2N statistics and the standard t statistics to select a number of genes and then built a weighted KNN k 5 to predict class memberships .
+this dataset Pomeroy
+al20
+OVA S2N statistics
+the standard t statistics
+a number
+genes
+a
+KNN k
+class memberships
+
+An_DD example_NN of_II how_CST a_DD GenMAPP_NN MAPP_NN Set_NN can_VM be_VBB used_VVN to_TO display_VVI large_JJ scale_NN data_NNS is_VBZ the_DD International_JJ Gene_NN Trap_NN Consortium_NN web_NN site_NN 18_MC where_CS thousands_NNS of_II publicly_NN available_JJ gene_NN trap_NN ES_NN cell_NN lines_NNS can_VM be_VBB viewed_VVN in_II the_DD context_NN of_II biological_JJ pathways_NNS 19_MC ._. 
+ An example of how a GenMAPP MAPP Set can be used to display large scale data is the International Gene Trap Consortium web site 18 where thousands of publicly available gene trap ES cell lines can be viewed in the context of biological pathways 19 .
+An example
+a GenMAPP MAPP Set
+large scale data
+the International Gene Trap Consortium web site
+thousands
+publicly available gene trap ES cell lines
+the context
+biological pathways
+
+Xi_NN is_VBZ set_NN to_II the_DD log_NN odds_NNS score_NN vector_NN over_II the_DD 20_MC possible_JJ amino_JJ acids_NNS character_VVB derived_VVN from_II the_DD multiple_JJ alignment_NN column_NN corresponding_VVG to_II position_NN i_NN in_II the_DD window_NN ._. 
+ Xi is set to the log odds score vector over the 20 possible amino acids character derived from the multiple alignment column corresponding to position i in the window .
+Xi
+set
+the log odds score vector
+the
+possible amino acids
+the multiple alignment column
+position i
+the window
+
+Breakpoints_NNS that_PNR divide_VVB the_DD Gaussian_JJ distribution_NN into_II regions_NNS of_II equal_JJ area_NN are_VBB obtained_VVN through_II statistical_JJ tables_NNS which_PNR give_VVB the_DD values_NNS of_II the_DD cumulative_JJ distribution_NN function_NN CDF_NN of_II the_DD N_NN 0_MC 1_NN distribution_NN ._. 
+ Breakpoints that divide the Gaussian distribution into regions of equal area are obtained through statistical tables which give the values of the cumulative distribution function CDF of the N 0 1 distribution .
+Breakpoints
+the Gaussian distribution
+regions
+equal area
+statistical tables
+the values
+the cumulative distribution function CDF
+the N
+1 distribution
+
+Thus_RR for_II p_NN 100_MC exact_JJ repeats_NNS are_VBB detected_VVN while_CS lower_JJR values_NNS allow_VVB for_II the_DD detection_NN of_II approximate_JJ repeats_NNS ._. 
+ Thus for p 100 exact repeats are detected while lower values allow for the detection of approximate repeats .
+p
+exact repeats
+values
+the detection
+approximate repeats
+
+The_DD pair_NN for_II the_DD common_JJ corner_NN in_II the_DD new_JJ quadruplet_NN is_VBZ designated_VVN as_II a_DD bulge_NN with_II respect_NN to_II the_DD common_JJ corner_NN residue_NN ._. 
+ The pair for the common corner in the new quadruplet is designated as a bulge with respect to the common corner residue .
+The pair
+the common corner
+the new quadruplet
+a bulge
+respect
+the common corner residue
+
+Described_VVN in_II this_DD paper_NN is_VBZ a_DD framework_NN for_II identifying_VVGN subsystems_NNS dynamical_JJ modules_NNS from_II a_DD Boolean_NN network_NN model_NN ._. 
+ Described in this paper is a framework for identifying subsystems dynamical modules from a Boolean network model .
+this paper
+a framework
+subsystems dynamical modules
+a Boolean network model
+
+To_TO address_VVI this_DD challenge_NN we_PN created_VVD a_DD new_JJ pathway_NN resource_NN which_PNR incorporates_VVZ additional_JJ genes_NNS into_II our_PNG existing_VVGJ set_NN of_II pathways_NNS using_VVG prior_JJ evidence_NN ._. 
+ To address this challenge we created a new pathway resource which incorporates additional genes into our existing set of pathways using prior evidence .
+this challenge
+a new pathway resource
+additional genes
+set
+pathways
+prior evidence
+
+As_CS already_RR mentioned_VVD selection_NN of_II a_DD QSAR_NN model_NN that_PNR maximizes_VVZ a_DD K2_NN fold_NN CV_NN performance_NN estimate_NN is_VBZ common_JJ in_II conventional_JJ chemometrics_NNS and_CC is_VBZ also_RR applied_VVN in_II proteochemometrics_NNS ._. 
+ As already mentioned selection of a QSAR model that maximizes a K2 fold CV performance estimate is common in conventional chemometrics and is also applied in proteochemometrics .
+selection
+a QSAR model
+a K2 fold CV performance estimate
+common
+conventional chemometrics
+proteochemometrics
+
+Further_JJ dissection_NN of_II these_PND is_VBZ the_DD subject_NN of_II ongoing_VVGJ studies_NNS and_CC consequently_RR to_TO be_VBI confirmed_VVN experimentally_RR ._. 
+ Further dissection of these is the subject of ongoing studies and consequently to be confirmed experimentally .
+Further dissection
+the subject
+studies
+
+Instead_RR we_PN estimated_VVD the_DD Maximum_NN Posterior_JJ Decoding_VVGJ MPD_NN alignment_NN 12_MC 47_NN that_PNR maximises_VVZ the_DD product_NN of_II the_DD posterior_JJ single_JJ column_NN probabilities_NNS ._. 
+ Instead we estimated the Maximum Posterior Decoding MPD alignment 12 47 that maximises the product of the posterior single column probabilities .
+the Maximum Posterior
+MPD alignment
+47
+the product
+the posterior single column probabilities
+
+Similarly_RR to_II EDGE_NN we_PN found_VVD very_RR similar_JJ results_NNS both_CC when_CS filtering_VVGN out_II genes_NNS with_II missing_VVGJ observations_NNS and_CC when_CS imputing_VVG them_PN ._. 
+ Similarly to EDGE we found very similar results both when filtering out genes with missing observations and when imputing them .
+EDGE
+similar results
+genes
+observations
+
+Finally_RR a_DD hybrid_NN module_NN was_VBD developed_VVN by_II combining_VVGN SVM_NN module_NN and_CC HMM_NN profile_NN and_CC achieved_VVD a_DD MCC_NN of_II 0.87_MC with_II an_DD accuracy_NN of_II 94.61_MC ._. 
+ Finally a hybrid module was developed by combining SVM module and HMM profile and achieved a MCC of 0.87 with an accuracy of 94.61 .
+a hybrid module
+SVM module
+HMM profile
+a MCC
+an accuracy
+
+It_PN is_VBZ amenable_JJ to_II human_NN intervention_NN and_CC modification_NN such_II+ as_II hand_NN crafted_VVNJ rules_NNS but_CC can_VM also_RR be_VBB used_VVN in_II an_DD unsupervised_VVNJ environment_NN ._. 
+ It is amenable to human intervention and modification such as hand crafted rules but can also be used in an unsupervised environment .
+amenable
+human intervention
+modification
+hand
+rules
+an
+environment
+
+Boosting_VVGN requires_VVZ choosing_VVGN the_DD number_NN of_II boosting_VVGJ iterations_NNS but_CC as_RR shown_VVN in_II 32_NN we_PN can_VM use_VVB cross_NN validation_NN to_TO select_VVI this_DD parameter_NN ._. 
+ Boosting requires choosing the number of boosting iterations but as shown in 32 we can use cross validation to select this parameter .
+the number
+iterations
+32
+cross validation
+this parameter
+
+The_DD effect_NN of_II the_DD prof_NN criterion_NN is_VBZ to_TO delay_VVI the_DD matching_VVGN of_II potentially_RR troublesome_JJ peaks_NNS such_II+ as_II isobaric_JJ compounds_NNS ultimately_RR until_II they_PN exist_VVB alone_JJ in_II a_DD block_NN at_II which_PNR time_NN the_DD desireability_NN of_II using_VVGN them_PN for_II alignment_NN is_VBZ evaluated_VVN by_II a_DD loess_RR based_VVN smoothing_VVGN criterion_NN ._. 
+ The effect of the prof criterion is to delay the matching of potentially troublesome peaks such as isobaric compounds ultimately until they exist alone in a block at which time the desireability of using them for alignment is evaluated by a loess based smoothing criterion .
+The effect
+the prof criterion
+the
+troublesome peaks
+isobaric compounds
+alone
+a block
+time the desireability
+alignment
+a
+criterion
+
+The_DD system_NN is_VBZ implemented_VVN using_VVG the_DD NCBI_NN BLAST_NN package_NN 17_MC and_CC PERL_NN scripts_NNS ._. 
+ The system is implemented using the NCBI BLAST package 17 and PERL scripts .
+The system
+the NCBI BLAST package
+PERL scripts
+
+Interacting_VVGJ motif_NN pairs_NNS common_JJ to_II multiple_JJ folds_NNS of_II structural_JJ data_NNS of_II complexes_NNS were_VBD proven_VVN to_TO be_VBI statistically_RR significant_JJ ._. 
+ Interacting motif pairs common to multiple folds of structural data of complexes were proven to be statistically significant .
+motif pairs common
+multiple folds
+structural data
+complexes
+significant
+
+The_DD smallest_JJR numbers_NNS of_II train_NN test_NN experiments_NNS allow_VVB the_DD generation_NN of_II the_DD highest_JJT or_CC most_RRT optimistic_JJ accuracy_NN estimates_NNS ._. 
+ The smallest numbers of train test experiments allow the generation of the highest or most optimistic accuracy estimates .
+The
+numbers
+train test experiments
+the generation
+the
+optimistic accuracy estimates
+
+Jackknifing_VVGN was_VBD particularly_RR efficient_JJ to_TO detect_VVI influential_JJ observations_NNS or_CC outliers_NNS in_II our_PNG setting_VVGN ._. 
+ Jackknifing was particularly efficient to detect influential observations or outliers in our setting .
+efficient
+influential observations
+outliers
+
+Progress_NN is_VBZ determined_VVN by_II an_DD increasing_VVGJ value_NN of_II sensitivity_NN +_SYM specificity_NN hopefully_RR nearly_RR reaching_VVGN 2_NN ._. 
+ Progress is determined by an increasing value of sensitivity+specificity hopefully nearly reaching 2 .
+Progress
+an
+value
+sensitivity
+specificity
+2
+
+Progress_NN is_VBZ determined_VVN by_II an_DD increasing_VVGJ value_NN of_II sensitivity_NN +_SYM specificity_NN hopefully_RR nearly_RR reaching_VVGN 2_NN ._. 
+ Progress is determined by an increasing value of sensitivity+specificity hopefully nearly reaching 2 .
+Progress
+an
+value
+sensitivity
+specificity
+2
+
+The_DD numerical_JJ implementation_NN is_VBZ fast_JJ and_CC stable_JJ on_II common_JJ personal_JJ computers_NN ._. 
+ The numerical implementation is fast and stable on common personal computers .
+The numerical implementation
+fast
+stable
+common personal computers
+
+We_PN introduce_VVB discrete_JJ convolutions_NNS as_II an_DD accurate_JJ and_CC fast_JJ mean_NN to_TO estimate_VVI score_NN distributions_NNS of_II lod_NN score_NN profiles_NNS ._. 
+ We introduce discrete convolutions as an accurate and fast mean to estimate score distributions of lod score profiles .
+discrete convolutions
+an accurate
+fast mean
+score distributions
+lod score profiles
+
+The_DD results_NNS strongly_RR suggest_VVB that_CST the_DD highest_JJT scoring_VVGJ genes_NNS are_VBB enriched_VVN for_II those_PND that_PNR might_VM contribute_VVB to_II disease_NN if_CS mutated_VVN ._. 
+ The results strongly suggest that the highest scoring genes are enriched for those that might contribute to disease if mutated .
+The results
+the
+genes
+disease
+
+3Normalized_VVNJ For_II each_DD motif_NN the_DD measurement_NN M_NN is_VBZ normalized_VVN by_II subtracting_VVGN the_DD mean_NN and_CC dividing_VVGJ by_II the_DD standard_JJ deviation_NN over_II all_DB the_DD programs_NNS on_II that_CST motif_NN and_CC the_DD average_JJ of_II these_DD normalized_VVNJ scores_NNS over_II all_DD motifs_NNS are_VBB obtained_VVN ._. 
+ 3Normalized For each motif the measurement M is normalized by subtracting the mean and dividing by the standard deviation over all the programs on that motif and the average of these normalized scores over all motifs are obtained .
+each motif the measurement M
+the mean
+the standard deviation
+all the programs
+motif
+the average
+these
+scores
+all motifs
+
+They_PN identified_VVD sites_NNS which_PNR were_VBD highly_RR conserved_VVN lower_JJR entropy_NN in_II the_DD brain_NN but_CC not_RR in_II blood_NN suggesting_VVG that_CST the_DD virus_NN had_VHD forgone_VVN mutations_NNS to_TO adapt_VVI to_II brain_NN tissues_NNS ._. 
+ They identified sites which were highly conserved lower entropy in the brain but not in blood suggesting that the virus had forgone mutations to adapt to brain tissues .
+sites
+entropy
+the brain
+blood
+the virus
+mutations
+brain tissues
+
+The_DD ability_NN of_II microarrays_NNS to_TO identify_VVI gene_NN expression_NN signatures_NNS specific_JJ subsets_NNS of_II genes_NNS that_PNR respond_VVB to_II particular_JJ stimuli_NNS make_VVB them_PN valuable_JJ tools_NNS for_II characterizing_NN organisms_NNS response_NN to_II environmental_JJ conditions_NNS and_CC host_NN parasite_NN interactions_NNS ._. 
+ The ability of microarrays to identify gene expression signatures specific subsets of genes that respond to particular stimuli make them valuable tools for characterizing organisms response to environmental conditions and host parasite interactions .
+The ability
+microarrays
+gene expression signatures specific subsets
+genes
+particular stimuli
+valuable tools
+characterizing organisms response
+environmental conditions
+host parasite interactions
+
+MCODE_NN parameters_NNS were_VBD relaxed_VVN to_II haircut_NN TRUE_NN fluff_NN FALSE_NN VWP_NN 0.2_MC although_CS they_PN could_VM be_VBB further_RR relaxed_VVNJ for_II greater_JJR extension_NN out_II+ into_II the_DD network_NN ._. 
+ MCODE parameters were relaxed to haircut TRUE fluff FALSE VWP 0.2 although they could be further relaxed for greater extension out into the network .
+MCODE parameters
+haircut TRUE fluff FALSE VWP
+extension
+the network
+
+4Lassmann_NN and_CC Sonnhammer_NNP 20_MC proposed_VVD a_DD measure_NN to_TO assess_VVI alignment_NN quality_NN by_II comparing_VVG several_JJ multiple_JJ sequence_NN alignments_NNS assuming_VVG that_CST regions_NNS identically_RR aligned_VVN by_II multiple_JJ tools_NNS are_VBB more_RR reliable_JJ than_CSN regions_NNS differently_RR aligned_VVN ._. 
+ 4Lassmann and Sonnhammer 20 proposed a measure to assess alignment quality by comparing several multiple sequence alignments assuming that regions identically aligned by multiple tools are more reliable than regions differently aligned .
+4Lassmann
+Sonnhammer
+a measure
+alignment quality
+several multiple sequence alignments
+regions
+multiple tools
+reliable
+regions
+
+In_II addition_NN a_DD confidence_NN interval_NN for_II the_DD tilt_JJT angle_NN is_VBZ computed_VVN from_II the_DD confidence_NN interval_NN for_II the_DD slope_NN of_II the_DD average_JJ feature_NN displacement_NN equation_NN ._. 
+ In addition a confidence interval for the tilt angle is computed from the confidence interval for the slope of the average feature displacement equation .
+addition a confidence interval
+the
+angle
+the confidence interval
+the slope
+the average feature displacement equation
+
+For_II comparison_NN we_PN applied_VVN the_DD Wesfall_NN and_CC Young_JJ step_NN down_NN multiple_JJ testing_VVGN procedure_NN with_II a_DD univariate_JJ counterpart_NN of_II as_CC the_DD test_NN statistic_JJ ._. 
+ For comparison we applied the Wesfall and Young step down multiple testing procedure with a univariate counterpart of as the test statistic .
+comparison
+the Wesfall
+Young step down multiple
+procedure
+a univariate counterpart
+the test statistic
+
+We_PN define_VVB a_DD new_JJ procedure_NN that_CST estimates_NNS the_DD number_NN of_II segments_NNS adaptively_RR to_II the_DD data_NNS ._. 
+ We define a new procedure that estimates the number of segments adaptively to the data .
+a new procedure
+estimates the number
+segments
+the data
+
+The_DD combination_NN of_II classifiers_NN uses_VVZ the_DD list_NN returned_VVD by_II the_DD vector_NN space_NN module_NN as_II a_DD reference_NN list_NN RL_NN and_CC the_DD list_NN returned_VVD by_II the_DD regular_JJ expression_NN module_NN is_VBZ used_VVN as_II boosting_VVGJ list_NN BL_NN ._. 
+ The combination of classifiers uses the list returned by the vector space module as a reference list RL and the list returned by the regular expression module is used as boosting list BL .
+The combination
+classifiers
+the list
+the vector space module
+a reference list RL
+the list
+the regular expression module
+list BL
+
+It_PN was_VBD experimentally_RR shown_VVN that_CST the_DD gain_NN in_II execution_NN time_NN can_VM be_VBB outstanding_VVGJ without_II compromising_VVGN the_DD accuracy_NN ._. 
+ It was experimentally shown that the gain in execution time can be outstanding without compromising the accuracy .
+the gain
+execution time
+the accuracy
+
+The_DD calculations_NNS have_VHB been_VBN repeated_VVN for_II all_DB the_DD 1708_MC proteins_NNS and_CC computed_VVN the_DD overall_JJ accuracy_NN ._. 
+ The calculations have been repeated for all the 1708 proteins and computed the overall accuracy .
+The calculations
+all the
+proteins
+the overall accuracy
+
+DomCut_NN 16_MC predicts_NNS linker_NN regions_NNS based_VVN on_II sequence_NN alone_JJ relies_NNS solely_RR on_II amino_JJ acid_NN propensity_NN ._. 
+ DomCut 16 predicts linker regions based on sequence alone relies solely on amino acid propensity .
+DomCut
+predicts linker regions
+sequence alone relies
+amino acid propensity
+
+If_CS X_NN has_VHZ the_DD same_JJ base_NN at_II that_CST position_NN as_II Z_DB the_DD assumption_NN is_VBZ that_CST the_DD change_NN most_RRT likely_RR occurred_VVD between_II Y_NN and_CC its_PNG common_JJ ancestor_NN with_II X_NN ._. 
+ If X has the same base at that position as Z the assumption is that the change most likely occurred between Y and its common ancestor with X .
+X
+the same base
+position
+Z the assumption
+the change
+Y
+common ancestor
+X
+
+To_TO analyze_VVI a_DD combined_VVNJ data_NNS set_VVB of_II two_MC different_JJ data_NNS sets_VVZ the_DD transformation_NN of_II gene_NN expression_NN was_VBD introduced_VVN 5_MC ._. 
+ To analyze a combined data set of two different data sets the transformation of gene expression was introduced 5 .
+a
+data
+different data
+the transformation
+gene expression
+
+Gap_NN statistics_NNS 12_MC are_VBB used_VVN to_TO estimate_VVI number_NN of_II clusters_NNS from_II the_DD experiment_NN dataset_NN P1_NN P2_NN ._. 
+ Gap statistics 12 are used to estimate number of clusters from the experiment dataset P1 P2 .
+Gap statistics
+number
+clusters
+the experiment dataset P1 P2
+
+The_DD above_JJ dataset_NN was_VBD used_VVN for_II training_VVGN and_CC testing_VVGN tasks_NNS in_II both_CC the_DD leave_NN one_MC out_II cross_NN validation_NN and_CC five_MC fold_NN cross_NN validation_NN procedure_NN see_VVB below_II ._. 
+ The above dataset was used for training and testing tasks in both the leave one out cross validation and five fold cross validation procedure see below .
+The above dataset
+tasks
+the leave
+cross validation
+fold cross validation procedure
+
+DWT_NN can_VM be_VBB conducted_VVN by_II means_NNS of_II the_DD MRA_NN 27_MC ._. 
+ DWT can be conducted by means of the MRA 27 .
+DWT
+means
+the MRA
+
+The_DD first_JJ true_JJ evolutionary_JJ model_NN of_II indel_NN evolution_NN was_VBD introduced_VVN by_II Thorne_NNP Kishino_NNP and_CC Felsenstein_NN 8_MC the_DD TKF91_NN model_NN and_CC allows_VVZ single_JJ residue_NN indel_NN events_NNS ._. 
+ The first true evolutionary model of indel evolution was introduced by Thorne Kishino and Felsenstein 8 the TKF91 model and allows single residue indel events .
+The first true evolutionary model
+indel evolution
+Thorne Kishino
+Felsenstein
+the TKF91 model
+single residue indel events
+
+TMBETA_NN NET_NN is_VBZ a_DD Neural_JJ Network_NN based_VVNJ predictor_NN using_VVG as_II input_NN single_JJ sequence_NN information_NN 16_MC ._. 
+ TMBETA NET is a Neural Network based predictor using as input single sequence information 16 .
+TMBETA NET
+a Neural Network
+predictor
+input single sequence information
+
+In_II this_DD scoring_VVGJ schema_NN dependency_NN between_II some_DD positions_NNS in_II a_DD given_VVNJ TFBS_NN is_VBZ assumed_VVN ._. 
+ In this scoring schema dependency between some positions in a given TFBS is assumed .
+this
+schema dependency
+some positions
+a
+TFBS
+
+Elhammer_NNP et_CC al20_NN use_NN information_NN derived_VVN from_II the_DD frequency_NN of_II amino_JJ acids_NNS in_II the_DD neighborhood_NN of_II a_DD glycosylation_NN site_NN to_TO identify_VVI putative_JJ glycosylation_NN sites_NNS ._. 
+ Elhammer et al20 use information derived from the frequency of amino acids in the neighborhood of a glycosylation site to identify putative glycosylation sites .
+Elhammer
+al20 use information
+the frequency
+amino acids
+the neighborhood
+a glycosylation site
+putative glycosylation sites
+
+We_PN introduced_VVD an_DD extension_NN to_II CAGED_NN that_PNR overcomes_VVZ this_DD limitation_NN and_CC is_VBZ more_RR suitable_JJ to_II cluster_NN short_JJ gene_NN expression_NN profiles_NNS in_II 19_MC ._. 
+ We introduced an extension to CAGED that overcomes this limitation and is more suitable to cluster short gene expression profiles in 19 .
+an extension
+CAGED
+this limitation
+suitable
+cluster short gene expression profiles
+
+Thus_RR solid_JJ and_CC liquid_NN material_NN can_VM be_VBB easily_RR analyzed_VVN by_II TOF_NN MS_NN ._. 
+ Thus solid and liquid material can be easily analyzed by TOF MS .
+solid
+liquid material
+TOF MS
+
+Qi_NN is_VBZ the_DD actual_JJ amino_JJ acid_NN frequency_NN of_II amino_JJ acid_NN i_NN in_II the_DD column_NN after_II adding_VVGN in_II pseudocounts_NN ._. 
+ Qi is the actual amino acid frequency of amino acid i in the column after adding in pseudocounts .
+Qi
+the actual amino acid frequency
+amino acid i
+the column
+pseudocounts
+
+Earlier_JJR work_NN that_PNR used_VVD HMM_NN with_II discriminative_NN training_VVGN modified_VVNJ model_NN emission_NN probabilities_NNS by_II iteratively_RR aligning_VVG negative_JJ sequences_NNS to_II the_DD model_NN 15_MC ._. 
+ Earlier work that used HMM with discriminative training modified model emission probabilities by iteratively aligning negative sequences to the model 15 .
+work
+HMM
+discriminative
+model emission probabilities
+negative sequences
+the model
+
+Here_RR we_PN demonstrate_VVB the_DD effectiveness_NN of_II a_DD Markov_NNP model_NN named_VVN the_DD Linear_JJ Dynamical_JJ System_NN to_TO simulate_VVI the_DD dynamics_NNS of_II a_DD transcript_NN or_CC metabolite_NN time_NN series_NN and_CC propose_VVB a_DD probabilistic_JJ index_NN that_PNR enables_VVZ detection_NN of_II time_NN sensitive_JJ changes_NNS ._. 
+ Here we demonstrate the effectiveness of a Markov model named the Linear Dynamical System to simulate the dynamics of a transcript or metabolite time series and propose a probabilistic index that enables detection of time sensitive changes .
+the effectiveness
+a Markov model
+the Linear Dynamical System
+the dynamics
+a transcript
+metabolite time series
+a probabilistic index
+detection
+time sensitive changes
+
+Here_RR an_DD HMM_NN with_II EVA_NN is_VBZ used_VVN to_TO reduce_VVI the_DD gaussian_JJ noise_NN bands_NNS around_II a_DD given_VVNJ level_NN while_CS still_RR strictly_RR retaining_VVGJ transitions_NNS between_II levels_NNS ._. 
+ Here an HMM with EVA is used to reduce the gaussian noise bands around a given level while still strictly retaining transitions between levels .
+an HMM
+EVA
+the gaussian noise bands
+a
+level
+transitions
+levels
+
+Teodorescu_NN et_CC al18_NN proposed_VVD a_DD linear_JJ combination_NN of_II threading_VVGN and_CC sequence_NN alignment_NN to_TO produce_VVI a_DD single_JJ mixed_VVNJ scoring_VVGJ table_NN ._. 
+ Teodorescu et al18 proposed a linear combination of threading and sequence alignment to produce a single mixed scoring table .
+Teodorescu
+al18
+a linear combination
+sequence alignment
+a single
+table
+
+The_DD residue_NN variables_NNS were_VBD also_RR projected_VVN onto_II the_DD same_JJ space_NN so_RR that_CST group_NN specific_JJ residues_NNS could_VM be_VBB identified_VVN ._. 
+ The residue variables were also projected onto the same space so that group specific residues could be identified .
+The residue variables
+the same space
+group specific residues
+
+Briefly_RR four_MC comparisons_NNS were_VBD done_VDN DMD_NN 1a_NN versus_CC control_NN 1a_NN DMD1b_NN versus_CC control_NN 1a_NN DMD_NN 1a_NN versus_CC control_NN 1b_NN DMD1b_NN versus_CC control_NN 1b_NN and_CC only_RR those_PND genes_NNS retained_VVN which_PNR showed_VVD 2_MC fold_NN change_NN in_II all_DD four_MC comparisons_NNS ._. 
+ Briefly four comparisons were done DMD 1a versus control 1a DMD1b versus control 1a DMD 1a versus control 1b DMD1b versus control 1b and only those genes retained which showed 2 fold change in all four comparisons .
+comparisons
+DMD 1a
+control 1a DMD1b
+control 1a DMD 1a
+control 1b DMD1b
+control 1b
+genes
+fold change
+all
+comparisons
+
+To_TO compare_VVI different_JJ partitions_VVZ of_II the_DD genes_NNS we_PN compute_VVB the_DD posterior_JJ probability_NN of_II different_JJ clustering_VVGN models_NNS so_CS+ that_CS given_VVN the_DD observed_VVNJ gene_NN expression_NN profiles_NNS the_DD best_JJT clustering_VVGN model_NN is_VBZ the_DD one_MC with_II maximum_NN posterior_JJ probability_NN ._. 
+ To compare different partitions of the genes we compute the posterior probability of different clustering models so that given the observed gene expression profiles the best clustering model is the one with maximum posterior probability .
+different
+the genes
+the posterior probability
+different
+models
+the
+gene expression profiles the
+model
+the
+maximum posterior probability
+
+The_DD area_NN under_II the_DD ROC_NN curve_NN provides_VVZ an_DD estimate_NN of_II the_DD probability_NN that_CST a_DD gene_NN is_VBZ regulated_VVN between_II the_DD two_MC groups_NNS 37_MC ._. 
+ The area under the ROC curve provides an estimate of the probability that a gene is regulated between the two groups 37 .
+The area
+the ROC curve
+an estimate
+the probability
+a gene
+the
+groups
+
+We_PN chose_VVB the_DD gene_NN with_II the_DD maximal_JJ cosine_NN similarity_NN between_II the_DD test_NN article_NN and_CC the_DD centroid_JJ of_II the_DD training_VVGN samples_NNS belonging_VVG to_II a_DD given_VVNJ gene_NN gene_NN profile_NN ._. 
+ We chose the gene with the maximal cosine similarity between the test article and the centroid of the training samples belonging to a given gene gene profile .
+the gene
+the maximal cosine similarity
+the test article
+the centroid
+the
+samples
+a
+gene gene profile
+
+In_II 28_NN it_PN is_VBZ suggested_VVN to_TO estimate_VVI any_DD empirical_JJ distribution_NN by_II dividing_VVGN the_DD real_JJ axis_NN into_II intervals_NNS and_CC regarding_VVG the_DD number_NN of_II hits_NNS in_II each_DD interval_NN as_II the_DD result_NN of_II an_DD inhomogeneous_JJ Poisson_NN process_NN much_RR like_II counting_VVGN the_DD number_NN of_II cars_NNS arriving_VVG at_II a_DD crossing_VVGN during_II different_JJ time_NN intervals_NNS ._. 
+ In 28 it is suggested to estimate any empirical distribution by dividing the real axis into intervals and regarding the number of hits in each interval as the result of an inhomogeneous Poisson process much like counting the number of cars arriving at a crossing during different time intervals .
+28
+any empirical distribution
+the real axis
+intervals
+the number
+hits
+each interval
+the result
+an inhomogeneous Poisson process
+the number
+cars
+a
+different time intervals
+
+Ginter_NN 27_MC introduced_VVD a_DD new_JJ family_NN of_II classifiers_NN which_PNR were_VBD based_VVN on_II an_DD ordering_VVGJ and_CC weighing_NN of_II the_DD feature_NN vectors_NNS obtained_VVN from_II word_NN counts_NNS and_CC word_NN co_NN occurrence_NN in_II the_DD text_NN ._. 
+ Ginter 27 introduced a new family of classifiers which were based on an ordering and weighing of the feature vectors obtained from word counts and word co occurrence in the text .
+Ginter
+a new family
+classifiers
+an
+weighing
+the feature vectors
+word counts
+word co occurrence
+the text
+
+We_PN thus_RR developed_VVD a_DD new_JJ profile_NN that_PNR replaces_VVZ the_DD prediction_NN irrelevant_JJ features_NNS by_II hydrophobic_JJ information_NN represented_VVD in_II SARAH1_NN scale_NN ._. 
+ We thus developed a new profile that replaces the prediction irrelevant features by hydrophobic information represented in SARAH1 scale .
+a new profile
+the prediction irrelevant features
+hydrophobic information
+SARAH1 scale
+
+The_DD weights_NNS were_VBD normalized_VVN so_RR the_DD profile_NN profile_NN score_NN had_VHD a_DD weight_NN of_II one_MC ._. 
+ The weights were normalized so the profile profile score had a weight of one .
+The weights
+the profile profile score
+a weight
+
+In_II a_DD search_NN for_II putative_JJ WSSV_NN regulatory_JJ promoter_NN elements_NNS we_PN compared_VVD the_DD abundance_NN of_II all_DD 4_NN 5_MC 6_NN 7_MC or_CC 8_MC nucleotide_NN motifs_NNS in_II the_DD 100_MC and_CC 200_MC nt_JJ upstream_JJ sequences_NNS of_II all_DD WSSV_NN genes_NNS relative_JJ to_II their_PNG presence_NN in_II the_DD complete_JJ WSSV_NN genomic_JJ sequence_NN ._. 
+ In a search for putative WSSV regulatory promoter elements we compared the abundance of all 4 5 6 7 or 8 nucleotide motifs in the 100 and 200 nt upstream sequences of all WSSV genes relative to their presence in the complete WSSV genomic sequence .
+a search
+putative WSSV regulatory promoter elements
+the abundance
+all 4
+6
+nucleotide motifs
+the
+nt upstream sequences
+all WSSV genes relative
+presence
+the complete WSSV genomic sequence
+
+We_PN have_VHB shown_VVN that_CST probes_NNS which_PNR target_NN overlapping_VVGJ transcript_NN sequence_NN regions_NNS on_II cDNA_NN microarrays_NNS and_CC Affymetrix_NN gene_NN chips_NNS exhibit_VVB a_DD greater_JJR level_NN of_II concordance_NN than_CSN the_DD corresponding_VVGJ Unigene_NN or_CC sequence_NN matched_VVNJ features_NNS ._. 
+ We have shown that probes which target overlapping transcript sequence regions on cDNA microarrays and Affymetrix gene chips exhibit a greater level of concordance than the corresponding Unigene or sequence matched features .
+probes
+target
+transcript sequence regions
+cDNA microarrays
+Affymetrix gene chips
+a
+level
+concordance
+the
+Unigene
+sequence
+features
+
+Then_RR in_II each_DD iteration_NN each_DD random_JJ tree_NN will_VM be_VBB refined_VVN with_II the_DD newly_RR labeled_VVNJ examples_NNS by_II its_PNG concomitant_JJ ensemble_NN where_PNR the_DD confidence_NN of_II the_DD labeled_VVNJ example_NN exceeds_VVZ a_DD certain_JJ threshold_NN ._. 
+ Then in each iteration each random tree will be refined with the newly labeled examples by its concomitant ensemble where the confidence of the labeled example exceeds a certain threshold .
+each iteration each random tree
+the
+examples
+concomitant ensemble
+the confidence
+the
+example
+a certain threshold
+
+The_DD most_RRT frequent_JJ haplotypes_NNS pairs_NNS can_VM then_RR be_VBB assigned_VVN for_II each_DD genotype_NN in_II the_DD sample_NN ._. 
+ The most frequent haplotypes pairs can then be assigned for each genotype in the sample .
+The
+frequent haplotypes pairs
+each genotype
+the sample
+
+The_DD epitope_NN region_NN is_VBZ narrowed_JJ down_NN by_II repeating_VVGN the_DD process_NN ._. 
+ The epitope region is narrowed down by repeating the process .
+The epitope region
+narrowed down
+the process
+
+The_DD coverage_NN can_VM also_RR be_VBB estimated_VVN in_II nucleotide_NN numbers_NNS ._. 
+ The coverage can also be estimated in nucleotide numbers .
+The coverage
+nucleotide numbers
+

@@ -1,0 +1,218 @@
+Enault and colleagues proposed an improved < phylogenetic profile > based on a < normalized Blastp bit score >  .
+In a previous paper we introduce an < alternative Bayesian framework > for modelling hierarchical classes .
+In most published SVR studies we have examined these model parameters were determined one at a time by first fixing all other parameters then letting the parameter take a range of different values and thus identifying the value that corresponds to the best model performance assessed by < cross validation > .
+Cherkassky and Ma advocated picking two of the three < SVR model > parameters e and C from training data based on characterizations of the data such as noise level and sample number .
+Another way to obtain suboptimal solutions from a < HMM >  is to do < HMM sampling > .
+< REDUCE > requires only a single expression dataset and makes use of the entire genomic dataset both signal and background to assess the significance of individual motifs .
+In this paper we introduce a < Bootstrap procedure > to test the null hypothesis that each gene has the same relevance between two conditions where the relevance is represented by the Shapley value of a particular coalitional game defined on a microarray data set .
+Investigating whether different sidechain repacking could alter this discrepancy a < scheme  for packing sidechains > towards protein structure has been derived from a mean field framework  .
+A modified version of the < MMM Mod MMM > hereafter introduced in assumes that the denominator and the numerator of one of t statistic type score zi may not be independent .
+We used the new < descriptive CAT Correspondence At the Top > plots originally proposed by Irizzarry to evaluate the array to array precision within each microarray platform for the three replicates .
+Here we propose additional data selection using a < GA > for selecting additional learning data sets .
+< PPRM > uses inter sample ratios to quantify variability in expression .
+We produced < master alignments > for each protein so that subset alignments can be subsequently extracted through metadata queries without further realignment .
+Recently < Multiplex Ligation dependent Probe Amplification > < MLPA > has also been used to quantify copy number classes .
+These three indexes were summarized in a < sequence diversity plot > < SDP > and were used to assist cDNA microarray probe selections for organisms without any genomic information .
+Thus we can estimate the < substitution matrix conditional probabilities > at any other arbitrary time simply using equation and reconstruct the joint probabilities at any other arbitrary time .
+In < parametric bootstrap > the objective is to infer a characteristic from a sample xx..xn taken from a population with known distribution F .
+Lastly the viability of using < global Poisson p values > was assessed with the simulated spike in data sets .
+The relative binding energies for dimer formation were computed using the < MM PBSA > module of AMBER employing molecular mechanics and a continuum solvent model .
+Compared to < logistic regression > < local regression > models provide greater flexibility as the regression curve can approximate any smooth function .
+Another possibility is the < clustering > of t invariants as described in this paper which generally results in overlapping subnetworks .
+In this sense < local decodings of sequences > are more informative .
+A recent study introduced an < ANOVA > < Analysis of Variance model > to select discriminative genes from several datasets derived from different experimental environments .
+The proposed assessment scheme can be used to complement existing < pre filter assessment processes > to ensure that only good quality spectra are sent for < protein identification process > reducing false positive protein detection by database search and de novo sequencing protein identification tools .
+< Support Vector Machine > < SVM > technology is used to identify articles about biomolecular interactions and confirm sentences that mention specific protein protein interactions .
+We also show that the < LMS fit > can be extended to multiple level superposition between two conformations with several rigid domains .
+Resolution of this system yields the expected frequency of dinucleotides under this < Markov chain > .
+There are at least four different ways to calculate protein identity of which the mechanism used in this work was the one based on the length of the < shortest sequence > .
+Using < DF SNPs > potential biomarkers could be quickly identified SNPs SNP types or SNP patterns .
+In addition to the collection of MIPS protein complexes we have also used the same evaluation metric adopted in called < geometric similarity index > .
+The < single path relationship > was applied to each possible pair of these paths path for GO and GO respectively and is henceforth referred to as path pairs .
+The last refinement stage employs a variant of the < tree dependent restricted partitioning > .
+< SIM > efficiently aligns a transcribed and spliced DNA sequence mRNA EST with a genomic sequence containing the corresponding gene allowing for introns in the genomic sequence and a relatively small number of sequencing errors .
+The model parameters A and B in score function are determined by the noise variance of the spectrum swhich can be automatically estimated by < LOWESS regression > .
+< Sorting > is based on the p values calculated for the observed over representation in order to show the best results at the top of the list .
+< Quantile normalization > was proposed by Bolstad et alfor Affymetrix style single channel arrays and by Yang and Thorne for two color cDNA arrays .
+The < protein sequence Jukes Cantor model > assigns the same probability to each substitution and is hence a rather poor approximation .
+We therefore developed a < hierarchical evaluation measure > as described in the Methods section .
+The < maximality procedure > makes use of Ri with p remaining equal to the lowest index of Ri .
+The < PhenoBlast Metric > is used to rank genes based on the similarity of their phenotypic signatures to the profile of a query gene .
+Recently a < conservation score > for ranking predicted motif instances has been proposed .
+The class label for each test sample is determined by averaging all of its < SVM scores > and it is based on this value that the sample is classified .
+An alternative way to apply < non linear normalisation > is to use quantiles .
+These artificial repeats were compared to the RE nucleic acid sequences using < ClustalW > to find RS like oligonucleotides .
+Furthermore our < retention time prediction > model is based on a new kernel function in conjunction with < support vector regression > which allows us to predict peptide retention times very accurately requiring only a very small amount of training data .
+The < DNA microarray > is another good application of < nucleic acid hybridization > technology .
+The pull down DNA fragments are < PCR > amplified and co hybridized with a whole genome sample to generate a two color image .
+Just as common function can be inferred between homologous proteins < homologous interaction > can be used to infer interaction between homologues of interacting proteins .
+We decide to circumvent this problem by considering the set of all possible alignments and their corresponding likelihood under our model as opposed to a < fixed optimal alignment > .
+Chen et al predict mucin glycosylation sites using k spaced pairwise patterns and < support vector machines > .
+In future studies the use of longer sequences that form higher order structures will generate more specific peptide inhibitors from < in silico panning > .
+We have illustrated a < procedure for identifying interesting feature sets of genes > to distinguish a tumor class from a set of normal tissues from large scale systematic gene expression data sets obtained by DNA microarrays .
+< Rescue ESE > identified candidate exonic splicing enhancers in vertebrate exons based on their statistical features .
+< TFBS prediction > is usually attempted using < position weight matrices > < PWMs >  .
+< Unigenic evolution > is a powerful genetic strategy involving random mutagenesis of a single gene product to delineate functionally important domains of a protein .
+< Random From Data RFD > k randomly selected genes vectors are used as the starting centroids .
+We have therefore chosen to use a variant of < PLSR > called < Bridge PLSR > .
+The < global lowess normalization > is carried out first and takes dye biases into account .
+The final estimated accuracy of this artificial annotation is the percentage of true < LORF > .
+The computationally reconstituted tissue profile S was either not further normalized or normalized by < local regression > .
+If the results of automatic alignment are unsatisfactory < semiautomatic alignment > is possible .
+A < Gaussian Mixture Model > < GMM > is employed to estimate the distribution of each existing phenotype and then used as reference distribution in gap statistics .
+In effect < BEA > was capable to detect relationships among proteins by relying on the presence or absence of third party proteins .
+Furthermore we show that our design compares favorably in terms of efficiency to the previously described < non adaptive combinatorial pooling designs > .
+We implemented a < stochastic coupling scheme > to be able to couple the simulated enzyme to arbitrary simulated or experimental calcium time series .
+Based on one of them Mandell et alhave found that the number of protein secondary structure segments is related to the coefficients cycles at certain scale calculated by < continuous wavelet transform > < CWT > .
+The < eQTL > locations from these individual analyses for all genes are then superimposed to identify common regions that control the expression of a large number of genes i.e contain broad effect < eQTLs > .
+Then for every pair of seeds with distance XSTREAM initially invokes a < filtration step > which jumps across Ma user defined number of times t and looks for matching hashcodes .
+Finally to account for the multiplicity of comparisons the most significant curves are selected by controlling q values using an < FDR like procedure > .
+The most common form of < robust regression > is to iteratively weight points based on their distance from the curve .
+For example < Pathway Processor > puts several generated gene expression values at the same position on a corresponding KEGG static image when it visualizes pathways .
+Lander et al introduced a < Hidden Markov Model > < HMM > where the meiosis indicators are the unobserved variables .
+The < microarray design procedure > described here could also be used for multi species or cross species microarray design in a scenario where the sequences with high similarity from different species cross hybridize to each other but not necessary be assembled into contigs .
+In such cases using spatial trend correction after < spatial segmentation > helps to remove or reduce these two types of spatial effect while preserving the true biological signal .
+If the number of pre classified points is large it makes sense to use the majority vote of the < nearest k neighbors > .
+An important conclusion from the spike in experiment is that the < background normalisation > recommended by Illumina is not appropriate for some DE analyses .
+In this report we used < topological indices > to catalogue and to classify RNA structures based on the correlations between conserved RNA secondary structures and topological indices .
+pTARGET predicts < subcellular localization > using amino acid composition in combination with location specific PFAM domains .
+We start with phase classification assigning each gene a phase based on < maximal correlation > to an ideal cosine curve .
+The < phase shift lag > that produces the highest correlation coefficient is assumed to be the most likely phase of a particular profile .
+These two issues are realistic in the < cis regulatory motif discovery process > and are representative of current problems in cis regulatory motif discovery .
+The edges were then marked as pixels of < local maxima > in filter response .
+Picard et al used a piecewise < constant regression model > where the parameters are estimated maximizing a penalized likelihood i.e the likelihood with the addition of a penalty function .
+The de noising is achieved using < soft thresholding > or penalization so that for each gene class centroids are shrunken towards the overall centroid .
+Pellegrini et alfirstly proposed a < phylogenetic profile > described as a string of bits each bit representing the absence or presence of an homologous gene in a given genome .
+The innovative strategy of < ping pong search > is a na?ve path map retrieval tool for fly interactome based on the shortest paths between any two proteins collected in Fly DPI .
+The < dictionary look up > performs exact matching between the terms in the lexicon and the terms in the literature .
+The results show that one may obtain a global view of the tree of life by < comparing > the metabolic pathway structures using meta level information rather than sequence information .
+< LA kernel > is one of the direct kernel functions .
+Finally we propose the use of a < training scheme > that when the training set is < enriched > for nonbinders consistently improves the overall classifier accuracy compared to cost insensitive classifiers and in particular increases the sensitivity of the classifiers .
+On this dataset Pomeroy et al applied < OVA S N statistics > and the standard t statistics to select a number of genes and then built a weighted KNN k to predict class memberships .
+An example of how a < GenMAPP MAPP > Set can be used to display large scale data is the International Gene Trap Consortium web site where thousands of publicly available gene trap ES cell lines can be viewed in the context of biological pathways .
+Described in this paper is a < framework for identifying subsystems dynamical modules > from a Boolean network model .
+As already mentioned selection of a < QSAR model > that maximizes a K  fold CV performance estimate is common in conventional chemometrics and is also applied in proteochemometrics .
+Instead we estimated the < Maximum Posterior Decoding > < MPD alignment > that maximises the product of the posterior single column probabilities .
+Finally a hybrid module was developed by combining < SVM module > and < HMM profile > and achieved a MCC of with an accuracy of .
+< Boosting > requires choosing the number of boosting iterations but as shown in we can use < cross validation > to select this parameter .
+The effect of the prof criterion is to delay the matching of potentially troublesome peaks such as isobaric compounds ultimately until they exist alone in a block at which time the desireability of using them for alignment is evaluated by a < loess based smoothing criterion > .
+< Jack-knifing > was particularly efficient to detect influential observations or outliers in our setting .
+We introduce < discrete convolutions > as an accurate and fast mean to estimate score distributions of lod score profiles .
+For comparison we applied the Wesfall and Young step down < multiple testing procedure > with a univariate counterpart of as the test statistic .
+The combination of classifiers uses the list returned by the vector space module as a reference list RL and the list returned by the regular expression module is used as < boosting list > < BL > .
+< DomCut > predicts linker regions based on sequence alone relies solely on amino acid propensity .
+To analyze a combined data set of two different data sets the < transformation of gene expression > was introduced .
+< Gap statistics > are used to estimate number of clusters from the experiment dataset PP.
+< DWT > can be conducted by means of the MRA .
+The first true evolutionary model of < indel evolution > was introduced by Thorne Kishino and Felsenstein the TKFmodel and allows single residue indel events .
+< TMBETA NET > is a < Neural Network based predictor > using as input single sequence information .
+In this < scoring schema > dependency between some positions in a given TFBS is assumed .
+We introduced an < extension to CAGED > that overcomes this limitation and is more suitable to cluster short gene expression profiles in .
+Thus solid and liquid material can be easily analyzed by < TOF MS > .
+Earlier work that used < HMM with discriminative training > modified model emission probabilities by iteratively aligning negative sequences to the model .
+Here we demonstrate the effectiveness of a < Markov model > named the < Linear Dynamical System > to simulate the dynamics of a transcript or metabolite time series and propose a probabilistic index that enables detection of time sensitive changes .
+Here an < HMM with EVA > is used to reduce the gaussian noise bands around a given level while still strictly retaining transitions between levels .
+Teodorescu et al proposed a linear combination of < threading and sequence alignment > to produce a single mixed scoring table .
+To compare different partitions of the genes we compute the posterior probability of different clustering models so that given the observed gene expression profiles the best < clustering model > is the one with maximum posterior probability .
+We chose the gene with the maximal < cosine similarity > between the test article and the centroid of the training samples belonging to a given gene gene profile .
+In it is suggested to estimate any empirical distribution by dividing the real axis into intervals and regarding the number of hits in each interval as the result of an < inhomogeneous Poisson process > much like counting the number of cars arriving at a crossing during different time intervals .
+The < Ortholuge method > reported here appears to significantly improve the specificity precision of high throughput ortholog prediction for both bacterial and eukaryotic species .
+In the Bioinformatics field a great deal of interest has been given to < Non negative matrix factorization technique NMF > due to its capability of providing new insights and relevant information about the complex latent relationships in experimental data sets .
+We designed a method for identifying transcript sequence pairs that are putatively orthologous between the two species considered .
+We present a method that harnesses the statistical power provided by having several HDONAs available which are obtained under similar conditions except for the experimental factor .
+A widely used method in metabolomics is < principal component analysis > .
+In the study by Blackshaw et al the candidate photoreceptor specific genes were selected by < comparative analysis > between SAGE libraries on the basis of four chosen criteria see Results Section .
+Another approach proposed by Joung et al]	tries to combine multiple information sources to extract the MRMs .
+A method here referred to as the < smoother > appeared in .
+Here we propose a method that predicts nsSNPs based on the < SVM > .
+Two related papers describe a method for < local structural similarity detection > which is of great relevance since it is able to evaluate the statistical significance of each match .
+We developed a gene < cluster classification method > that circumvents these limitations and links biological function with gene expression patterns derived from microarray experiments .
+The most widely accepted method employs the < constant majority method > which assumes that the majority of reporters do not change in ratio .
+In contrast to the cluster and < enrichment analysis > techniques mentioned above the analysis is not restricted to single differentially expressed genes rather all possible gene pairs are explored for phenotype related dependencies and interactions .
+To date only one method for prediction of the residue depth based on the protein sequence was developed .
+We have developed a novel method for selecting significant genes in comparative gene expression studies .
+The second generation of SS prediction methods started by the method of < Garnier Osguthorpe > and Robson < GOR method > and improved in several steps .
+Since this work was completed an extension to the < OCTOPUS method > which incorporates signal peptide prediction SPOCTOPUS has been released .
+We compared the gene lists generated by the < RFE method > to the result of a meta analysis approach as described by Rhodes et al.
+The nonlinear minimisation function of the R package uses a < Newton type algorithm > .
+The < SW > has been extensively used in DNA polymorphism studies for < exploratory data analysis > .
+In an attempt to better understand the importance of sucrose mobilization in this pathway a yeast invertase was expressed in an inducible manner in growing potato tubers and the metabolite changes were monitored by a < metabolite profiling approach > coupling mass spectrometry to gas chromatography .
+< HMM B TMR > is a profile based < HMM method > that was trained for the first time on a non redundant set of outer membrane proteins and later current version on a larger dataset of outer membrane proteins .
+Recently a method for unique oligo discovery that was a modification of a < central pattern partitioning principle > was published .
+In a previous study we identified motifs associated with life span extension in sch ras and tor using a cut off based method .
+Finally < PROQRES > is the only method in this set which has been developed specifically to predict local errors in crude protein models .
+In order to separate the effect of the method from the procedure to impute the missing values we repeated the analysis both by filtering out all the genes with missing observations and by using the < KNN method > to impute them .
+However the rigorous < tableau searching method > is too slow for a full database search and so Konagurthu et alintroduce TableauSearch .
+One proposed approach is to find the < maximum likelihood estimate > for the scale of the variance for each print tip group .
+In summary the control method is essentially a restriction to < STEPS > and of our identification method see Results section .
+Another approach is to employ comparative sequence analysis .
+We have proposed a new method to analyze the protein protein interaction network grounded on the combination of a < clustering algorithm > of the vertices and a refined method allowing to assign a function to proteins of yet unknown function .
+Previously we developed a method to predict CRMs based on < TF interactions > .
+Chan et alused a < non alignment based method > FastCompare to identify conserved k mers in worm and fly .
+We have developed a drug target < prediction method > based solely on protein sequence information without the knowledge of family domain annotation or the proteinD structure .
+We have developed a < Bayesian network approach > to find regulatory rules enriched in a foreground sequences for example the promoters of a set of co regulated genes compared with the background sequences .
+We used the results of these studies to show that < mutual information analysis > is highly effective for identifying systematic differences between sets of sequences .
+The < iterative clustering method > offers considerable improvement over clustering in all genes .
+We have developed a < computational method > to estimate the pre miRNA content and to predict the location of precursor miRNAs in genomic sequences .
+Here we demonstrate how the use of < SQUAD > helps to simulate the behavior of regulatory networks modeled with the standardized qualitative dynamical systems methodology .
+We describe a new method for identifying outliers when fitting data with < nonlinear regression > .
+< WBP > is the most commonly used algorithm for reconstruction in ET .
+Another < alignment algorithm > assumes no knowledge of peaks in common .
+The first and oldest method proposed by Lipman and Pearson and described extensively by Comet et aland others   uses < Monte Carlo simulations > to investigate the significance of a score s calculated from the alignment of two real sequences a and b .
+We propose a < multiple clustering method > to perform the clustering .
+We propose an alternative baseline < correction method > based on a < penalized smoothing model > .
+We also proposed a < submatrix imputation method > to determine whether to use integrative imputation with a given collection of reference datasets .
+We developed a method to detect sequence motifs corresponding to putative regulatory elements in gene promoters starting from lists of approximate patterns with occurrences in promoter sequences .
+In this paper we present a computational improvement to a < sequence clustering method > that we introduced previously to analyze large microbial metagenomic datasets and that was used in the GOS study .
+< Association rules discovery technique ARD > is a data mining method that has been extensively used in many applications to discover associations among subsets of items from large transaction databases .
+Automics implements a<  fuzzy wrapping method > .
+More recently other methods have become available such as the < Assumption free analysis > .
+We have shown that a < multi way method > can be used to analyze differences in the amino acid composition within and between species .
+The reference methods < FASTA > and < BLAST > give quite different results < FASTA > is a good second and < BLAST > has scores similar to Paracel and Biofacet .
+Tsai et al proposed a < statistical method > to identify cell cycle associated TFs in yeast which used the Kolmogorov Smirnov KS test to examine whether expressions of the target and non target gene sets of a TF are significantly different .
+We propose a robust < semi-parametric method > in a two way semi linear model TW SLM for normalization of cDNA microarray data .
+Besides two global methods maximization of the spectrum integral and minimization of the spectrum entropy implemented in Automics we have introduced another easier to implement method for < automatic phase correction > .
+They used the < least squares method > for estimating the normalization curves based on B splines .
+In this paper we propose a method for the < normalization procedure > based on a < non linear mixed model > as well as a new approach for determining the statistical significance of altered probes based on < linear mixed model > .
+Lee and colleagues improved on a previous work by creating what we refer to in this paper as the < Integrated Bayesian IB method > .
+< ARD > is a data mining technique oriented towards finding associations or correlation relationships among items in transaction datasets .
+Internal calibration is a widely used method in mass spectrometry .
+To meet the needs of clinical proteomics of comparing large sets of D gels we have developed Sili Dgel an automatic gel < alignment method > based on graph theory to find SAP without manual adjustment after a < recursive alignment procedure > .
+In order to compute the distance between a matrix and a set of indices our software uses the < correlation method > described by Tomii and Kanehisa .
+The < TGDR approach > was originally proposed for the < linear regression > .
+As an alternative to the existing noise detection and interpolation approaches we developed a new baseline correction method based on a penalized parametric smoothing model .
+Due to the spread of residues being more on the diametrical plane of these helices the axis found using the < eigenvector method > lay closer to the plane of the diameter instead of being normal to it .
+To compare organism amino acid composition we performed < hierarchical clustering > using the complete linkage method with distances computed using the < Euclidean metric > on a dataset that consisted of the mean percent amino acid composition from all predicted open reading frames for each of the organisms Figure .
+The < TatP method > is able to positively classify of known Tat signal peptides and of the annotated cleavage sites of these Tat signal peptides were correctly predicted .
+In the < complete linkage algorithm > the distance between clusters is defined as the distance between the most distant pair of objects i.egenes .
+We are able to build a low bias and a low variance predictor using < model averaging method > classifier ensembles .
+From this combined data set samples we selected genes classified as Present see Methods at least once genes and then clustered the log transformed data with < average linkage analysis > .
+We present a novel method for classification of hot and cold ORFs located in hotspots and coldspots respectively in Saccharomyces cerevisiae using < support vector machine SVM > which relies on codon composition differences .
+This algorithm which is usually referred to as the < Chou Fasman method > tries to find structures based on the difference in the probability of observing each of the twenty residues in helices sheets and other structures .
+Elements defined by our method can be approximated using vectors and we have retained longer elements wherever possible .
+Alignment based analysis of RIP involves the multiple alignment of a repeat family and counting RIP mutations along the alignment for all sequences .
+We have recently developed an < SVD based  phylogenetic method > that provides accurate comparisons of a high fraction of sequences within whole genomes without the prior identification of orthologs or homologous sites .
+In the past we reported the development of a method to generate such models called the < Stabilized Matrix Method SMM > .
+We used the < Sammon projection method > as the < embedding procedure > .
+Note that caution should be taking when evaluating the predictive performance of the < ARB method > .
+Note that caution should also here be taking when evaluating the predictive performance of the < ARB method > .
+The second algorithm used was < PAM Predictive Analysis > for Microarrays a < shrunken centroid method > of classification .
+Thus we have developed a reliable < heuristic method > for determining dependency types automatically given the dependency structure .
+In this study we have developed a < tandem machine learning approach > for the identification of regulatory target genes based on these parameters and on the corresponding binding site information contents that measure the affinities of the factor for these cognate elements .
+To remedy this problem Zhang et aldeveloped a novel coalescence guided < hierarchical Bayesian method > wich uses a hierarchical structure to directly model the coalescence relationship among modern day haplotypes .
+The < minimum covariance determinant MCD regression method > is a well performing robust regression method that can also handle cases where both X and y are multivariate .
+We introduce a novel < multi chip normalization method > for Affymetrix based aCGH data .
+In this paper we propose the < AT excursion method > which is a score based approach to quantify local AT abundance in genomic sequences and use the identified high scoring segments for predicting replication origins .
+We use the detection algorithm based on < simulated annealing > which aims at maximizing the modularity of a partition and which finds the number of modules automatically .
+A useful method of integrated analysis of expression data within an interaction network is the < ActivePaths algorithm > .
+The entire core and complete kinomes were clustered using the < probabilistic method > described by Samanta and Liang .
+Since baseline substraction is straightforward we mainly focus on the baseline < estimation procedure > in different methods .
+< BRNI > is based on our method to infer biochemical models of single gene regulation .
+Among these approaches the < Affymetrix GeneChipMapping Assay > is increasingly used for detecting CNVs in human DNA .
+We then estimate this integral using a method we developed called the < Uniform Distance Method UDM > .
+< BIG PI > is the first publicly released method for < GPI anchor prediction > and the predictions are made by four kingdom specific predictors .
+While we used < AceView > for redefining probe sets the method of regrouping probes can be applied using any public or in house database and the guidelines provided here for creating a viable probe set should be generally applicable .
+We propose an < online phenotype discovery method > for high throughput RNAi screen which can be used in the course of many image based screens .
+In real time < PCR data analysis > the < cycle threshold CT > method is currently the gold standard .
+A further reduction in total within group variance can be achieved by using the < ratio method > described in this report .
+To discard tags that are likely to have been generated by sequencing errors we implemented < Colinge and Feger's method > .

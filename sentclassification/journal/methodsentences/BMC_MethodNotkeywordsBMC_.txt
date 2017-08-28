@@ -1,0 +1,183 @@
+To ensure that the alignment dataset was suitable for phylogenetic analyses likelihood mapping was carried out using the program < TreePuzzle > [ 46 ] .
+[ 113 ] was used to moderate the standard error of the estimated log-fold changes .
+We use an optimised version of our recently published composite scoring function QMEAN [ 33 ] in order to define an ensemble of reference models which is used to calculate the structural consensus score .
+Further , our implementation has been automated for Affymetrix short oligonucleotide microarrays and can generate a list of candidate SFPs when provided only with an experimental design file pointing to raw .CEL files .
+The clones produced by STAR can be printed on microarray slides for hybridization with labeled cDNAs from individual brains samples , however , the rare RNA species must be enriched by amplification in order to give reliable hybridization signals .
+The decrease of the radiolabeled GTP / G protein complex was quantified by nitrocellulose filtration .
+Spurious correlations between adjacent and periodically spaced genes were previously identified by gene-gene correlations across experimental datasets encompassing multiple microarrays [ 21-23 ] .
+Briefly , in a given cluster , each sequence is successively fixed as a " family model sequence " and tested against all other family members using LEON .
+The process was repeated until the present gene set no longer changed from iteration to iteration [ 48 ] .
+Samuel Karlin and coworkers [ 12 ] applied odds-ratios consisting of observed dinucleotide frequencies divided by expected , determined by genomic nucleotide content , to compare genomes to each other .
+Hence microarray-derived global gene expression patterns were used to align wild-type and mutant cultures using a time-warp strategy reported earlier [ 22 , 51 ] .
+Thus , amplified actin fragments from cDNA and genomic DNA templates were 120 bp and 220 bp , respectively .
+We tried to minimize this risk of nucleotide intra-specific variations , by analyzing more than one individual for each species and determining a consensus sequence .
+We regarded it important to study morphological effects of the NikkomycinZ treatment by video microscopy .
+P-values were calculated based on binomial distribution assuming no relationship between the SRT501 and SRT1720 dataset comparisons .
+In previous studies , we accumulated a number of 5'-end sequences of many clones derived from the oligo-capped cDNA libraries of the brain with high mRNA complexity , and determined approximately 1,500 full insert sequences of the clones whose 5'-end sequences showed no significant similarity to sequences in the public databases [ 5 , 6 ] .
+Therefore , the GC content is the main property that allows the detection of isochore but more biological properties have to be taken into account .
+For effective presentation of process-specific evaluation results , we have developed an interactive matrix-based view that facilitates comparative evaluation of multiple datasets across several targeted biological processes ( Fig. 6 ) .
+These tags are amplified , followed by direct , massively parallel sequencing ( Solexa 1G Genome Analyzer ) .
+For example , we can incorporate the hypothetical rule that a particular threshold amount or concentration of a product is required for an individual cell to progress through the cell cycle .
+Functional predictions are represented by Prosecutor as graphs using the Prefuse toolkit [ 31 ] to visualize the gene redundancy and overlap between the functional categories of different functional predictions .
+Triton X-100 is the most widely used detergent to expose the cytoskeleton for biochemical and immunohistological studies , but without prefixation it caused a marked loss of cytoskeletal material [ 38 , 39 ] .
+The STAR process significantly amplifies unique and rare sequences relative to abundant housekeeping genes and , as a consequence , identifies genes not previously linked to AD .
+3. ccd : a modification of truecolor imagery to better match the spectral response of common 3-CCD color cameras used in microscopy setups for biomedical research .
+These probes all clustered to 22 distinct genomic sites , 17 ( 77 % ) of which were within 10 kbp of the nearest 1st exon of a gene ( Figure 3 and Table 1 ) .
+Inparanoid has an important advantage over phylogenetic tree reconstruction software , as it does not require a multiple alignment of sequences but creates a distance matrix of the local pairwise alignments .
+In the last two situations , DNA would have to be in the circular intermediate form .
+Primers were selected within regions of unique sequence utilizing publicly available sequence databases [ 16-24 ] .
+In breast cancer , we find that the members of two TF families , the steroid nuclear receptor and the ATF / CREB families , are significantly associated with patient survival .
+Thus , cell sorting as used in this study provides a valuable pre-treatment step for single-cell level assays .
+These results show that our novel ERK Activity Sensors provide real-time in vitro detection of MAP kinase activity .
+Injectable RNAi has been successfully applied to adult honeybees [ 9 ] , snails [ 10 ] , and also to mice [ 11 ] and rats [ 12 ] .
+That the 90 kDa signal was detected with RNAs radiolabeled with CTP or GTP but not UTP illustrates the advantage of radiolabeling all four nucleotides in a UV-crosslink based screen .
+Adjacent subsequences were overlapped by 50 nt .
+A second example is MNAligner [ 29 ] , developed by our group , which is an alignment tool for general biomolecular networks that combines both molecular similarity and topological similarity .
+A frequently used solution of this problem is to simplify the combinatorial variety by focusing on small subsets of the possible reactions and complexes .
+Detailed information of the confirmed protein characterization are elaborated in Table 1 with respect to the precursor mass , m / z error ( ppm ) , PEAKS and SPIDER score for confidence interval ( % ) for the PEAKS de novo generated peptide sequences and their corresponding homology searches .
+The detailed information of the confirmed protein characterization are elaborated in Table 1 with respect to the precursor mass , m / z error ( ppm ) , PEAKS and SPIDER score for confidence interval ( % ) for the PEAKS de novo generated peptide sequences and their corresponding homology searches .
+To appreciate the many changes in shape and in the actin cytoskeleton that take place simultaneously , even within a relatively small area of the cell surface and within short time spans time lapse recording of live cells is necessary .
+Double-stranded cDNA was synthesized from total RNA isolated from nerve cord tissue of L. kohalensis using the Creator™ SMART™ system developed by Clontech BD Bioscience ( Mountain View , CA ) .
+It not only allows for the selection of genomic information but helps to identify the optimal subset of SNPs necessary for finding the variations associated with disease .
+Wavelet decomposition separates the low-resolution information , called " approximation " , from the high resolution information , called " details " .
+RTqPCR was also used to measure the expression of CDKN1A , CYP1A1 , CYP1B1 , HIST1H3D and IER3 in BeP-treated MCF-7 and HepG2 cells .
+Systems-based drug design is a major application of systems biology [ 5 , 25 , 31 ] .
+Microarray data were normalized across all arrays using quantile normalization of data in log base 2 scale [ 101 ] .
+Ranking of these incomplete models using the novel FSF scoring scheme combined with minimization was shown to provide the best ranking ( 13 % improvement compared to weighted sequence identity ) .
+In this paper we analyzed OSS-HMM , a model generated using an automated design [ 23 ] , that allows the discovery of new features about the data .
+CCA [ 54 ] was performed on the A549 and Beas-2B cell lines .
+We analyzed the inter-population helena copy number polymorphism by Southern blot , using a restriction enzyme that does not cut inside the element .
+The geNorm [ 22 ] program provides a measure of gene expression stability ( M ) , which is the mean pair-wise variation between an individual gene and all other tested control genes .
+The SAM ( Significance Analysis of Microarrays ) program [ 53 ] with a false discovery rate of 10 % was applied on the log2ratios to find the genes that differed most in expression between the node positive and negative tumors .
+The shape of the cell is evolved by updating each pixel based on a set of probabilistic rules .
+Matoba et al. [ 2 ] increased the reliability of prediction of Pou5f1 primary targets by using a tet-inducible system to suppress Pou5f1 .
+Primer pairs were chosen from both ends of the inserts , which allows PCR to amplify the entire OHC cDNA insert .
+The relationship between the number of paralogous pairs among the SSPs and the total numbers of SSPs of each species is displayed in Figure 3 .
+The GMendel [ 36 ] and JoinMap [ 34 ] programs perform mapping by simulated annealing .
+Finally , the viability of the particle-conjugated bacteria was checked using LIVE / DEAD BacLight Bacterial Viability Kit ( Invitrogen , Copenhagen , Denmark ) .
+In the adjusted pixel-wise distance metric calculation , we address some of these factors , which may lead to an improvement in sensitivity .
+To identify meaningful clusters of the established network , the CFinder program [ 46 ] was employed .
+If that is so , a gene is considered to be differentially expressed .
+We first detected collinear syntenic regions using the DAGchainer program [ 31 ] and then merged the overlapping syntenic regions .
+To focus on IL-8 's function in tumor tissues , we further analyzed and ranked the genes in 16 IL-8 related tumor libraries .
+For these reasons , we designed a strategy based on a hypomorphic catalytic PPase mutation that uses the Synthetic Genetic Array ( SGA ) .
+To compare the transcriptomes between the two species , we compared the A. palmata unigene dataset to the M. faveolata dataset , using KEGG-assigned categories [ 53 ] , through submission of the unigene datasets to the KAAS web-based annotation tool .
+To identify transcription initiation sites , RLM-RACE was performed .
+The required atomic solvation parameters have been derived from water-decadiene partition coefficients of organic molecules [ 27 ] .
+Transfection is the insertion of foreign molecules such as cDNAs or promoter constructs into eukaryotic cells .
+Repetitive fragments renature faster , allowing them to be removed .
+The area under the ROC curve allows quality control of microarray hybridizations .
+The infected root tissue was flash frozen and subsequently ground in liquid N2 for RNA extraction [ 19 , 41 ] .
+Cell detachment was calculated by the difference from the percentage of adherent cells in relation to controls ( ECM-coated well without GAG ) .
+At equilibrium , absent spots lie midway between their neighbours .
+We investigated the RNA-binding properties of MTG8 , MTG16 and MTGR1 by analyzing their ability to interact with four synthetic RNA homopolymers , poly ( A ) , poly ( C ) , poly ( G ) and poly ( U ) , coupled to Sepharose beads .
+The RP score was used in ESPERR ( Evolutionary and Sequence Pattern Extraction through Reduced Representations ) [ 10 ] to capture information in sequence alignments over seven vertebrate species .
+We selected MAFFT [ 32-34 ] with the E-INS-i option that can align conserved regions separated by large gaps or very divergent sequences , a feature needed for multi-domain alignment [ 35 ] .
+Each unique sequence from S. frugiperda was assigned the same gene function of the best BLASTX hit ( E = 10-5 ) with Drosophila sequences based on the annotated GO of Drosophila [ 15 ] .
+Bound mRNA is then obtained by co-immunoprecipitation with the FLAG-PAB-1 protein [ 10 ] .
+The predictions are then used as input for an " optimal accuracy " decoder that ensures that the predicted path is possible within the state graph .
+The corresponding mean fluorescence intensity for ligand binding is then calculated allowing the data set to be presented as a line graph of receptor expression versus ligand binding .
+The results detailed in the previous paragraph are obtained using a start space for the simulation around 105 times smaller than the state space .
+More importantly , this study utilized the pseudo-ancestral Arabidopsis genome , as well as the present Arabidopsis genome , in the comparison of the Arabidopsis with other plant genomes .
+Chimpanzee ( Pan troglodytes ) PRAME genes were predicted as for human genes , as described above , using the HMM derived from the alignment of human PRAME amino acid sequences as query to search a region lying between orthologous DHRS3 and T1A-2 genes on chimpanzee chromosome 1 ( PTR1 , bases 10240000-13450000 , Nov 2003 assembly ) .
+A generalization of FILS , a two category taxonomy has been used by Brunak [ 4 ] .
+A residue is said to be at the core of protein-protein interaction interface if its accessibility values show large variation between exposed ( > 10 % ) and buried state ( < 7 % ) upon oligomerisation ( dimerisation ) with the corresponding interacting subunit .
+There are 5 DF for each site type giving a total of 35 DF .
+To co-localize two primary antibodies produced in the same species , we developed a double-labeling protocol that avoided the cross-labeling of the primary antibodies by the anti-rabbit secondary antibodies .
+To circumvent this problem , we used 5'-RACE ( Rapid amplification of cDNA ends ) procedure to generate 5'-end of the clone ( 3 ) .
+Koch [ 13 ] and subsequently elaborated on in collaboration with the group behind the padlocks probes within the MolTools consortium under EU-framework 6 [ 14 ] .
+The class with the maximum positive value in Cmp is defined as the only class to which the protein p belongs to with " high probability " .
+Here we use the Student 's t-test applied to expression indices as a test of differential gene expression .
+We propose Bonferroni corrected p-value thresholds that account for the interdepdendence of SNPs on commonly used commercially available SNP " chips " ( Illumina 317 K and Affymetrix 500 K ) and in the HapMap panels .
+The computational strategy included optimization of Scores of Potential Function ( SPF ) of binding sites that separated best the training and control sets of genes , and estimation of the FDR from the frequency distribution of SPF among control genes ( Fig. 1 ) .
+Some ' putative GIs ' are identified in the first phase , and those are refined into smaller segments containing horizontally acquired genes in the refinement phase .
+The Global Test was used to evaluate the differential regulation of gene sets [ 39 ] .
+Reproducibility was further investigated by calculating the variance ( s2 ) and the coefficient of variation for ( CV ) , which describe the dispersion of the values contributing to .
+An alternative to differential equation modeling is the use of discrete models [ 3 , 13 ] .
+Thus , the total proportion of false positives among pooled significant genes from all groups should also be close to the FDR threshold .
+For exon-level score , we calculated the CV of the residual products across tissues , CVtissue i ( pi , j , k ) and for the gene-level score , we calculated the standard deviation across exons within the gene , sdexon j [ CVtissue i ( pi , j , k ) ] .
+The consistent distance restraints from multiple templates are used to guide structure modeling .
+The 5 ' end of the Updcd2 transcript was cloned and identified with GeneRacer kit ( Invitrogen ) using gene-specific Updcd2 Racer primers ( Additional file 1 ) .
+To prevent name conflicts when new patches are created , we process models so that each element take its name as the id .
+Biological information , such as microarray data , was not used at all for sequence extraction , and it becomes useful only during interpretation of the extracted sequence .
+A large-scale application of GATC-PCR to the budding yeast transcriptome revealed that it is twice or more as large as previously estimated .
+The largest entries in these columns indicate the well-determined parameters .
+Coordinates of these cardotoxins were kindly provided by the authors [ 16 ] , and thus can be compared with our results .
+There is also the potential to use these sensors for high-throughput screening of ERK kinase activity with fluorescence plate readers .
+Averaged ( arithmetic mean ) normalized intensities were calculated per gene per time point for mdx and control samples based upon 8 data points ( 2 biological replicates with 4 technical replicates each ) .
+Multivariate Statistical Analysis [ 7 , 8 ] ( MSA ) is generally used in the absence of a preliminary model to perform this classification .
+These average blastp scores were then averaged for each point in ( Figure 2H-2K , 3F-3H , 4F-4H , 5F-5H ) .
+For this , the commonly followed SAGE protocol [ 3 ] uses streptavidin coupled magnetic beads to capture and retain the linker against a magnetic field while the ditags are separated out .
+A combination of actual and predicted mRNA sequences was used for exploring the gRNA assignments to specific genes .
+The Gene Ontology Consortium is a collection of databases for a variety of organisms , which is commonly used to annotate gene expression based on existing knowledge of biological function and a limited functionally-derived vocabulary .
+However , after blotting the products onto nylon membranes and hybridising radiolabelled oligonucleotide probes specific for individual Psg genes ( Table 2 ) , we observed significant differences in expression profiles of different genes during development .
+For the REN colony screen , a randomly chosen representative cross section is cultured and digested from the colonies available .
+Since it was first described in the mid-1990s , quantitative real time PCR ( Q-PCR ) has been widely used in many fields of biomedical research and molecular diagnostics .
+The same positive correlation can be seen for complex V subunits ( Figure 2c , top right ) .
+Usually , the recalcification time assay , one of the simplest assays , is used .
+These experimentally-supported predicted proteins were further annotated by assigning the proteins with standardized nomenclature and functional annotation .
+In particular , the Solexa data generated from an exponentially growing culture presents a distribution bias , with more sequences near the replication origin and fewer near the terminus ( Fig 5B ) .
+Biological monitoring of exposure to cobalt is mainly based on its concentration in urine .
+Note that the number k may be different for different SLiMs according to the pair-wise Blast results .
+Cell motion has been traditionally simulated by : discretizing the cell boundary , computing the displacement of each of the points according to the local velocity , and forming a new boundary with the displaced points ( Fig. 1A ) .
+Interestingly , the level of expression of gagp26 in the bivalent strain was similar to that observed in the monovalent rBCG : : pNIP46 strain .
+The lysates were centrifuged at 10000 g for 2 min , and the concentration of TG in the supernatant was measured by an enzymatic assay kit from Stanbio , according to manufacturer 's instructions .
+Previously it has been shown that a side chain optimisation was sufficient to successfully dock inhibitors into kinase structures [ 40 ] .
+To counter this trend , we propose reconciling information redundancy from associations between SNP markers .
+Of the 2,376 Fundulus clusters that were similar to a sequence in Human RefSeq ( e-value < 10-10 ) , 1,818 ( 76 % ) had distinct gene annotations .
+Therefore , we extended each sequenced tag to 150 nt in the 3 ' direction to represent a whole mono-nucleosome .
+Subsequent cross-validation was performed in which the entire data from each cell line was removed ( features were re-selected and weights were recalculated based on the data from only 4 cell lines , and the samples from the 5th cell line were predicted using the new model ) .
+Paralogs were defined as those sequences for which this rule does not apply .
+Stabilization of the protein complex on the 3 ' splice site by these bridging interactions across the exon then facilitates interaction with the U1 snRNP bound to the 5 ' splice site of the previous exon allowing the intron to be defined [ 37 , 38 ] .
+The tetra-primer Amplification Refractory Mutation System ( ARMS ) -PCR procedure , as described by Ye et al. [ 35 ] , was used to genotype all CARD15 SNPs .
+The K locus is located on the Z chromosome and can be utilized to produce phenotypes that distinguish between the sexes of chicks at hatching , but also at the embryonic stage [ 5 , 6 ] .
+The enzyme was inactivated by heating at 65°C for 10 minutes , followed by cooling to 4°C .
+Transcription profiling was performed by RT-PCR .
+Markers whose alignments were 100 % identical with over 90 % of their length were verified by ensuring that each marker could be placed on the same chromosome in both the linkage map and the sequence assembly .
+GSEA is thoroughly described by Subramanian et al [ 81 ] .
+In order to check the stability of the procedure , z-score matrices for these subclusters were re-calculated from 1000 shuffled sequences .
+However , the procedure may be optimized further by using alternative capture oligos .
+Several scripts in PHP and Python were used to parse the CAP3 standard output into MySQL tables .
+In the current study , we developed a parallel hybridization , in which 6 samples can be hybridized onto one single slide .
+The estimated probability of presence ( EPP ) provided a level of confidence for observations being reported as present .
+Trichocarpa gene clusters developed with the TribeMCL software [ 24 ] .
+As an alternative , normalization to accurately quantitated total RNA has been proposed [ 4 ] and then validated in breast cancer biopsies [ 6 ] .
+Parameters were calculated as described for M1 .
+METHODOverall Performance AssessmentMethod 1 - Affymetrix one-cycle target labeling of Lowest sensitivitywhole blood RNA ( no depletion-Affymetrix ) Good reproducibilityGood target integrityMethod 2 - Affymetrix one-cycle target labeling ofHigh sensitivitywhole blood RNA with globin PNAs during cDNA High reproducibilitysynthesis ( Globin PNAs-Affymetrix ) Good target integrityMethod 3 - Affymetrix one-cycle labeling of wholeHigh sensitivityblood RNA treated with Ambion GLOBINclearLowest reproducibility ( GLOBINclear-Affymetrix ) Marginal target integrityMethod 4 - NuGEN Ovation v1 amplification andModerate sensitivitylabeling of whole blood RNA ( no depletion-NuGEN ) High reproducibilityGood target integrityBefore selecting a protocol for use in an expression profiling study of whole blood , however , several factors must be considered .
+ProtQuant also computes the statistical significance of differential expression of control and treatment for each protein using one-way ANOVA ( a = 0.05 ) .
+The young grade ( YT / YU ) was compared to the old grade ( OT / OU ) , and this determined the cluster .
+In contrast to SAM , PIR allows for the dose-response relationship to be nonlinear , but assumes the relationship is increasing or decreasing as a function of increasing dose , and not the reverse direction .
+To confirm the precise transcriptional initiation sites , oligo-capped RNA based 5'RACE [ 12 ] was carried out using brain total RNA as template .
+To further confirm these results , we used fine-scale recombination rates from the HapMap data [ 7 ] and calculated average recombination rates for the same regions ( see Methods ) .
+A gene ranking based on similarity to interesting feature-vectors allows recovery of profiles with weaker but relevant grain filling patterns .
+The ratio of the intensities of the two fluorescently labeled cDNAs is used to quantify the relative levels of transcripts in the two samples [ 1 , 2 ] .
+Secondly , limitations also arise from ROS-generating compounds delivery which in Drosophila is usually performed through food ingestion .
+The results agree well with common knowledge of protein sequence-structure relationships but also provide some novel insights .
+Briefly , this assay is based on a multiplex PCR using ten primer pairs targeting genes showing variable number of tandem repeats .
+Second , we have 6 replicate spots in our microarray , making us able to exclude the maximum and minimum values while being able to calculate the geometric average signal from the remaining 4 replicates .
+A high-resolution projector and a mirror mounted on a pan-tilt unit ( PTU ) are used to move the foveal inset on a tiled display .
+Two primers pairs for GAPDH cDNA were designed using primer3 software that generates fragments located at 3 ' and 5 ' ends of cDNA ( Table 1 ) .
+Xi is set to the log-odds score vector ( over the 20 possible AAs ) derived from the multiple alignment column corresponding to the ith position in the window .
+Its usefulness to describe genomic deletions in other species might be dependent upon genome complexity and ploidy .
+Time limits and time step size must be specified as for any dynamic model .
+The activity of both the cryptic promoter and T7 promoter ( sequence 5 ' TAATACGACTCACTATAGGGAG ) were compared using Real-time RT-PCR .
+RNA coding sites are ignored , as are sites that are ambiguous in the NCBI annotation .
+2. truecolor : created by converting the illumination wavelength for each band into the constituent RGB values as perceived by humans , then averaging the contribution to R , G , and B for each band .
+From this information , search parameters were designed to allow positive identification of any number of full CSB-CSB units within any query sequence , without excluding sequences on the basis of slight intragenomic CSB variation .
+One-day old mosquitoes from Gbedjromede were selected by exposure to permethrin impregnated nets ( Olyset® impregnated nets at 1 g / m2 ) for 10 minutes and the survivors were then maintained on sugar solution until they reached 3 days-old .
+The final scaffold assembly incorporating all data ( GS FLX shotgun , paired end and BAC-end reads ) was verified by conducting BLAST searches of the 126 BAC-end sequences against the four scaffolds > 10,000 bp and comparing the alignment positions with those predicted by the Atlantic salmon physical map .
+We have developed a pipeline to estimate the genomic repeat content , where shotgun reads are aligned to the genomic sequence and the gene copy number is estimated using the average shotgun coverage .
+One was to amplify the promoter-containing region of a gene by PCR using genomic DNA as template and cloning it into the promoter-less vector pPD95.67 .
+PCR was performed using template DNA from 11 Bacillus isolates that vary in relatedness to B. anthracis with primer sets designed to amplify DNA fragments from 47 different pXO2 ORFs .
+It is also able to generate predictions of multiple localization sites for a protein that spans two cellular compartments , and if not enough information is available to make a confident prediction , it is able to return a prediction of " unknown " .
+Cyber-T is a regularized t-test based on expression indices [ 6 ] .
+We shotgunned M-6 , H-11 , and J-21 into pSPL3 , employing BamHI and BglII or BamHI , BglII , and PstI for 2 ways of cutting BAC DNA using restriction enzymes .
+The aim of WGA is to amplify a limited DNA sample non-specifically in order to generate a new sample that is indistinguishable from the original but has a higher DNA concentration .
+The remaining 15 % contained very little or no overlap with the local alignment prediction .
+All the possible combinations for interconnectivity made of few components in directed graphs can be determined [ 11 ] and then used to identify their prevalence by comparing the counts in random topologies .
+The performance of different annotation sources ( e.g. , Gene Ontology terms ) was investigated by comparing AUC results for real and random data using a two-sample Kolmogorov-Smirnov test .
+In this study , we designed a miRNA microarray system in our laboratory and tested its reliability .
+The residues were then superimposed on each other and statistical significance was evaluated for the resulting RMSD .
+By using Pearson Correlation , we analyzed the similarities between these Family Regulation Profiles to impute functional relationships between the different families .
+TaqMan PCR has the advantage of yielding a fluorescence signal proportional to the number of molecules that have been amplified , rather than the total mass of dsDNA in the sample [ 9 ] .
+Ortholog sets were based on a variation of best reciprocal BLASTP hits , which favoured hits with a higher percentage identity ( see Methods ) .

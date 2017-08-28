@@ -1,0 +1,355 @@
+ rank-based normalization method
+ addition HRV power spectral analysis
+ Ortholuge method
+ Non-negative matrix factorization technique NMF due
+ linear regression analysis
+ conventional culture method
+ ISO-IDF reference method
+ second method
+ given analysis
+ Stokes method
+ graph-clustering method
+ extraction methodology
+ principal component analysis
+ comparative analysis
+ serological analysis
+ Other approaches
+ available genotyping techniques
+ novel analysis method
+ unbiased approach
+ integrated statistical method
+ popular method
+ gene cluster classification method
+ isothermal WGA method
+ new method
+ new automated method
+ extreme pathway analysis Covert
+ normalization technique
+ MLVA method
+ existing typing methods
+ constant majority method
+ potentiometric method
+ significance analysis
+ enrichment analysis techniques
+ alternative approach
+ novel method
+ popular bioconjugation technique
+ Average ARIMA method
+ component structure non explanatory analysis
+ SS prediction methods
+ Robson GOR method
+ survival analysis residual method
+ OCTOPUS method
+ elegant algorithm positive sample
+ RFE method
+ meta-analysis approach
+ qualitative methods
+ content analysis
+ theory approach
+ optimum method
+ biomolecular interaction analysis
+ overall approach
+ techniques such
+ Newton-type algorithm
+ Newton-type algorithm
+ new method
+ tube group amplification approach DYNAL Biotech Brown Deer WI
+ SAGE serial analysis
+ exploratory data analysis
+ HMM approach
+ progressive alignment algorithm
+ conclusion BsaXI RFLP analysis
+ rapid approach
+ path analysis
+ metabolite profiling approach coupling mass spectrometry
+ established proteomic approach
+ Retrospective analysis
+ simple method
+ restriction enzymes analysis
+ third popular method
+ haplotype analysis
+ SEM algorithm
+ time-frequency analysis
+ reliable automated microscopy method
+ analysis strategy
+ PRAGA several genetic algorithms run
+ proposed method
+ image analysis method
+ GEE method jointly models
+ accurate method
+ set association approach
+ profile-based HMM method
+ discriminant analysis
+ statistical method
+ fractal analysis
+ sch9ras2and tor1using a cut-off based method
+ only method
+ KNN method
+ method 17
+ minimisation method
+ multifactor-dimensionality reduction MDR method
+ model-based approach
+ proposed approach
+ maximum likelihood analysis
+ principal components analysis
+ H?der-Gabler method
+ probability sampling method
+ noninvasive technique
+ independent approach
+ centroid algorithm
+ control method
+ identification method
+ attractive method
+ Interaction-Identifier method
+ comparative sequence analysis
+ novel approach
+ quantitative rigorous multiple-knockouts analysis
+ new method
+ clustering algorithm
+ third approach
+ temporal method BDL
+ suitable algorithm
+ friction-costs method
+ latter method
+ temporal method
+ whole-genome approach
+ classical optimization method single variable optimization
+ method FastCompare
+ proposed method relative
+ drug target prediction method
+ Bayesian network approach
+ many existing methods
+ proposed method
+ comparative analysis
+ MILC method
+ single-point linkage analysis
+ mutual information analysis
+ screening method
+ classical context-based approaches
+ Detailed analysis
+ first approach
+ iterative clustering method
+ novel non-radioactive mass spectrometry-based method
+ computational method
+ Negative Subtraction Hybridization method
+ standardized qualitative dynamical systems methodology
+ electrode method i.ethe
+ reliable method
+ Northern blot analysis
+ Bayesian approach
+ PICO method
+ order Markov chain-based methodology
+ fluorimetric analysis
+ fluorimetric analysis
+ delivery method
+ dyad analysis
+ Bayesian phylogenetic approach
+ theoretical approach
+ quantitative analysis
+ singular value decomposition method
+ alternative method
+ new method
+ feature selection method
+ simple grid-based method
+ such technique
+ TE insertion site method
+ colorimetric techniques
+ chemical analysis
+ comparative threshold cycle method
+ fossil cross-validation method
+ second method
+ quantitative RT-PCR analysis
+ various methods
+ different method
+ alignment algorithm
+ Markov chain discrimination MCD method
+ PFRSampler algorithm
+ Qualitative content analysis
+ arm technique
+ oldest method
+ diverse methods
+ supermatrix method
+ multiple clustering method
+ novel approach
+ Integer Linear Programming method
+ regression tree CART method
+ simple post-acquisition method
+ subsequent quasi-Newton minimization method
+ alternative baseline correction method
+ original comparative approach
+ case-crossover approach
+ approach Cummings
+ dual-wavelength spectrophotometric analysis
+ submatrix imputation method
+ original method
+ sequence clustering method
+ comprehensive analysis
+ time series analysis
+ HT-self method
+ simple approach
+ composite dataset approach 18
+ likelihood approach
+ EIGENSTRAT approach
+ pan-specific HLA-DR prediction algorithm publicly available
+ TEPITOPE method
+ powerful method
+ association method tests
+ Association rules discovery technique ARD
+ fuzzy wrapping method 28
+ capillary depletion analysis
+ ??Ct RQ relative quantification method
+ other methods
+ Assumption-free analysis
+ multi-way method
+ modified FBA method
+ reference methods FASTA
+ algorithm uses Markov Chain Monte
+ dynamic programming alignment approach
+ second approach
+ standardized actometric method
+ default normalization method
+ popular method
+ manual methods
+ statistical method
+ new method
+ robust semiparametric method
+ codon-based approach
+ inferential method
+ global methods maximization
+ implement method
+ alternative approach
+ step PCA method 13
+ squares method
+ symbolic algorithm
+ sequence-based method
+ Expectation-Maximization algorithm
+ EM algorithm
+ maximum likelihood method
+ inexpensive visual approach
+ transport lattice approach
+ constant comparative method20
+ qualitative data analysis
+ field sampling method
+ global amplification method
+ diagnostic method
+ available colorimetric method Randox Laboratories Ltd UK
+ conducting mixed model analysis
+ powerful method
+ exceptional technique
+ computational method
+ step cluster analysis
+ direct analysis
+ polysome analysis
+ quantitative analysis
+ event-pair method
+ bias coin method
+ computer-based random number-producing algorithm
+ post-transcriptional method
+ primary analytic methods
+ related approach
+ discordant sibling pair method
+ new approach
+ decision curve analysis
+ beta-binomial method
+ conditional likelihood based method
+ prevalent top-down costing approach
+ charge RCC method
+ first-order autoregressive AR1 method
+ established morphometric method Cook Wellman
+ association analysis
+ Integrated Bayesian IB method
+ rarefaction method
+ Fast Fourier Transform Non Linear Least Squares analysis FFT-NLLS
+ nonparametric estimation technique
+ feature selection method
+ method 3
+ variance components analysis method
+ Linkage analysis
+ such Fst method
+ histochemical analysis
+ further analysis
+ Ct method
+ new computational method
+ factor analysis
+ simple computational approach
+ new approach
+ robust online phenotype discovery method
+ bootstrapping algorithm
+ independent comparison method
+ automatic gel alignment method
+ correlation method
+ TGDR approach
+ threshold cycle method
+ multiple restriction fragment-single strand conformation polymorphism MRF-SSCP method
+ interpolation approaches
+ new baseline correction method
+ phenomenological-hermeneutic approach
+ patient-centred approach
+ general method
+ eigenvector method
+ standard method
+ complete linkage method
+ alternative approach
+ unique methylation profiling technique
+ TatP method
+ similar method
+ bank method
+ common method
+ second method
+ complete-linkage algorithm
+ model-averaging method classifier
+ second alternative approach
+ average linkage analysis
+ surgical approach
+ novel method
+ ecological method
+ Primer extension analysis
+ serial analysis
+ pragmatic approach
+ Sequence analysis
+ similar approach
+ effective method
+ Chou-Fasman method
+ Correspondence analysis
+ powerful method
+ accurate allelotyping techniques
+ dietary analysis method
+ stress analysis
+ her pathomechanical analysis
+ multi-spacer typing MST method
+ third method qRT-PCR
+ standardized observation method
+ simulation algorithm due
+ new approach
+ fragment size analysis
+ proposed method
+ existing approaches
+ nonparametric MLS method
+ spectral decomposition method
+ new clustering method
+ Single-stranded conformational polymorphism SSCP analysis
+ Red RecET recombination method
+ inexpensive high sample throughput method
+ environmental analysis
+ Alignment-based analysis
+ genetic algorithm
+ suppression subtractive hybridization SSH technique
+ non-invasive technique
+ transfection method electroporation
+ experimental technique
+ other methods
+ new method
+ automated quantitative analysis
+ rank products analysis 37
+ new statistical approach
+ microarray analysis
+ SVD-based phylogenetic method
+ Monte Carlo MC hill-climbing algorithm
+ Sammon projection method
+ new approach
+ ARB method
+ ARB method
+ dual-panel approach
+ Camera-trapping techniques
+ second algorithm
+ centroid method

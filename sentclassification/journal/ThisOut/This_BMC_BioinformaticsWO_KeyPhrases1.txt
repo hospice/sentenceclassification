@@ -1,0 +1,227 @@
+Enault and colleagues proposed an improved < phylogenetic profile > based on a normalized Blastp bit score .
+In a previous paper	 we introduce an < alternative Bayesian framework > for modelling hierarchical classes .
+These sequences were used to <type ="verb" term = "search" > for the nearly invariant nucleotides of the inverse core AAC and core GTT sites separated by a distance typical of previously identified attC sites to bp FigureA .
+In most published SVR studies we have examined these model parameters were determined one at a time by first fixing all other parameters then letting the parameter take a range of different values and thus identifying the value that corresponds to the best model performance assessed by < cross validation > .
+Cherkassky and Ma advocated picking two of the three < SVR model > parameters e and C from training data based on characterizations of the data such as noise level and sample number .
+Another way to obtain suboptimal solutions from a < HMM >  is to do < HMM sampling >.
+REDUCE requires only a single expression dataset and makes use of the entire genomic dataset both signal and background to assess the significance of individual motifs .
+In this paper we introduce a < Bootstrap procedure > to test the null hypothesis that each gene has the same relevance between two conditions where the relevance is represented by the Shapley value of a particular coalitional game defined on a microarray data set .
+Investigating whether different sidechain repacking could alter this discrepancy a < scheme  for packing sidechains > towards protein structure has been derived from a mean field framework  .
+A modified version of the < MMM Mod MMM > hereafter introduced in assumes that the denominator and the numerator of one of t statistic type score zi may not be independent .
+We used the new < descriptive CAT Correspondence At > the Top plots originally proposed by Irizzarry to evaluate the array to array precision within each microarray platform for the three replicates .
+Such observation increases the reliability of those clusters .
+Here we propose additional data selection using a < GA > for selecting additional learning data sets .
+If a paper is classified as not belonging to any of the nine categories the paper is assigned to the category with the lowest probability of not belonging to it .
+< PPRM > uses inter sample ratios to quantify variability in expression .
+When the evolution stops at a sufficiently low temperature linked vertices in the same state are declared network communities .
+We produced < master alignments > for each protein so that subset alignments can be subsequently extracted through metadata queries without further realignment .
+Recently < Multiplex Ligation dependent Probe Amplification MLPA > has also been used to quantify copy number classes .
+These three indexes were summarized in a < sequence diversity plot SDP > and were used to assist cDNA microarray probe selections for organisms without any genomic information .
+Thus we can estimate the substitution matrix conditional probabilities at any other arbitrary time simply using equation and reconstruct the joint probabilities at any other arbitrary time .
+In < parametric bootstrap > the objective is to infer a characteristic from a sample xx..xn taken from a population with known distribution F .
+Lastly the viability of using global Poisson p values was assessed with the simulated spike in data sets .
+These two selected genes are then removed from the gene set and the procedure is repeated on the remaining set until a specified number of genes has been selected .
+Genes were assigned a p value in each study separately and the results were combined to estimate a gene specific p value across all studies .
+The relative binding energies for dimer formation were computed using the < MM PBSA module of AMBER > employing molecular mechanics and a continuum solvent model .
+However we felt that this would not bias the structure of the network significantly given that most authors tend to co author most of their articles with a similar group of collaborators .
+Presumably the three clusters converge downstream to some extent but at the hub level this indicates that these components offer highly specialized non redundant services to the cell cycle cluster likely due to the ancient nature of their function .
+Compared to < logistic regression > < local regression > models provide greater flexibility as the regression curve can approximate any smooth function .
+For a given feature A the boundary Tmin which minimizes the entropy function over all possible partition boundaries is selected as a binary discretization boundary .
+However calculation of alignments using these models always requires quadratic time which is prohibitively slow for many large scale applications .
+Predikin identifies the key residues in the protein kinase catalytic domain termed substrate determining residues SDRs which determine the sequence of the substrate heptapeptide .
+Another possibility is the < clustering > of t invariants as described in this paper which generally results in overlapping subnetworks .
+The area under this curve can be used as a measure of the accuracy of the test .
+In this sense < local decodings of sequences > are more informative .
+A recent study introduced an ANOVA Analysis of Variance model to select discriminative genes from several datasets derived from different experimental environments .
+The proposed assessment scheme can be used to complement existing < pre filter assessment processes > to ensure that only good quality spectra are sent for < protein identification process > reducing false positive protein detection by database search and de novo sequencing protein identification tools .
+We believe that < t prhd > is a helpful tool with which to study the pattern of repeat evolution .
+Non published indices were excluded by default but can be employed as additional replacement criteria using thresholds based on results obtained in this paper Additional file .
+< Support Vector Machine SVM > technology is used to identify articles about biomolecular interactions and confirm sentences that mention specific protein protein interactions .
+We also show that the < LMS fit > can be extended to multiple level superposition between two conformations with several rigid domains .
+Resolution of this system yields ?i j the expected frequency of dinucleotides under this < Markov chain > .
+It was found that high percentage of identified interactions shares GO Biological Process annotations   for a interaction enriched gene set and for a larger cyclically expressed gene set .
+There are at least four different ways to calculate protein identity of which the mechanism used in this work was the one based on the length of the < shortest sequence > .
+Using < DF SNPs > potential biomarkers could be quickly identified 	 SNPs SNP types or SNP patterns .
+In addition to the collection of MIPS protein complexes we have also used the same evaluation metric adopted in called < geometric similarity index >.
+In order to use PlasmoHT one need to provide PlasmoDB ID as all proteins in our dataset are not from PlasmoDB database so it could not be applied on all the proteins .
+The < single path relationship > was applied to each possible pair of these paths path for GO and GO respectively and is henceforth referred to as path pairs .
+Where the comparisons is equal to the number of cancer samples multiplied by the number of normal samples .
+The last refinement stage employs a variant of the < tree dependent restricted partitioning >.
+The results are essentially coherent with the biology .
+< SIM > efficiently aligns a transcribed and spliced DNA sequence mRNA EST with a genomic sequence containing the corresponding gene allowing for introns in the genomic sequence and a relatively small number of sequencing errors .
+The final e string obtained at the root is then <type = "verb" term = "applied" > to the sequence .
+The model parameters A and B in score function are determined by the noise variance of the spectrum swhich can be automatically estimated by < LOWESS regression >.
+< Sorting > is based on the p values calculated for the observed over representation in order to show the best results at the top of the list .
+< Quantile normalization > was proposed by Bolstad et alfor Affymetrix style single channel arrays and by Yang and Thorne for two color cDNA arrays .
+The < protein sequence Jukes Cantor model > assigns the same probability to each substitution and is hence a rather poor approximation .
+We therefore developed a < hierarchical evaluation measure > as described in the Methods section .
+Article ids were < sorted > by this score in descending order .
+The < maximality procedure > makes use of Ri with p remaining equal to the lowest index of Ri .
+The < PhenoBlast Metric > is used to rank genes based on the similarity of their phenotypic signatures to the profile of a query gene .
+Recently a 	< conservation score > for ranking predicted motif instances has been proposed .
+We < calculated > accuracy by dividing the number of comparative base pairs that were predicted exactly with Mfold by the total number of canonical base pairs in the comparative model excluding any base pairs with IUPAC symbols other than G C A or U see Prediction Accuracy Calculations in Methods .
+The class label for each test sample is determined by averaging all of its < SVM scores > and it is based on this value that the sample is classified .
+Alternately the user can designate the occupancy and/or B factor to search for particular residues or residue sets of interest .
+An alternative way to apply < non linear normalisation > is to use quantiles .
+These artificial repeats were compared to the RE nucleic acid sequences using <ClustalW > to find RS like oligonucleotides .
+In another work Bunescu et al restricted feature classes to those within dependency paths but simply < calculated > the number of co occurring features as the kernel score .
+Furthermore our < retention time prediction > model is based on a new kernel function in conjunction with < support vector regression > which allows us to predict peptide retention times very accurately requiring only a very small amount of training data .
+The < DNA microarray > is another good application of < nucleic acid hybridization > technology .
+Finally all significant clusters in which the number of elements belonging to the class that is being considered is lower than are also < discarded >.
+We thus are < considering > all possible sequence alignments and < weighing > them appropriately see according to our indel model .
+Other advantages include the ability to characterize relationships between genes and the changes in biological processes such as < disease states developmental stages and responses to drugs > .
+The pull down DNA fragments are < PCR amplified > and < co hybridized > with a whole genome sample to generate a two color image .
+In AL the distance between two clusters is calculated by the average distance between the samples in one group and the samples in the other group .
+< Whenever a stopping criterion for one of the reactions is reached > the < integration is interrupted > and the < corresponding reaction event is instantiated >.
+For example genes that cluster specifically with other genes from a more distantly related species rather than with genes from a closely related species are often inferred to have been horizontally transferred .  (not a meth)
+Just as common function can be inferred between homologous proteins < homologous interaction > can be used to infer interaction between homologues of interacting proteins .
+We decide to circumvent this problem by considering the set of all possible alignments and their corresponding likelihood under our model as opposed to a < fixed optimal alignment > .
+Chen et al predict mucin glycosylation sites using k spaced pairwise patterns and < support vector machines >.
+In future studies the use of longer sequences that form higher order structures will generate more specific peptide inhibitors from < in silico panning > .
+For instance the event whereby Alice repairs instrument is < stored > as instrument repair event number is done on instrument and is done by Alice .  (Event storing method)  applied...
+Relationships between pathway summary expressions p and individual gene expressions g for which the gene is not already a known member of the pathway may then be < compared > between two phenotypes .
+We have illustrated a < procedure for identifying interesting feature sets of genes > to distinguish a tumor class from a set of normal tissues from large scale systematic gene expression data sets obtained by DNA microarrays .
+The spatial trend is < estimated > from these centered log ratios .
+As shown in Dumais et al this can be used to improve the recall of a synonym classifier although at the cost of its precision .
+< Rescue ESE >identified candidate exonic splicing enhancers in vertebrate exons based on their statistical features .
+Promoter-Inspector program was the first software tool used to < identify > the promoters in human chromosome .
+< TFBS prediction > is usually attempted using < position weight matrices PWMs >  .  (Identification...)
+Even information on the predicted class of the neighboring tokens does not improve our results . (not)
+Our study provides an investigation of the functional organization of five coexpression networks using data from three mammalian organisms . (not)
+< Unigenic evolution >is a powerful genetic strategy involving random mutagenesis of a single gene product to delineate functionally important domains of a protein .
+< Random From Data RFD > k randomly selected genes vectors are used as the starting centroids .
+Sequences are randomly < selected > on this basis .
+Then for all the ambiguous individuals with more than one heterozygous site it picks up a compatible haplotype from that list and adds the complementary haplotype to continue the process .  (not)
+We have therefore chosen to use < a variant of PLSR called Bridge PLSR >.
+By this strategy we were able to provide functional clues to proteins that do not show any significant sequence or global structural similarity with proteins in the current databases .  (previous sentence)
+We have named this array area map as it in fact maps the total area of each object to its centroid .  (not)
+Each network < outputs > a score in the range   where scores below indicate non cleavage and scores above indicate potential cleavage .  (not a method perform...)
+The < global lowess normalization > is carried out first and takes dye biases into account .
+The final estimated accuracy of this artificial annotation is the percentage of true < LORF >.
+It is < implemented > using the R statistical language in the limma bioconductor package .
+The computationally reconstituted tissue profile S was either not further normalized or normalized by < local regression >.
+If the results of automatic alignment are unsatisfactory semiautomatic alignment is possible .
+A < Gaussian Mixture Model GMM > is employed to estimate the distribution of each existing phenotype and then used as reference distribution in gap statistics .
+java is available from the STRAP website . (not)
+In effect < BEA > was capable to detect relationships among proteins by relying on the presence or absence of third party proteins .
+A simple < estimate > of the correct rates can be obtained by using the same learning dataset as the testing one .
+Furthermore we show that our design compares favorably in terms of efficiency to the previously described < non adaptive combinatorial pooling designs >.
+Among these four factors the latter two are < obtained > from the primary sequence while the former two are < extracted > from the secondary structures predicted using Proteus .
+We implemented a < stochastic coupling scheme > to be able to couple the simulated enzyme to arbitrary simulated or experimental calcium time series .
+Then the intersection is obtained by < checking > whether each working list element corresponds to a value of true in the boolean array .
+Some tools such as DAVID and FatiGO examine the percentage of the gene list that is directly associated with a node of the knowledgebase . (make decision based on tools being used..)
+< Selecting > proteins from the table will show the full protein sequence and highlight the repeated regions allowing users to determine the full repeat motif .
+A common way to tackle this problem is to use < database searches > to find proteins similar to a newly discovered protein thus inferring protein function .
+Sequence signatures < derived > from characteristic variant patterns provide for a concise and understandable representation of individual sequences and evolving strains while the timelines < assembled > from signatures of historical sequences are a helpful tool for understanding the emergence of specific characteristics .
+Based on one of them Mandell et alhave found that the number of protein secondary structure segments is related to the coefficients cycles at certain scale calculated by < continuous wavelet transform CWT > .
+The < eQTL > locations from these individual analyses for all genes are then superimposed to identify common regions that control the expression of a large number of genes i.e contain broad effect < eQTLs > .
+Then for every pair of seeds with distance XSTREAM initially invokes a < filtration step > which jumps across Ma user defined number of times t and looks for matching hashcodes .
+Raftery < gave further empirical evidence > for the accuracy of this approximation .
+Finally to account for the multiplicity of comparisons the most significant curves are selected by controlling q values using an < FDR like procedure >.
+Among three < strategies to combine > multiple datasets concatenate feature vectors combine the kernels or combine the discriminant values we chose the strategy to combine the kernels which Pavlidis et al found to produce the best performance .
+If this probability is high and the model is good one may < infer > that the sequences are likely to be homologs .
+The most common form of < robust regression > is to iteratively weight points based on their distance from the curve .
+In the first one the selected subset starts empty and features are < inserted > by optimizing a criterion function until a stop condition is satisfied which is often based on the subset size or a threshold .
+For example < Pathway Processor > puts several generated gene expression values at the same position on a corresponding KEGG static image when it visualizes pathways .
+Lander et al introduced a < Hidden Markov Model HMM > where the meiosis indicators are the unobserved variables .
+The < microarray design procedure > described here could also be used for multi species or cross species microarray design in a scenario where the sequences with high similarity from different species cross hybridize to each other but not necessary be assembled into contigs .
+< A good agreement was observed > between computed E values and simulations for a number of complete RNA motifs .
+In such cases using spatial trend correction after < spatial segmentation > helps to remove or reduce these two types of spatial effect while preserving the true biological signal .
+The preliminary results presented here suggest that in general useful information was obtained once approximately of edges were removed from Y H datasets and a slightly higher proportion from affinity purification data .
+If the number of pre classified points is large it makes sense to use the majority vote of the < nearest k neighbors > .
+An important conclusion from the spike in experiment is that the < background normalisation > recommended by Illumina is not appropriate for some DE analyses .
+In this report we used < topological indices > to catalogue and to classify RNA structures based on the correlations between conserved RNA secondary structures and topological indices .
+pTARGET predicts < subcellular localization > using amino acid composition in combination with location specific PFAM domains .
+We start with phase classification assigning each gene a phase based on < maximal correlation > to an ideal cosine curve .
+The < phase shift lag > that produces the highest correlation coefficient is assumed to be the most likely phase of a particular profile .
+Within BeadScan the local background measures are < subtracted > from the bead foreground values to produce the intensities in the bead level text files .
+The Ito dataset see below took h when < edges were removed >.
+These two issues are realistic in the < cis regulatory motif discovery process > and are representative of current problems in cis regulatory motif discovery .
+The best matching protein sequence returned by BLAST for each input protein < was selected and terms assigned > to it by curators were then assigned as predicted term for the input protein .
+Average linkage tries to avoid these effects by < computing > the average .
+The edges were then marked as pixels of < local maxima > in filter response .
+Perl scripts query the database for BLAST hits along with gene indices to determine the number of sequence homolog pairs that occur in consecutive order .
+Within the DNA sequences gap characters are < coded > as missing data and the gap region characters are then < placed > at the end of each sequence .
+It is also possible to < select > patterns using thresholds on quality scores .
+Each expert uses a subset of the data to < predict > protein interactions and expert predictions are < combined > such that the weight of each expert depends on the input data for the predicted protein pair .
+Additionally it makes an extra of correct classification decisions when only the highest scoring predictions were used to < infer > classification .
+Picard et al used a piecewise < constant regression model > where the parameters are estimated maximizing a penalized likelihood i.e the likelihood with the addition of a penalty function .
+The de noising is achieved using < soft thresholding > or penalization so that for each gene class centroids are shrunken towards the overall centroid .
+Examples are < PDBsum > and the IMB Jena Image Library .
+A high lods-ratio < indicates > a higher chance of true differential expression compared to a low lodsratio see also Methods Parameter estimation . (?)
+Pellegrini et alfirstly proposed a < phylogenetic profile > described as a string of bits each bit representing the absence or presence of an homologous gene in a given genome .
+The innovative strategy of < ping pong search > is a na?ve path map retrieval tool for fly interactome based on the shortest paths between any two proteins collected in Fly DPI .
+For example similarity on a stretch of aa converts to similarity on an aa window .
+The < dictionary look up > performs exact matching between the terms in the lexicon and the terms in the literature .
+The results show that one may obtain a global view of the tree of life by < comparing > the metabolic pathway structures using meta level information rather than sequence information .
+< LA kernel > is one of the direct kernel functions .
+Finally we propose the use of a < training scheme > that when the training set is < enriched > for nonbinders consistently improves the overall classifier accuracy compared to cost insensitive classifiers and in particular increases the sensitivity of the classifiers .
+It also depends on the virtual tag database definition and this procedure may lead in some cases to < tag > to gene assignments that can be ambiguous incorrect or unavailable .
+On this dataset Pomeroy et al applied < OVA S N statistics > and the standard t statistics to select a number of genes and then built a weighted KNN k to predict class memberships .
+An example of how a < GenMAPP MAPP > Set can be used to display large scale data is the International Gene Trap Consortium web site where thousands of publicly available gene trap ES cell lines can be viewed in the context of biological pathways .
+Xi is < set > to the log odds score vector over the possible amino acids character derived from the multiple alignment column corresponding to position i in the window .
+Breakpoints that divide the  Gaussian distribution  into regions of equal area < are obtained > through statistical tables which give the values of the cumulative distribution function CDF of the N distribution .
+Thus for p exact repeats are < detected > while lower values allow for the detection of approximate repeats .
+The pair for the common corner in the new quadruplet is designated as a bulge with respect to the common corner residue .
+Described in this paper is a < framework for identifying subsystems dynamical modules > from a Boolean network model .
+To address this challenge we created a new pathway resource which incorporates additional genes into our existing set of pathways using prior evidence .
+As already mentioned selection of a < QSAR model > that maximizes a K  fold CV performance estimate is common in conventional chemometrics and is also applied in proteochemometrics .
+Further dissection of these is the subject of ongoing studies and consequently to be confirmed experimentally .
+Instead we estimated the < Maximum Posterior Decoding MPD alignment > that maximises the product of the posterior single column probabilities .
+Similarly to EDGE we found very similar results both when filtering out genes with missing observations and when imputing them .
+Finally a hybrid module was developed by combining < SVM module > and < HMM profile > and achieved a MCC of with an accuracy of .
+It is amenable to human intervention and modification such as hand crafted rules but can also be used in an unsupervised environment .
+< Boosting > requires choosing the number of boosting iterations but as shown in we can use < cross validation > to select this parameter .
+The effect of the prof criterion is to delay the matching of potentially troublesome peaks such as isobaric compounds ultimately until they exist alone in a block at which time the desireability of using them for alignment is evaluated by a < loess based smoothing criterion >.
+The system is implemented using the NCBI BLAST package and PERL scripts .
+Interacting motif pairs common to multiple folds of structural data of complexes were proven to be statistically significant .
+The < smallest numbers of train test experiments > allow the generation of the highest or most optimistic accuracy estimates .
+< Jack-knifing > was particularly efficient to detect influential observations or outliers in our setting .
+Progress is determined by an increasing value of sensitivity+specificity hopefully nearly reaching .
+Progress is determined by an increasing value of sensitivity+specificity hopefully nearly reaching .
+The numerical implementation is fast and stable on common personal computers .
+We introduce < discrete convolutions > as an accurate and fast mean to estimate score distributions of lod score profiles .
+The results strongly suggest that the highest scoring genes are enriched for those that might contribute to disease if mutated .
+ Normalized For each motif the measurement M is normalized by subtracting the mean and dividing by the standard deviation over all the programs on that motif and the average of these normalized scores over all motifs are obtained .
+They identified sites which were highly conserved lower entropy in the brain but not in blood suggesting that the virus had forgone mutations to adapt to brain tissues .
+The ability of microarrays to identify gene expression signatures specific subsets of genes that respond to particular stimuli make them valuable tools for characterizing organisms response to environmental conditions and host parasite interactions .
+MCODE parameters were relaxed to haircut TRUE fluff FALSE VWP   although they could be further relaxed for greater extension out into the network .
+ Lassmann and Sonnhammer proposed a < measure to assess alignment quality > by comparing several multiple sequence alignments assuming that regions identically aligned by multiple tools are more reliable than regions differently aligned .
+In addition a confidence interval for the tilt angle is computed from the confidence interval for the slope of the average feature displacement equation .
+For comparison we applied the Wesfall and Young step down < multiple testing procedure > with a univariate counterpart of as the test statistic .
+We define a new < procedure that estimates the number of segments > adaptively to the data .
+The combination of classifiers uses the list returned by the vector space module as a reference list RL and the list returned by the regular expression module is used as boosting list BL .
+It was experimentally shown that the gain in execution time can be outstanding without compromising the accuracy .
+The calculations have been repeated for all the proteins and computed the overall accuracy .
+DomCut predicts linker regions based on sequence alone relies solely on amino acid propensity .
+If X has the same base at that position as Z the assumption is that the change most likely occurred between Y and its common ancestor with X .
+To analyze a combined data set of two different data sets the < transformation of gene expression > was introduced .
+< Gap statistics > are used to estimate number of clusters from the experiment dataset PP.
+The above dataset was used for training and testing tasks in both the leave one out cross validation and five fold cross validation procedure see below .
+< DWT > can be conducted by means of the MRA .
+The first true evolutionary model of < indel evolution > was introduced by Thorne Kishino and Felsenstein the TKFmodel and allows single residue indel events .
+TMBETA NET is a < Neural Network based predictor > using as input single sequence information .
+In this < scoring schema > dependency between some positions in a given TFBS is assumed .
+Elhammer et al < use information derived from the frequency of amino acids in the neighborhood of a glycosylation site to identify > putative glycosylation sites .
+We introduced an extension to CAGED that overcomes this limitation and is more suitable to cluster short gene expression profiles in .
+Thus solid and liquid material can be easily analyzed by < TOF MS >.
+Qi is the actual amino acid frequency of amino acid i in the column after adding in pseudocounts .
+Earlier work that used < HMM with discriminative training > modified model emission probabilities by iteratively aligning negative sequences to the model .
+Here we demonstrate the effectiveness of a < Markov model > named the < Linear Dynamical System > to simulate the dynamics of a transcript or metabolite time series and propose a probabilistic index that enables detection of time sensitive changes .
+Here an HMM with EVA is used to reduce the gaussian noise bands around a given level while still strictly retaining transitions between levels .
+Teodorescu et al proposed a linear combination of < threading and sequence alignment > to produce a single mixed scoring table .
+The residue variables were also projected onto the same space so that group specific residues could be identified .
+Briefly four comparisons were done DMDa versus controla DMD b versus controla DMDa versus controlb DMD b versus controlb and only those genes retained which showed   fold change in all four comparisons .
+To compare different partitions of the genes we compute the posterior probability of different clustering models so that given the observed gene expression profiles the best < clustering model > is the one with maximum posterior probability .
+The area under the ROC curve provides an estimate of the probability that a gene is regulated between the two groups .
+We chose the gene with the maximal < cosine similarity > between the test article and the centroid of the training samples belonging to a given gene gene profile .
+In it is suggested to estimate any empirical distribution by dividing the real axis into intervals and regarding the number of hits in each interval as the result of an < inhomogeneous Poisson process > much like counting the number of cars arriving at a crossing during different time intervals .
+Ginter introduced a new family of classifiers which were based on an ordering and weighing of the feature vectors obtained from word counts and word co occurrence in the text .
+We thus developed a new profile that replaces the prediction irrelevant features by hydrophobic information represented in SARAHscale .
+The weights were normalized so the profile profile score had a weight of one .
+In a < search for putative WSSV regulatory promoter > elements we compared the abundance of all or nucleotide motifs in the and nt upstream sequences of all WSSV genes relative to their presence in the complete WSSV genomic sequence .
+We have shown that probes which target overlapping transcript sequence regions on cDNA microarrays and Affymetrix gene chips exhibit a greater level of concordance than the corresponding Unigene or sequence matched features .
+Then in each iteration each random tree will be refined with the newly labeled examples by its concomitant ensemble where the confidence of the labeled example exceeds a certain threshold .
+The most frequent haplotypes pairs can then be assigned for each genotype in the sample .
+The epitope region is narrowed down by repeating the process .
+The coverage can also be estimated in nucleotide numbers .

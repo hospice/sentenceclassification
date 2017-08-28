@@ -1,0 +1,572 @@
+In order to compare U133A and U133 Plus 2.0 data , we further normalized the data with a rank-based normalization method .
+The Ortholuge method, reported here, appears to significantly improve the specificity ( precision ) of high-throughput ortholog prediction for both bacterial and eukaryotic species .
+Out of 41 naturally contaminated infant formulae and environmental samples analysed for the presence of E. sakazakii , 23 were positive by real-time PCR and 22 by the conventional culture method , giving 97.5 % concordance with the ISO-IDF reference method .
+The second method used was that of cumulated amounts ( CUSUM ) [ 13 , 14 ] , non routinely used by the systems in French Guiana and used with a verification aim .
+We designed a method for identifying transcript sequence pairs that are putatively orthologous between the two species considered .
+Susceptibility testing was performed by Stokes ' method [ 9 ] on Iso-Sensitest ( Oxoid Limited , Basingstoke , UK ) agar plates .
+A graph-clustering method based on flow simulation ( Markov chain graph clustering , MCL ) was used to identify clusters in this network that correspond to the sets of coexpressed genes .
+We present a method that harnesses the statistical power provided by having several HDONAs available , which are obtained under similar conditions except for the experimental factor .
+The air sampling and extraction methodology developed in this study should be applicable to the detection of rhinovirus and other airborne viruses in the indoor air of offices and schools .
+A widely used method in metabolomics is principal component analysis .
+A method here referred to as the smoother appeared in [ 9 ] .
+Here , we propose a method that predicts nsSNPs based on the SVM [ 38 ] .
+For this purpose , and because of concerns related to the available genotyping techniques mentioned above , we developed a novel analysis method based on classical detection of genetic variants by dideoxy fingerprinting [ 23 , 24 ] .
+Two related papers [ 23 , 24 ] describe a method for local structural similarity detection , which is of great relevance since it is able to evaluate the statistical significance of each match .
+Here , we propose an integrated statistical method to estimate the effective SNP size .
+Yet another straightforward and popular method is to select a classification that maximizes a measure of difference between the two groups , such as the p-value of a chi square statistic [ 9 , 10 ] .
+We developed a gene cluster classification method that circumvents these limitations and links biological function with gene expression patterns derived from microarray experiments .
+The method will allow for the detection of any subjects that have probe set values that differ drastically from a mean and outside of a certain threshold ( e.g. Standard deviations from a mean ) .
+Recently , an isothermal WGA method was introduced using bacteriophage F29 DNA polymerase and random hexamer primers [ 9 , 10 ] .
+Here , we present a new method for multiplex PCR that simplifies assay development and provides several technological advantages that facilitate fluorescence-based SSR genotyping and the multiplexed preparation of DNA templates for SNP detection .
+Recently , we have introduced a new automated method for the assay of the plasma antioxidant capacity , based on the bleaching of crocin .
+The MLVA method can be applied to S. uberis genotyping and constitutes an interesting complement to existing typing methods .
+The most widely accepted method employs the ' constant majority ' method , which assumes that the majority of reporters do not change in ratio .
+In that paper , our pKa measurements on acetic acid in DMSO-water systems were based on the potentiometric method , using properly calibrated glass electrodes , which determine the activity of H+ , and on estimates of the activity coefficients of the acetate ion .
+To date , only one method for prediction of the residue depth based on the protein sequence was developed [ 30 ] .
+We have developed a novel method for selecting significant genes in comparative gene expression studies .
+The second generation of SS prediction methods started by the method of Garnier , Osguthorpe and Robson ( GOR method ) [ 12 ] and improved in several steps [ 13 ] .
+The propensity score-adjusted bootstrapping method was also used to test the mean differences of costs for the 2 high level crisis event groups : patients with 2 or more crisis-event variables and patients with 3 or more crisis-event variables .
+The survival analysis residual method attempts to detect a genetic effect on the age of onset of obesity / overweight .
+Since this work was completed , an extension to the OCTOPUS method which incorporates signal peptide prediction , SPOCTOPUS [ 22 ] , has been released .
+Two measured blood pressures were generated for each individual in the population using a previously described methodology [ 7-9 ] .
+We compared the gene lists generated by the RFE method to the result of a meta-analysis approach as described by Rhodes et al. [ 8 ] .
+[ 12 , 13 ] We felt that the Delphi procedure was the optimum method to obtain consensus on the items to be included in the tool as well as the phrasing and scoring of items .
+For the instances where mediation was demonstrated ( when all four conditions were met ) , we calculated the proportion of the relationship between relationship style and match in a primary care specialty that was mediated by the specialty choice factors , using the methods of Shrout and Bolger [ 29 ] .
+" Protein-trap " is a method that allows epitope-tagging of endogenous proteins .
+( 2 ) Another method uses the mean and standard deviations of the mean signal intensities of all negative control spots as a surrogate for mean and standard deviation of background intensity of each spot [ 15 ] .
+We have established a method for the comparison of the relative fitness of L. monocytogenes strains utilising a novel , stable integrative plasmid , pIMC , based on the pPL2 phage integrase plasmid .
+Digital karyotyping is a SAGE ( serial analysis of gene expression ) based method to enumerate genomic DNA tags [ 8 ] .
+Final alignment among aa sequences within each group was generated with PROALIGN V0.4 ( available at [ 38 ] ) , a program implementing a method for multiple sequence alignment that combines an HMM approach , a progressive alignment algorithm , and a probabilistic evolution model describing the character substitution process [ 39 ] .
+Earlier we have proposed a simple method to carry out the restriction enzymes analysis of mammalian DNA in silico based on the known DNA sequences of eukaryotic genomes [ 11 ] .
+A third popular method is the lipid film 's hydration : a phospholipid solution in chloroform is dried under vacuum to obtain a lipid film ; this lipid film is subsequently hydrated in a solution containing the protein [ 9 , 10 ] .
+We report here a reliable automated microscopy method for quantitative measurement of myosin light chain phosphorylation in adherent cells .
+We also evaluated the proposed method on all SAPs obtained from the Swiss-Prot , the method achieves 0.42 MCC with 73.2 % overall accuracy .
+We have used this method extensively to evaluate the species specificity , reproducibility and to discriminate among the three different characterised populations of teak defoliator .
+Table 3 summarized the results of predictions obtained in this way , using a leave-one-out method .
+We also expected that CIs based on the GEE estimator of location would be narrower than the Zlr-bootstrap CIs because the GEE method jointly models the IBD sharing pattern at all markers .
+A highly accurate method has been developed for predicting subcellular location of mycobacterial proteins .
+HMM-B2TMR , is a profile-based HMM method , that was trained for the first time on a non-redundant set of 12 outer membrane proteins [ 17 ] and later ( current version ) on a larger dataset of 15 outer membrane proteins [ 55 ] .
+Recently , a method for unique oligo discovery that was a modification of a central pattern partitioning principle was published [ 17 ] .
+Limma is a statistical method which can be used to identify differentially expressed genes in complex microarray experiments .
+In a previous study , we identified motifs associated with life span extension in sch9? , ras2? , and tor1? using a cut-off based method [ 29 ] .
+Finally , PROQRES is the only method in this set , which has been developed specifically to predict local errors in crude protein models .
+In order to separate the effect of the method from the procedure to impute the missing values , we repeated the analysis both by filtering out all the genes with missing observations and by using the KNN method to impute them .
+However , the rigorous tableau searching method is too slow for a full database search , and so Konagurthu et al. [ 18 ] introduce TableauSearch .
+Our method [ 17 , 25 ] measures the change in forearm blood flow using venous occlusion plethysmography following the local , intra-arterial infusion of vasoactive substances .
+Randomisation took place using stratified randomisation , in particular the minimisation method described by Pocock [ 19 ] .
+The multifactor-dimensionality reduction ( MDR ) method [ 2 ] was developed specifically to detect higher-order interactions among polymorphisms even when the marginal effects are very small .
+We demonstrate the utility of this method on four examples comprised of one non-coding data set and three coding data sets .
+For that , in the here-illustrated example , we applied the method of Singular Value Decomposition ( SVD ) , the equivalent of principal components analysis .
+In the 2003-2004 survey , a pool of about 45,000 telephone numbers from complete listings of conventional telephone extensions belonging to private households in Germany was randomly generated , applying the Häder-Gabler method [ 29 ] .
+In consultation with the executive members of these associations , all 4,045 names of the members of the associations were obtained through stratified sampling and a probability sampling method was used to select 600 respondents for the questionnaire survey .
+In summary , the control method is essentially a restriction to STEPS 1 and 2 of our identification method ( see Results section ) .
+The direct digital transfer is - with respect to workflow integration and image quality - obviously the most attractive method and is the preferred way in the context of the establishment of PACS .
+We propose an Interaction-Identifier method to identify the candidate form of interaction among the TFs and RNA polymerase ( RNAP ) on the promoter of a target gene .
+Tackling these difficulties , we utilize a novel approach for quantitative rigorous multiple-knockouts analysis , the Multiple-perturbations Shapley value Analysis ( MSA , See Methods ) , a methodology introduced at [ 13 ] .
+We also tested a third described method for cell lysis , which is grinding deep-frozen cells with a mortar [ 20-22 ] .
+We have proposed a new method to analyze the protein-protein interaction network grounded on the combination of a clustering algorithm of the vertices and a refined method allowing to assign a function to proteins of yet unknown function .
+The temporal method BDL was used to test specific hypotheses of diversification rate shifts [ 39 , 53 ] .
+Previously we developed a method to predict CRMs based on TF interactions [ 11 ] .
+To calculate the costs of production loss due to sick leave , we used the friction-costs method [ 33 ] .
+Since the latter method allows for direct computation of the thresholds for all traits , whereas the simulation required significant computing time for each trait , we used the thresholds obtained using the effective number of markers .
+The temporal method allows to estimate the effective population size through the analysis of the variation in the allele frequencies of temporally spaced samples of a given population [ 41 ] .
+The most recent studies considered the number of patient-days according to the method described by Rosendaal [ 15 , 16 , 21 ] .
+The classical optimization method ( single variable optimization ) is not only time-consuming and tedious but also does not depict the complete effects of the parameters in the process and ignores the combined interactions between physicochemical parameters .
+Chan et al. used a non-alignment based method ( FastCompare ) to identify conserved k-mers in worm and fly [ 24 , 31 ] .
+An advantage of our proposed method relative to testing procedures based on genotypic data is that only p-value data are needed .
+We have developed a drug target prediction method based solely on protein sequence information without the knowledge of family / domain annotation , or the protein 3D structure .
+I will start by describing the steps to implement the method before explaining how to derive those steps .
+Unlike many existing methods , our proposed method is simple and effective .
+In any case , when the inter-SNP distance is small ( < 1 cM ) , one can employ the MILC method to take care of recombination , and then single-point linkage analysis has more power .
+A method is described which permits the calculation of a general similarity measure , the n-gram score , without having to reveal the data being compared , albeit at some cost in computation and data communication .
+With the long-term aim of setting up a screening method to identify novel regulatory cis-acting sequence elements and the associated multimeric complexes , we have evaluated the use of uv-crosslinking .
+We propose a method for an integrated study of survival time and gene expression .
+Therefore we developed a method that relates variations in kinetic parameters to differences in protein structures .
+The iterative clustering method offers considerable improvement over clustering in all genes .
+By capitalizing on the ease , sensitivity and reproducibility of SELDI-TOF-MS , a novel non-radioactive , mass spectrometry-based method has been developed to study phosphorylation events .
+We have developed a computational method to estimate the pre-miRNA content and to predict the location of precursor miRNAs in genomic sequences .
+The Negative Subtraction Hybridization method described here has several practical benefits .
+Here , we demonstrate how the use of SQUAD helps to simulate the behavior of regulatory networks , modeled with the standardized qualitative dynamical systems methodology .
+To date , most investigations of electrical impedance of acupuncture points or meridians have used a two-electrode method , i.e. , the two electrodes used to introduce an electrical current were also connected to a voltmeter to measure the voltage between the two electrodes [ 1-4 , 6-8 , 10 , 11 , 14 , 15 ] .
+Stepanova et al [ 25 ] developed a method which can be used for the prediction of hormone-response elements ( HRE ) de novo .
+One method for translating clinical questions into accurate queries is the PICO method .
+In order to explore the plasticity of the Mic-PCC7806 genome further , the number of CDSs with an atypical dinucleotide composition was determined using a one-order Markov chain-based methodology [ 25 ] .
+Because stem cells are targeted by the amniotic fluid , in utero delivery method , the specific inhibition of C-MYC in a relative small population of cells ( < 107 ) has a highly significant effect on the histology of the rapidly developing lungs and intestines .
+To investigate the functional relationship between individual modules and stress response , we used the singular value decomposition method as developed by Alter et al. [ 29 ] and applied by Oldham et al. and Horvath et al. [ 19 , 30 ] .
+Operons of mycobacterial genomes were predicted using methods described by Alm et al. [ 38 ] .
+One alternative method which has been recommended for country wide prevalence estimates is the Multiple Indicator Method ( MIM ) [ 6 ] .
+We describe a new method for identifying outliers when fitting data with nonlinear regression .
+We have developed a feature selection method named Supervised Recursive Feature Addition ( SRFA ) .
+It uses a simple grid-based method and separates the probe size used to define voids from the probe size used to define channels to the surface .
+We estimated the recombination rate at each TE insertion site method using a method previously developed for the D. melanogaster genome [ 54 ] .
+Based on the ECD coordinates and orientations obtained in the control condition , the method of source space projection was applied to the averaged magnetic field of each condition .
+The results of amplification were analyzed by the comparative threshold cycle method , also known as the 2-??Ct method [ 60 ] .
+We used the ' fossil cross-validation ' method to measure the agreement between these different calibration points [ 17 ] .
+The method is available in the limma software package which is implemented in the R software environment .
+Furthermore , each event was checked using a second method in the RDP package , SISCAN ( SSC , [ 85 ] ) .
+Therefore , to evaluate the performance of various methods , we used a different method pioneered by Nye and colleagues [ 2 , 25 , 38 ] .
+The first and oldest method , proposed by Lipman and Pearson [ 10 ] and described extensively by Comet et al. [ 11 ] and others [ 12-14 ] , uses Monte Carlo simulations to investigate the significance of a score , s calculated from the alignment of two real sequences a and b .
+Among the diverse methods that have been proposed for dealing with multigene data sets is the so-called supermatrix method [ 2 ] .
+We propose a method , called MetaViz , which enables to draw a genome-scale metabolic network and that also takes into account its structuration into pathways .
+We propose a multiple clustering method to perform the clustering .
+An Integer Linear Programming method has been proposed in [ 9 ] to reduce the number of probes in the greedy design .
+Breiman et al. developed a decision tree ( DT ) model , which uses a variant of the classification and regression tree ( CART ) method .
+Using the attached spreadsheets and instructions , a simple post-acquisition method for analysing bivariate flow cytometry data is provided .
+The parameter values determined at convergence of the distance function were then seeded into a subsequent quasi-Newton minimization method with box constraints [ 25 ] .
+We propose an alternative baseline correction method based on a penalized smoothing model .
+We also proposed a submatrix imputation method to determine whether to use integrative imputation with a given collection of reference datasets .
+The present study proposes an original method to study phosphorylation of proteins in complex , heterogeneous , cell populations such as unseparated PBMCs .
+We developed a method to detect sequence motifs corresponding to putative regulatory elements in gene promoters , starting from lists of approximate patterns with occurrences in promoter sequences .
+In this paper , we present a computational improvement to a sequence clustering method that we introduced previously to analyze large microbial metagenomic datasets , and that was used in the GOS study [ 9 ] .
+For the comparison of statistical nucleotide sequence properties of CDSs among viruses and their hosts , we used the method proposed by Sandberg et al. [ 30 ] .
+Differentially expressed genes were defined as the extreme outliers in each experiment , using an intensity-dependent strategy modified from the HT-self method [ 133 ] and described in [ 34 ] .
+We presented a method for finding relationships between the expression of a gene and that of a known pathway , that are changed across phenotypes .
+A second and more powerful method to detect selection was also applied .
+The association method tests whether variation in a gene is correlated with an outcome ( e.g. PTSD ) .
+Association rules discovery technique ( ARD ) is a data mining method that has been extensively used in many applications to discover associations among subsets of items from large transaction databases .
+Automics implements a fuzzy wrapping method [ 28 ] .
+To calculate the relative expression ratio , the 2-??Ct ( RQ , relative quantification ) method implemented in the 7500 Real Time PCR System software [ 49 ] was used .
+More recently , other methods have become available , such as the " Assumption-free analysis " [ 36 ] .
+We have shown that a multi-way method can be used to analyze differences in the amino acid composition within and between species .
+A modified FBA method with minimization of the 1-norm objective function between two optimal flux distributions was used to determine optimal intracellular fluxes based on the EM-constrained metabolic models .
+The reference methods FASTA and BLAST give quite different results : FASTA is a good second and BLAST has scores similar to Paracel and Biofacet .
+The algorithm uses Markov Chain Monte Carlo methods to select at random a value from the distribution of the possible values predicted by the missing value model .
+A standardized actometric method has been developed for the assessment of neuroleptic-induced akathisia ( NIA ) [ 21 ] .
+Linear & LOWESS , which is the default normalization method in the Agilent Feature Extraction Software A.7.5.1 , were applied for normalizing Agilent microarrays .
+At present the most popular method of PCR efficiency assessment is based on the slope of standard curve .
+However , the disadvantage of this method is that subsequent tumour samples have to be taken at intervals during several days after the administration of BrdUrd [ 7 ] .
+The authors devised a fully automated method which showed time savings over manual methods and very high intraclass correlation between the two methods for use with three different radioligands .
+Tsai et al. proposed a statistical method to identify cell cycle associated TFs in yeast , which used the Kolmogorov-Smirnov ( KS ) test to examine whether expressions of the target and non-target gene sets of a TF are significantly different [ 8 ] .
+The approach we focus on in this paper is a straightforward method developed by Mee and Chua [ 12 ] based on classical t-test statistics and a linear regression model .
+We present Searchpattool , a new method to search for and select the most specific ( conservative ) frequent patterns .
+We propose a robust semiparametric method in a two-way semi-linear model ( TW-SLM ) for normalization of cDNA microarray data .
+For the SEER dataset , we also fit our model for cancer progression [ 11 ] with the inferential method described in reference 12 .
+Besides two global methods ( maximization of the spectrum integral and minimization of the spectrum entropy ) implemented in Automics , we have introduced another easier to implement method for automatic phase correction .
+Haplotypes with a frequency of at least 0.01 were analyzed using a two-step PCA method [ 13 ] .
+They used the least squares method for estimating the normalization curves based on B-splines .
+Another sequence-based method relies upon the presence / absence of hand-picked " signature sequences " ( conserved insertions / deletions ) [ 7 , 8 ] to infer descent .
+Missing values were then replaced by the Expectation-Maximization algorithm or EM algorithm , a maximum likelihood method [ 23 ] .
+Cell wall fragments were purified from a stationary phase culture of L. brevis cells by differential centrifugation of GHCl-treated , mechanically disrupted cells followed by treatments with nucleases and boiling SDS as described in Materials and methods .
+A method was developed to isolate dentate gyrus and EC tissue in mouse brain .
+The authors have developed a field sampling method for obtaining high quality DNA from bluegill sunfish ( Lepomis macrochirus ) .
+To generate sufficient material for profiling by microarray , a global amplification method was designed to overcome the detrimental effects of high-cycle-number PCR amplification on transcript representation , and to alleviate inefficient amplification by in vitro transcription in the nanogram range ( Figure 2B ) [ 31 ] .
+We used a diagnostic method developed by Rocke [ 29 ] to examine the contribution of different factors to measured differences in signal intensity in 6 hybridizations ( 3 replicates with dye-swaps ) comparing Xoo gene expression in PSB vs. XOM2 using the Xo array .
+We used commercially available colorimetric method ( Randox Laboratories Ltd , UK ) .
+As a prerequisite to carry out proteomic experiments with early zebrafish embryos , we developed a method to efficiently remove the yolk from large batches of embryos .
+Cross-species chromosome painting [ 25 , 26 ] is a powerful method for investigating the evolution of genome organizations .
+The reconstructed metabolic network was used in combination with a computational method published by Patil and Nielsen [ 27 ] for analysis of large-scale gene expression data referring to a study on glucose repression in A. nidulans .
+In this paper we propose a method to select regulation factors , i.e. to infer the form of TF-TF and TF-RNAP interactions for each target gene .
+The paper by Taewon Lee et al. [ 51 ] presents a method to test the significance of expression changes within a group of genes , while considering the correlation structure among genes in each group .
+A direct analysis of translational control can be achieved by fractionation of cytoplasmic extracts in sucrose gradients , based on the methods described for polysome analysis [ 21 ] , which involves size separation of large cellular components and monitoring the A254 across the gradient .
+We have developed a method of studying the organization of the genome by analysis of the 3D organization of telomeres in the nucleus and their positional changes along the cell cycle , using flow-sorted living cells .
+Our method takes into account the information presented in multiple templates / alignments at the three-dimensional level by mixing and matching regions between different initial comparative models .
+Comparisons of the relative rates of development between fore- and hindlimbs within each species were made using the event-pair method .
+To randomly allocate participants to one of the three intervention groups the bias coin method of allocation , using a computer-based random number-producing algorithm , is used .
+In addition , a post-transcriptional method of capping was utilized for final modification of the CD40L RNA .
+Although our primary analytic methods will focus on the concordant pair design , we will also use a complementary and related approach , the discordant sibling pair method .
+In this paper , we propose a method for the normalization procedure based on a non-linear mixed-model , as well as a new approach for determining the statistical significance of altered probes based on linear mixed-model .
+In this report we describe the implementation of the beta-binomial method to pool the absolute risks from overdispersed data .
+To estimate relative risk ( RR ) of marker ( s ) identified as associated to autism in the present paper , we used a conditional likelihood based method [ 36 ] .
+Temporal autocorrelation was estimated using the first-order autoregressive ( AR1 ) method on suprathreshold voxels .
+Firstly , the genome length was estimated using Method 3 of Chakravarti et al. [ 52 ] , which is a modification of the method-of-moments estimator proposed by Hulbert et al. [ 53 ] .
+Lee and colleagues [ 3 ] improved on a previous work [ 21 ] by creating what we refer to in this paper as the Integrated Bayesian ( IB ) method .
+In addition , we used the rarefaction method of Petit et al. [ 41 ] to correct for the difference in the number of genes sampled in the two species .
+Chi Squared : Another commonly used feature selection method is Chi-square statistic ( ?2 ) method [ 3 ] .
+Linkage analyses were conducted using the variance components analysis method as implemented in the SOLAR program [ 2 ] .
+Linkage analysis with microsatellite markers was performed using a nonparametric allele-sharing method [ 6 ] implemented in software ALLEGRO [ 7 ] in each of the 10 replicates and also in the pooled data .
+One such Fst method is described in [ 2 , 5 ] ( but see also [ 6 ] and [ 7 ] ) and is implemented in the fdist program and can be used for any codominant genetic molecular markers including microsatellites , Single Nucleotide Polymorphisms ( SNPs ) and allozymes .
+The 2-?Ct formula is a modification of the arithmetic comparative 2??Ct method [ 59 ] that was developed to enable normalization to a measurement external to the PCR experiment ( in this case , input cDNA ) , for measuring the expression of ' housekeeping ' genes following different treatments .
+In order to determine the adaptive evolution of ESAG sequences , we used the method described in [ 63 ] to characterize the relative rates of non-synonymous and synonymous substitutions within the ESAG6 , ESAG5 and ESAG2 gene families from each of the three trypanosome subspecies .
+Here we propose a method , implemented in MXSCARNA , for fast multiple alignments of RNA sequences .
+We presented here a new computational method for verification of PPIs that is based on the co-expression of orthologous protein-pairs , and demonstrated its predictive power using PPIs identified in S. cerevisiae .
+A method that employs an integrative literature- and data mining approach to select candidate genes was used to select candidate genes for FAS [ 31 ] .
+According to the method described by Tiffin et al. [ 31 ] , Dragon Disease Explorer ( DDE ) was used to extract eVOC anatomical terms from the body of literature , where after they were used to extract candidate genes from the Ensembl database .
+Internal calibration is a widely used method in mass spectrometry .
+Here we present the design and implementation of a novel and robust online phenotype discovery method with broad applicability that can be used in diverse experimental contexts , especially high-throughput RNAi screens .
+To control for the possible effect of common phylogenetic descent , we used Felsenstein 's [ 45 ] independent comparison method as implemented in the computer program PDAP ( Vers. 6.0 , module PDTREE ) by Garland et al. [ 46 ] and Garland & Ives [ 47 ] .
+To meet the needs of clinical proteomics of comparing large sets of 2D gels , we have developed Sili2Dgel an automatic gel alignment method based on graph theory to find SAP ( without manual adjustment ) after a recursive alignment procedure .
+In order to compute the distance between a matrix and a set of indices , our software uses the correlation method described by Tomii and Kanehisa [ 23 ] .
+The method of Chaussabel and Sher [ 2 ] can be used to analyze gene lists in order to cluster the genes based on up-to-date literature associations .
+Relative changes in gene expression were calculated using the ??Ct ( threshold cycle ) method .
+The nested-PCR fragments from PKD1 cDNA showing no abnormality in size were further screened for mutation by a multiple restriction fragment-single strand conformation polymorphism ( MRF-SSCP ) method .
+As an alternative to the existing noise detection and interpolation approaches , we developed a new baseline correction method based on a penalized parametric smoothing model .
+Random telephone numbers following the method by Gabler and Häder were used to contact interviewees [ 11 ] .
+A more general method , described in [ 11 ] , used scores based on atom pairs that contact across interfaces combined with iterative partitioning of the graph representing crystal contacts in order to predict complexes .
+Due to the spread of residues being more on the diametrical plane of these helices , the axis found using the eigenvector method lay closer to the plane of the diameter instead of being normal to it .
+Myoblastic cells capable of spontaneously differentiating and fusing into myotubes were generated by a standard method involving enzymatic digestion of mouse muscle tissue [ 34 ] .
+To compare organism amino acid composition , we performed hierarchical clustering using the complete linkage method with distances computed using the Euclidean metric on a dataset that consisted of the mean percent amino acid composition from all predicted open-reading frames for each of the 100 organisms ( Figure 2 ) .
+The TatP method is able to positively classify 91 % of 35 known Tat signal peptides and 84 % of the annotated cleavage sites of these Tat signal peptides were correctly predicted .
+To produce an accurate multiple sequence alignment of a domain family for pinpointing insertion events , the structure-based multiple sequence alignment of each family was constructed with a similar method proposed by Casbon and Saqi in building S4 , a database of structure-based sequence alignments of SCOP superfamilies [ 15 ] .
+In surveys 1 and 3 , the hundred-bank method [ 11 ] was used to generate telephone numbers .
+Instead of solving the master equation , a widely used method is to carry out Monte Carlo simulations using the Gillespie algorithm [ 14 ] .
+BayGenomics [ 3 ] and other members of the International Gene Trap Consortium ( IGTC ) [ 4 , 5 ] typically use 5 ' RACE [ 6 ] , a common method for amplifying sequence from gene insertion events .
+A second method to locate novel regulatory regions within the genome is the search for statistically improbable concentration of putative binding sites for a transcription factor or a set of functionally related transcription factors .
+We are able to build a low bias and a low variance predictor using model-averaging method : classifier ensembles .
+In this study , protein truncation testing ( PTT ) was the methodology used .
+We present a novel method for classification of hot and cold ORFs located in hotspots and coldspots respectively in Saccharomyces cerevisiae , using support vector machine ( SVM ) , which relies on codon composition differences .
+We used the ecological method of Carstairs and Morris [ 14 ] ( 1990 ) to assign a socio-economic deprivation index to each postal address .
+A highly effective method , termed suppression subtractive hybridization ( SSH ) , has been applied to generating subtracted cDNA libraries of various systems .
+[ 7 , 8 ] This algorithm , which is usually referred to as the Chou-Fasman method , tries to find structures based on the difference in the probability of observing each of the twenty residues in helices , sheets and other structures .
+Nevertheless , SAM has one much worse problem : its method for estimating FDR , which we will show does not produce meaningful results .
+Correspondence analysis [ 21-23 ] is a powerful method for the multivariate exploration of large-scale data .
+To evaluate the genetic diversity of R. africae , we used the multi-spacer typing ( MST ) method as previously described [ 53 ] .
+A third method , qRT-PCR was used for independent validation of miRNA microarray data for the relative expression of miRNAs in mouse brain [ 39 ] .
+For this epidemiological study we have chosen a standardized observation method : the Dysphagia Disorder Survey ( DDS ) / Dysphagia Management Staging Scale ( DMSS ) .
+Elements defined by our method can be approximated using vectors , and we have retained longer elements wherever possible .
+A computerized method , termed receptive field imaging ( RFI ) , for rapid mapping of multiple receptive fields and their respective sensitivity distributions was used in all experiments .
+The proposed method has the practical advantages , over existing approaches , to consider complex heterogeneities in the alternative hypothesis , to take into account prior information ( from an expert judgment or previous studies ) by allowing a semi-supervised mode , and to deal with truncated distributions such as those obtained in Monte-Carlo simulations .
+Since the vast majority ( 59 of 62 , 95 % ) of our multiplex families were nuclear families with two or more affected siblings , but no other affected relative pairs , we used the nonparametric MLS method for affected sibling pair data [ 76 ] to compute family-specific lod scores .
+To account for the non-independence between these SNPs , a spectral decomposition method was used to obtain the effective number of independent SNPs [ 10 ] .
+For gene deletions , the Red / RecET recombination method developed by several groups [ 6-11 ] is considered as the most useful now .
+To determine whether differences in Hps gene copy number among soybean lines could be detected by other methods , we performed a comparative genomic DNA hybridization to cDNA microarrays .
+We have recently developed an SVD-based phylogenetic method that provides accurate comparisons of a high fraction of sequences within whole genomes without the prior identification of orthologs or homologous sites [ 13 ] .
+In the past we reported the development of a method to generate such models called the Stabilized Matrix Method ( SMM ) .
+We used the Sammon projection method [ 27 ] as the embedding procedure .
+Note that caution should be taking when evaluating the predictive performance of the ARB method .
+Note that caution should also here be taking when evaluating the predictive performance of the ARB method .
+The second algorithm used was PAM ( Predictive Analysis for Microarrays ) , a shrunken centroid method of classification [ 15 ] .
+Thus , we have developed a reliable heuristic method for determining dependency types automatically given the dependency structure .
+Although this method has limited usage , it is a useful addition to the sequencing methods in some cases , e.g. , where cDNA is not readily available .
+Employing a similar calculation procedure to the previous method , this one emerged as a consequence of the objections raised by certain researchers about using RRs to estimate smoking attributable mortality from other countries [ 72 ] .
+Although there are a range of methods to elicit qualitative information from children , a technique that has become popular is " draw and write " [ 16 ] , which was first described by Williams in 1989 [ 17 ] .
+Recently , researchers have developed a method for discovering SNP loci and estimating MAF in a single run , by pooling individuals and digesting with HaeIII , selecting fragments in the 70-200 bp range ( creating a reduced representation library , or RRL ) and resequencing .
+However , the successful application of the method is contingent on data quality control ; e.g. , amplification efficiencies .
+Selective genotyping can be an efficient method , providing good power as compared to complete genotyping at a reduced cost [ 20 ] .
+For example , consider the evaluation method of generating synthetic data using computer simulation techniques [ 6-9 ] .
+We describe a tissue culture method combined with a novel read out system for both tissue cultivation and rapid assessment of drug efficacy together with the simultaneous identification of different cell types within non-fixed breast cancer tissues .
+The YIU method allows rapid conversion of cDNAs into shRNA templates .
+Viestenz et al. [ 11 , 12 ] and Quentin et al. [ 13 ] used the method of simultaneous slide projection to evaluate the rotation of the toric lens .
+To remedy this problem , Zhang et al. [ 23 ] developed a novel coalescence-guided hierarchical Bayesian method wich uses a hierarchical structure to directly model the coalescence relationship among modern-day haplotypes .
+The minimum covariance determinant ( MCD ) regression method [ 29 ] is a well performing robust regression method that can also handle cases where both X and y are multivariate .
+We introduce a novel multi-chip normalization method for Affymetrix-based aCGH data .
+As an alternative to the standard curve method , relative quantification can also be achieved with the method named " comparative CT " or " delta-deltaCT " [ 8 ] .
+To assess the statistical significance of the method of finding segment boundaries , a shuffled genome was constructed by dividing the mouse genome into 100 base pieces ; the pieces for each chromosome were then shuffled separately .
+In this paper , we propose the AT excursion method , which is a score-based approach , to quantify local AT abundance in genomic sequences and use the identified high scoring segments for predicting replication origins .
+Application of this method to two publicly-available cancer data sets yields suggestive and promising results .
+The 4C model ( though not a true gold standard ) is often used as a criterion method to compare the accuracy of other methods for assessing body fat .
+A useful method of integrated analysis of expression data within an interaction network is the ActivePaths algorithm [ 5 ] .
+The entire core and complete kinomes were clustered using the probabilistic method described by Samanta and Liang [ 28 ] .
+In addition to this indirect method , we used a direct assay which measures the ability of peptides to promote the entry of a hydrophobic fluorescent probe ( 1-N-phenylnaphthylamine ; NPN ) into the cell membrane .
+Our theoretical approach suggests a method for understanding the combined effect of changes in the expression of multiple genes on the activity of metabolic pathways , and consequently on the adaptation of cellular metabolism to heat shock .
+The Delphi method facilitates communication between and among a panel of experts , so that the process is effective and the group as a whole can deal with a complex problem [ 26 ] .
+In this work , we present a new microarray-based high-throughput screening method to identifying candidate marker mRNAs for the early detection of epithelial cells diluted in peripheral blood cells .
+For the evaluation of gene-gene and gene-environment interactions , we used the MDR method [ 23-26 ] .
+Since baseline substraction is straightforward , we mainly focus on the baseline estimation procedure in different methods .
+Other approaches have been developed for the analysis of MLST data and a method based on minimum-spanning trees is incorporated into the Bionumerics™ package [ 25 ] .
+BRNI is based on our method to infer biochemical models of single gene regulation [ 15 ] .
+Here we have developed a new method of estimating the error rate of curated sequence annotations , and applied this to the Gene Ontology ( GO ) sequence database ( GOSeqLite ) .
+The enzyme-linked immunosorbent assays are the most commonly used antibody detection method .
+Alonzo and Pepe recently described another method for computing the AUC of a continuous screening test in the presence of verification bias .
+Genotyping for the single nucleotide polymorphisms ( SNPs ) at aa19 , aa50 , aa62 , aa133 , and aa219 in SP-A1 and aa9 , aa91 , aa223 in SP-A2 were done using a sequence specific primer-PCR methodology described by Pantelidis et al. [ 25 ] .
+The original Haseman-Elston method [ 6 ] is a general model-free method for testing linkage between candidate markers and quantitative trait loci on a sample of sib-pairs .
+The method of canonical discriminant analysis was applied for the study of the relationships between the different techniques .
+Bladder and tumor physiology was followed in a time course study using this method at each time point , for each animal .
+We applied the two-class unpaired method from the SAM package to test the null hypothesis of no effect of viral compared to control injection across 18 replicates ( 3 biological × 2 technical dye-swap × 3 within slide as each gene is present in triplicate ) .
+Using SC17 ( 0 ) as the initial recipient for ? Red-promoting modifications it is subsequently possible to transfer the marked mutation to other P. ananatis strains of interest using the method of electro-transformation with chromosomal DNA .
+We then estimate this integral using a method we developed called the Uniform Distance Method ( UDM ) .
+BIG-PI is the first publicly released method for GPI-anchor prediction , and the predictions are made by four kingdom-specific predictors [ 10 , 12 , 13 ] .
+We have successfully used this method to produce multiple mutants with no antibiotic gene on the genome or extra sequence except those nucleotides required for expression of epitope regions .
+We apply this method to various networks such as the E. coli transcriptional regulatory network , the macaque cortex network , a foodweb network and the Buchnera aphidicola metabolic network .
+While we used AceView for redefining probe sets , the method of regrouping probes can be applied using any public or " in-house " database , and the guidelines provided here for creating a viable " probe set " should be generally applicable .
+In our method , the inversion could be detected by including the reverse complementary sequences in the sequence set .
+Focus groups are a data collection method appropriate for research that seeks to explore a range of people 's opinions , experiences and feelings , in a group , without any goal of conformity or consensus [ 28 ] .
+A second drawback is that the need for hand-eye-mouse coordination can introduce some additional variability , although this was relatively mild with the present data as both the line and outline method had similar coefficients of variation and within-sample variability .
+When using numerous species , their phylogenetic proximities can be analyzed using their signatures by conventional statistical methods and the set of species split into subgroups .
+In order to estimate the prevalence of EIB in Tunisian athletes we chose to use a method for evaluating the respiratory condition of athletes , the most common is the change in FEV1 before and after exercise .
+In this paper we describe a fieldable genotyping method for B. anthracis and Y. pestis .
+There are no other false positives by either method .
+Since this method does not need pre-defined target gene sets , it requires no threshold selection for binding affinity scores or gene expression changes .
+In the second method - modified GEE ( 2 ) , the increased variability of the sandwich standard error estimator was accounted for by building the confidence interval for the treatment effect based on the quantiles from the t-distribution with 2 ( J-1 ) degree of freedom .
+Seven mutations were determined by allele-specific polymerase chain reaction ( PCR ) based on the method of Wilson et al. [ 17 ] .
+We performed a bivariate analysis of cholesterol and triglyceride levels on sib-pair data from the Framingham Heart Study using a method recently developed by Wang [ 1 ] .
+We developed a new method ( GRAPPA-IR ) to handle inverted repeats .
+The PBC analysis pipeline offers an efficient and objective method for classifying large amount of miRNAs .
+Recently , an automated method for the analysis and prediction of buried and exposed residues of TM proteins with an impressive prediction accuracy of 80 % was developed by Beuming and Weinstein [ 23 ] .
+In addition , we propose a method called shared summation ( SHS ) , by which the probabilistic output of a multi-class group is shared equally by each class ( Figure 4b ) .
+In the following , we present a sensitive and quantitative method for the flow cytometric detection of influenza A virus infection with monoclonal antibodies in adherent MDCK cells fixed in ethanol and PFA / ethanol .
+A new method , developed in our institute , is introduced in order to detect temperature in human pulmonary epithelium , in vivo .
+We propose an online phenotype discovery method for high-throughput RNAi screen , which can be used in the course of many image-based screens .
+In real-time PCR data analysis , the cycle threshold ( CT ) method is currently the gold standard .
+We propose a new method that improves the accuracy of the predictions achieved by the phylogenetic approaches tested here ( see Methods ) or the five methods based on network analyses .
+A second method removes all subjectivity from the process and gives an estimate based on the data set in its entirety rather than on a day by day evaluation of the difference between two peaks .
+We have presented a method to estimate the score distributions of RNA helices or single strand profiles and of their combinations into larger motifs .
+SNP genotyping was performed by the Taqman method ( Applied Biosystems , Foster City , CA ) .
+We have recently reported on an alternative transcriptome amplification method that minimises differences in transcript length in the amplification step [ 3 , 4 ] .
+Here we propose and describe a new strategy and method used to isolate SINEs and LINEs rapidly , in which library construction and screening is completely eliminated .
+Recently , novel method termed as array-based comparative genomic hybridization ( array CGH ) has been described , which enables high throughput quantitative measurement of high-resolution DNA copy number changes throughout the genome [ 8 ] .
+To estimate the level of functional divergence and predict important amino acid residues for these functional differences among OPR subfamilies , the coefficients of type-I and type-II functional divergence ( ?I and ?II ) between any two clusters were calculated for each position in the alignment ( Additional file 3 ) , using the method suggested by Gu et. al. ( 1999 , 2006 ) [ 38 , 77 ] , as implemented in the DIVERGE v2.0 package [ 36 ] .
+To compare with existing methods , prediction are also done with the PSIPRED program ( version 2.45 ) [ 4 ] , using the single-sequence mode .
+Recently Bockhorst et al. [ 26 ] proposed a very accurate method for predicting operons , promoters and terminators in E. coli .
+A further reduction in total within-group variance can be achieved by using the ratio method described in this report .
+In this article we present a computational method for annotating gene expression pattern images .
+To discard tags that are likely to have been generated by sequencing errors , we implemented Colinge and Feger 's method [ 22 ] .
+To gain further insight into the transcriptional response to the deletion of SDH3 , we integrated the transcriptome data with the genome-scale yeast metabolic model [ 16 ] and thus identified so-called reporter metabolites [ 14 ] ( methods ) .
+To address this , we utilized a method for expanding the set of terms associated with a given GO node .
+Recently , we have introduced a new automated method for the estimation of the plasma total antioxidant capacity [ 33 ] .
+For that purpose , the relative quantification of reverse transcription-PCR ( RT-PCR ) data is the method of choice to ascertain gene expression results [ 1 , 2 ] .
+We then combined the results of the 10 primary genome scans using Fisher 's method of combining p-values [ 4 ] .
+To facilitate automated SNP discovery or typing , the SearchSnps method will generate output as shown in Figure 2 .
+Glucose transport was measured in isolated adipocytes by determining the uptake of D- [ 14C ( U ) ] -glucose ( NEN Life Sciences ) at trace concentrations using our modification of the method of Kashiwagi et al. [ 50 ] .
+We first performed the comparison with the individual method used in ProFunc that most closely matches our own , PEAS .
+The final method for indel coding is also described by Simmons and Ochoterena [ 16 ] .
+Besides the traditional analysis methods , the motif discovery algorithms can also be used to find possible TFBSs in the promoter regions of homologous gene sets .
+After comparison , we adopted the method from Guimerà and Amaral [ 21 , 22 ] to identify modules in metabolic networks in chloroplasts and photosynthetic bacteria ( see detailed description in the " Methods " section ) .
+As most of the existing domain-based methods consider only single-domain pairs and assume independence between domain-domain interactions , Xue-Wen et al. [ 18 ] introduced a domain-based random forest of decision trees to infer protein interactions .
+We have introduced an improved method of searching for protein structures with similar folds using tableaux , incorporating constraints on the distances between SSEs to improve accuracy .
+The data support and validate this rapid , simple , noninvasive method , which includes video image analysis and frequency analysis .
+The principle of this method is to calculate the second derivative of the likelihood , and to select the number of classes for which this derivative exceeds a threshold , which is set to 0.5 in practice .
+The computational expression analysis methods developed here are not limited to the identification of IL-8 related genes , but can also be applied to many other proteins of interest .
+Associated with PCA , this method allowed successful discrimination of urine samples spiked or not with low fentomole / µl synthetic peptides used as pseudo-biomarkers .
+These data were corrected for under-registration through a method developed by the Centro Latino-Americano de Demografia ( CELADE ) and adopted by PAHO [ 7 ] .
+The proposed method is used along with the Best-Fit Extension problem .
+We developed a new analytical method called invariant analysis to define the significant copy number changes .
+The basic experiential method invites students to engage in an experience , to create some learning from it , and then through a process of structured reflection to identify what it is that each has learned and to apply this new knowledge thereby expanding the repertoire of possible solutions .
+To the summary statistic approaches we added the coalescence-based maximum-likelihood method of Galtier et al. [ 16 ] .
+We have previously reported our experience with a new , simple and practical , yet standardized , tissue fixation and processing method that preserves histomorphology and protects macromolecules at ambient temperature [ 4-9 ] .
+The method does not require a linear assumption , and has the desirable property of scale-invariance with respect to TF-specific binding affinity .
+Here , I present a method for computing the power of a genome-wide association study when a genetic model and sample size are specified and LD information is available for the population being studied .
+A method of choice is now emerging for the analysis of quantitative traits arising from selected sib pairs .
+Our method for modeling dependencies is simply an extension of position independencies methods .
+In this paper , we analyse the capability of wavelet power spectrum in feature selection and we propose a method of feature selection based on Haar wavelet power spectrum .
+We conducted a case study based on the " success case method " described by Brinkerhoff [ 16 ] .
+Overall the in silico method for identifying genes in a specific genomic region worked well here , yielding a reasonable gene density of one per 95 kb .
+Indeed , the SAGE method can be performed to accurately measure the abundance of both known and novel transcripts on global scale [ 13 ] .
+Efron 's local false discovery rate method [ 7 ] was applied to the FBAT results to identify significant markers after multiple comparison adjustments .
+Alternatively , a non-phylogenetic method , applying dynamic programming that minimizes the mutation and recombination cost between sequences was used .
+In this paper we present several applications of extensions of the method of Molitor et al. [ 1 ] .
+Recently a new method for pooling sensitivity and specificity has been developed .
+Here , the neural gas clustering method is used with Pearson correlation similarity measure for computing cluster centroids .
+Shiraishi et al. [ 25 ] published a variable-order , variable-step Taylor-series method that can be used as an ODE solver providing a highly accurate calculation to compute dynamic sensitivities .
+The test statistic of Xu et al. 's method is the weighted sum of the single marker test statistics and the weights were calculated by using the information of parental phenotypes .
+For each interaction , a corresponding method is generated .
+The human NAT2*4 , NAT2*5A , NAT2*5B , NAT2*5C , NAT2*6A and NAT2*7B alleles were identified by genotyping using the PCR-RFLP method of Hickman & Sim [ 30 ] , and Hickman et al. [ 31 ] .
+In this study , a direct method of lithium determination in erythrocytes was used .
+Using a force-directed optimisation method , we were able to produce tree layouts in three-dimensions upon which the protein interactions could be projected .
+We describe here , in detail , a new analysis method that has been used to analyze the transcriptome in yeast [ 7 ] .
+A more elaborate method built on PCA is explored in this study to utilize the directional information contained in the eigenvector corresponding to ?1 , named here as the PCC analysis as described in Section Methods .
+By using the case of an abrupt and sustained reduction in the availability of heroin in Australia in January 2001 , we have shown that problems associated with applying standard ITSA can be overcome by : defining and dating such an event in ways that are not influenced by the outcomes to be modeled ; identifying appropriate indicator series to model ; fitting ITSA models to the data in ways that minimize the effects of researcher bias by using a prescriptive method to select functional depictions of the event and subsequently modifying these using appropriate transfer functions ; and evaluating plausible rival explanations of any changes observed in the time series so that these changes could be more confidently attributed to the unplanned event .
+In this method , the first step is to apply a clinical sample to standard culture media to see what grows [ 19 ] .
+Study treatment allocation ( dexamethasone respectively placebo ) will be done in a ratio 1 : 1 by the method of minimization ( Pocock and Simon 1975 ) considering two factors , study center and Glasgow coma scale ( dichotomized : = 8 , > 8 ) .
+We demonstrated a pretreatment method to collect well-characterized , viable , single cells without using fluorescent labels and without significant damage to the cells .
+We confirm the utility of a semi-automated method of RNA extraction ( nucleic acid preparation by the ABI PRISM 6100 system , followed by a precipitation step ) which allowed us to obtain a standard amount of total RNA from 1 mL of each peripheral blood sample , suitable for RT-PCR [ 30 ] .
+Based on the above results , the line method was the best way to select the structure or region of interest as it was not subject to floor-effects , had a low coefficient of variation , and low within-sample variability .
+Hunink et al have reported a method of correcting for verification bias when some participants receive the gold standard test based on variables other than the diagnostic test result , for example , if patients were sent to biopsy as a result of clinical findings .
+In general , this method would also be suitable for experiments where multiple replicates of protein sample and LC / MS injection are available .
+In order to offset the bias of the censored survival time , we employ a nonparametric method to impute the censored survival time .
+The intuition behind this method is that if a TF is related to the survival outcome of a patient given a certain disease , then the genes that are regulated by this TF will be more differentially expressed between the patients that survive or die .
+We refer to this as the ratio method .
+Simmons and Ochoterena have proposed a fourth method for coding indels [ 16 ] .
+The implementation of McGill University 's clerkship in Geriatric Medicine [ 6 ] included a new method of evaluation to stimulate self-reflection in clerks as well as student-tutor interaction .
+To apply these methods it is necessary to know the prevalence of smoking in the study population , the total number of deaths due to diseases causally related to tobacco use , and a measure that summarizes the increased risk of dying due to these causes among smokers and ex-smokers .
+The first method finds the best matching peptide from a sequence database using a scoring function based on the likelihood that an identified peptide is actually the peptide of the spectrum [ 1 , 2 ] .
+The Sum-Height ( SH ) greedy method , denoted by SH , selects a character that will result in the largest increase in the sum-height .
+With this method we underestimate the heterogeneity of viral spread as compared to Brownian motion .
+The method to analyze all ConsWH or CombWH in any window sizes are called exhaustive window haplotype analysis .
+The method is feasible for use in high-throughput systems due to an automated injection .
+Here , we describe a method to reveal the ability of evolutionary models to account for the compositional heterogeneity in a sequence alignment , which we measure using the median of all Bowker 's pairwise statistics , or the number of significant Bowker 's pairwise tests ( in the following , we note the measure of compositional heterogeneity h ) .
+In order to assess the importance of different methods for total weight calculation , we implemented a version of the SAM " bits saved " method in the HMMER code .
+After this , we estimated the isotopic peak profile for a peptide of the same mass using the method of averagines [ 61 ] .
+Sample size calculation was carried out for our primary outcome ( accuracy of the AARR in screening for PA ) according to the previously published method by Jones et al [ 28 ] .
+The fidelity of the amplification methods was determined using the ??Ct relative quantification method for qPCR .
+In this article , we present a method that extracts biological named entities directly from full length articles .
+The method of interpretation used was inspired by the French philosopher Paul Ricoeur 's phenomenological hermeneutics [ 26 ] , and developed at the University of Tromsø ( Norway ) and Umeå University ( Sweden ) and has previously been used by Lindseth et al. , [ 27 ] Udén et al. , [ 1 , 28 ] Søderberg and Norberg. , [ 29 ] Sørlie et al. , [ 18 , 30-33 ] and Nordam et al. [ 34 ] .
+The method of interpretation used was inspired by the French philosopher Paul Ricoeur 's phenomenological hermeneutics [ 35 ] , and developed at the University of Tromsø ( Norway ) and Umeå University ( Sweden ) and has previously been used by Lindseth et al. , [ 36 ] Udén et al. , [ 1 , 13 ] Søderberg et al. , [ 37 ] and Sørlie et al. [ 30 , 32 , 38 ] .
+Since we have proposed a new approximate inference algorithm , it is important to identify when this method works better than other approximate inference methods .
+It is clear that HWPM method works only if the initial low resolution model of the particle is already known .
+The key to the success of this method is a very high diversity V-gene repertoire template that was obtained from 140 non-immunized donors in combination with optimized primer set and cloning technique .
+Within a clinical trial setting , the DNA-cards method was very well accepted by investigators and patients ( in perception of investigators ) , and was preferred to conventional methods due to its ease of use and safety .
+Here we describe a novel PCR method that combined hemi-nested PCR ( a single internal primer ) with touchdown PCR for primer-template mismatches .
+We performed trend analyses on the response and explanatory variables using the seasonal Mann-Kendall method [ 48 ] .
+In this study we propose a predictive method primarily based on sequence and phylogenic information with the aim to apply it to the entire human genome .
+As the most likely number of clusters present in a dataset is not necessarily indicated by the highest lnP ( D ) ( see STRUCTURE manual for additional details ) we applied the method of Evanno et al. [ 68 ] to approach the most likely number of clusters K .
+A second method we used was to look for common regulatory elements was oligonucleotide analysis which has been used in yeast to identify regulatory sites [ 36 ] .
+Let 's examine three representative Goose methods ( again , see the supplement for a fully documented simple goose ) .
+2. The strips sampling ( sm ) is the most suitable sampling method for the effective reduction of the sequence set when more than 100 sequences are detected by BlastP searches .
+In the absence of head-to-head evaluations , we conducted indirect comparisons of the interventions versus similar comparators across similar patient groups using methods described by Bucher et al [ 12 ] .
+However , in the absence of head-to-head trials of varenicline versus NRT , we conducted indirect comparisons of these interventions versus placebo using methods described by Bucher et al and conducted z-tests to confirm [ 28 ] .
+Instead of using the most probable sequence alignments the method utilizes the a posteriori probabilities for nucleotide alignments in order to establish the alignment constraints .
+We therefore developed an automatic method for the spatial normalization of array-CGH data .
+Comparisons between glucose measurements ( RN PCx and PG , LAB PCx and PG , and RN PCx and LAB PCx ) were done using the Passing-Bablok regression method [ 11 ] .
+BASE was the method used in this study to infer the relationship between TFs and the survival probability of patients with different cancer types .
+The SVM-RFE is a quite popular method of feature selection in an iterative manner .
+Fortunately , an effective method for predicting LFP therapy effectiveness for gastrointestinal cancers by detecting p53 has been reported [ 16-18 ] .
+Our method of analysis employed the adjusted indirect comparisons meta-analysis method .
+The individual-observation log odds ratios are themselves constructed from positionally defined Markov Models ( pMM 's ) , so what results is a pMM / SVM sensor method .
+By simulation study , we confirmed that the proposed method can detect more reliable information from a combined data and it is more effective in small data sets derived from different experimental conditions .
+We have developed a method based on seed-dependent PrP fibril formation that shows promising results in differentiating a small number of BSE-positive serum samples from healthy controls .
+According to their method , a TF is reported to be cell cycle regulator if the activity of the TF does not keep constant in the cell cycle and there exists at least one phase in the cell cycle where the TF is significantly up- or down-regulated .
+Its purity and state of oxidation was confirmed by an oxidimetric titration using arsenite-cerate method [ 41 ] .
+An education method for law and ethics in which a small group of intern doctors and teachers of ethics ( who can play an important role in modeling the very nature of ethics ) [ 32 ] , maintain smooth communication and foster mutual understanding from the standpoints of doctors and patients , corresponds to the traditional custom of Asian countries including Japan , where ethical sensitivity is established in families and communities .
+Plausible and cautious extrapolation of the trends seen in a recent large and rigorous population-based study of HIV in a south Indian district suggests that India is likely grossly overestimating its HIV burden with the current official sentinel surveillance based method .
+In these datasets a method to measure PSA recurrence is needed for the subsequent analysis of outcomes data and as such need to be applied in a uniform and reproducible manner .
+The traditional method to select a set of marker genes is as follows : 1 ) rank the genes according to their significance in gene expression differences between diseased and normal samples using a statistical test ( e.g. t-test ) ; 2 ) use a classification method to evaluate the prediction error by using the top one gene , followed by the top two genes , the top three genes and so on until a pre-specified number of genes or a minimum prediction error is reached [ 1 , 2 ] .
+Additionally , a cut-off score of 6+ for the BSRS-5 was determined for psychiatric disorders using receiver operating characteristic ( ROC ) analysis [ 10 ] , which is a method to measure the ability of an observer to identify a signal against a background of noise [ 11 ] .
+As a method of theory development , constructivist grounded theory provides components for the systematic synthesis of social processes and for deriving theories through inductive analysis of empirical data collected in natural settings [ 24 ] .
+These results give an idea of the " normal " working method of the GP .
+As there are no other diagnostic tools to identify ADL episodes , the present method of symptomatic diagnosis was used .
+Current expression methods for DI use baculovirus containing a cloned cDNA sequence of the DI gene to infect Spodoptera frigiperda insect cells [ 14 ] .
+The acceptor photobleaching fluorescence resonance energy transfer ( FRET ) method is widely used for monitoring molecular interactions in cells .
+Filter paper specimens were batched and refrigerated until transport to the Baylor Institute of Metabolic Disease where they were analyzed for tHcy by a method utilizing high performance liquid chromatography ( HPLC ) coupled to electrochemical ( Coulometric ) detection .
+In order to remove any variability introduced through the use of different multiple comparisons corrections , the False Discovery Rate ( FDR ) controlling method of Benjamini and Yekutieli [ 21 ] was used to provide control of Type I errors when testing for changes in multiple gene sets .
+Historically , the Halstedian method of " see one , do one and teach one " has been the method of choice for teaching surgery residents how to perform procedures .
+The present report describes a new method for table grape ( Vitis vinifera ) genetic transformation .
+We also analyzed the combined Ourisia AFLP dataset using PCO-MC , a recently published method [ 65 ] which couples principal coordinate analysis ( PCO ) with a clustering procedure to determine significant population structure .
+The present study proposes a new method for the prediction of catalytic sites in proteins based on their residue-residue contact networks .
+The comparisons were analyzed for differential gene expression using the RankProducts method [ 11 ] , implemented as a Bioconductor package [ 43 ] .
+To do so , we defined differential gene expression using the RankProducts method [ 11 ] .
+We have developed a new Monte Carlo based method to predict the mapping between two interacting protein families .
+The haplotype resolution employs a phasing method that uses imperfect phylogeny .
+Genetic structure was highlighted by the model-based method developed by Pritchard et al. , ( 2000 ) for human genetics .
+A prediction method ProLoc-GO based on GOmining was implemented using the feature set of informative GO terms .
+The lookahead scoring technique is also employed in the suffix tree based method of [ 13 ] .
+Boden 's method captures flexibility in all three flexible regions , but it also predicts over 50 % of this sequence as flexible .
+An alternative method for predicting protein function is the Phylogenetic profile method , also known as the Co-Conservation method , which rests on the premise that functionally related proteins are gained or lost together over the course of evolution [ 4 ] .
+To evaluate the method , seven peptides ( peptides # 1 , # 2 , # 3 , # 9 , # 10 , # 11 , and # 12 ) were predicted from the amino acid sequence of TPO and IA-2 by using the standard algorithm BEPITOPE [ 11 ] .
+We have developed a method to identify interacting TFs based on patterns of co-occurrence of pairs of DNA binding sites [ 3 ] .
+To classify our sequences into families , we used a nucleotide sequence identity matrix built using pairwise deletion method ( see Additional file 1 ) .
+The 95 % -5 % cross-validation method ( Figure 3 ) requires more than 5000 train-test runs to reduce the variance of these estimates .
+The 95 % -5 % cross-validation method ( Figure 7 ) requires more than 5000 train-test runs to achieve the same .
+We designed a multiplex short-read DNA sequencing method to perform efficient ChIP-Seq in yeast and other small genome model organisms .
+In addition , this method allows the monitoring of overall Ig change pre- and post-vaccination .
+A new regression-based method of linkage analysis that works on arbitrary pedigrees has recently been published [ 2 ] and implemented in the publicly available MERLIN software package [ 3 ] .
+That led us to develop the staggered reannealing method [ 3 , 4 ] .
+Our method , called BioPNG , encodes Affymetrix probe data as indicated in Figure 5 ( A ) .
+ASAP method may be the only practical approach to obtain chloroplast DNA sequence from rare or small plant samples .
+The kernel machine method , with the support vector machine ( SVM ) as a most popular example , has emerged in the last decade as a powerful machine learning technique in high-dimensional settings [ 7 , 8 ] .
+We used a previously described match-merge method [ 16 ] within SAS statistical software to merge the data sets on the basis of non-unique identifiers available in both datasets ( infant 's date of birth , date of hospitalization , maternal county of residence , maternal month and year of birth , and maternal country of birth ) .
+MEME is a motif-based method which detects conserved patterns or motifs among a set of sequences [ 26 ] .
+The method appears to be resilient against the presence of false positive interactions .
+In this paper , we developed a logistic kernel machine regression model for binary outcomes , where the covariate effects are modeled parametrically and the genetic pathway effect is modeled nonparametrically using the kernel machine method .
+We have developed and validated a method for genomic survey sequencing ; a high-coverage , short-read genome survey using 454 pyrosequencing .
+The two distance measures are converted to zscores based on the permutation method described in [ 43 ] .
+The Greylevel Cooccurrence Matrix method ( COM ) is one of the most promising methods used in Texture Analysis of Magnetic Resonance Images .
+Recently Ishwaran and Rao [ 12 ] , building upon work in [ 10 ] , introduced a method for detecting differentially expressing genes between multiple groups termed Bayesian ANOVA for microarrays ( BAM ) .
+One of these quantitative methods is the insertion torque described by Johansson and Strid [ 12 ] .
+In addition to the above mentioned two methods , an intelligent adaptive binning method was also implemented in Automics [ 29 ] .
+To find the mean , the CFEs for the six plates in each box were averaged following standard and previously published methods [ 13 , 14 ] .
+Treatment GroupControl GroupTreatment Effect SizeControl Effect SizeComparison Effect SizeR2Effect Size f2Sample SizeVickersBadger1.020.001.020.210.2740VickersSMLGC-W.AVG0.800.160.640.090.10101Vickers90 % C-W.AVG0.620.160.460.050.05187A-W.AVGC-W.AVG0.560.160.400.040.04235Vickers90 % Carpenter0.620.370.250.020.02476A-W.AVGCarpenter0.560.370.190.010.01957A final method we employ is to compare the two weighted averages .
+In summary , in this work we present a genome-wide method for the identification of sequences that replicate early in the S phase .
+One such method , GeneRank [ 19 ] , uses the same principles as Google 's PageRank algorithm [ 20 ] to rank differentially expressed genes based on gene expression data and prior biological knowledge .
+Leaves from plants in the late rosette stage were extracted with the Ariel method for DNA extraction for quantitative PCR and cloning of chromosomal sequences .
+Most analyses in this paper used the background adjusted ( see above ) , log2 transformed data from replicate beads on a given array and summarised these values using Illumina 's default method .
+In this article we present a computational method for automated annotation of Drosophila gene expression pattern images .
+We use the approximate normal modes calculation method developed by Hinsen [ 10 ] and implemented in the MMTK package [ 27 ] .
+We use the approximate normal modes calculation method developed by Hinsen [ 26 ] and implemented in the MMTK package [ 21 ] .
+First , we used the method of Pagel et al [ 52,108 ] which quantifies the proportional contribution of punctuated ( ß ) and gradual ( g ) evolution to path lengths in a phylogeny , based on extent of association between sequence change and cladogenesis events .
+The CCV method , although not requiring a process of defining orthologs , considers every possible string of length up to k for whole genome sequences .
+Kokotovic et al. , were the first to describe a typing method for M. genitalium , which is based on whole-genome fingerprinting involving selective amplification of restriction fragments [ 22 ] .
+Therefore , we developed a method to date LTR retrotransposon fragments based on sequence identity between truncated fragments and a complete copy that comes for the same amplification burst .
+We used the 2-??CT method for relative quantification ( RQ ) of gene expression [ 36 ] , a comparative technique in which a target gene is normalized to an endogenous control and relative to a calibrator sample .
+Currently , QuikChange site-directed mutagenesis is the method of choice .
+We present a simple , rapid and highly efficient method for transgene insertion into the chromosome of Escherichia coli , Salmonella or Shigella at a benign chromosomal site using the site-specific recombination machinery of the transposon Tn7 .
+The normalized and filtered data sets were clustered via hierarchical clustering with the complete agglomeration method and Euclidean distance metric [ 126 ] .
+Background correction can be performed via the normexp-method .
+The method of Gutteridge et al. [ 51 ] is based on sequence conservation and structural features and predicts active sites with a high success rate .
+The ARDRA method demonstrated to be useful for intraspecific analysis .
+A related method that performs pairwise network alignment between species is the PathBLAST method [ 34-36 ] , which offers a general solution to the problem of PIN comparison .
+The next worst performing method on the measurement level was kNN .
+Spectral referencing , which sets the inner reference peak ( DSS / TSP ) of each spectrum to 0 ppm , can be regarded as a simple global method for peak alignment .
+During a fold simulation , we need a scoring method to evaluate the quality of newly simulated conformations relative to those already generated .
+To better understand how ERa regulates transcription of estrogen-responsive genes , we developed a novel method to isolate proteins associated with the DNA-bound receptor , which utilizes full-length ERa and endogenously-expressed nuclear proteins and takes into account DNA- and ligand-induced changes in receptor conformation .
+The rule-based method described here can be used to infer genetic networks by combining data from microarrays , promoter sequences and known promoter binding sites .
+More recently , Rajapakse et al. [ 17 ] proposed a complex splice site detection method by combining mostly second order Markov models with backpropagation neural networks ( BPNN ) .
+Fackler et al [ 26 ] recently reported a new method ( quantitative multiplex methylation-specific PCR ) that assesses for promoter hypermethylation of DNA in breast ductal epithelial cells , even in samples with as few as 50 cells .
+The most frequently employed large-scale caspase-3 preparation method includes separate expression of the two insoluble domains in E. coli and subsequent refolding of the two combined domains for the active enzyme [ 21 ] .
+Recently , Myers and Griffiths [ 7 ] introduced a new method based on combining recombination bounds of local regions ( local bounds ) to estimate a global composite bound of the sample .
+In this paper we present a quantitative examination of the structural importance of amino acid positions in six superfamilies taken from the CATH database [ 13 ] using a modified version of a method originally developed for predicting functionally important residues [ 14 ] .
+The trend and seasonality in these means were then extracted using the ' combined ' method described in Barnett and Dobson [ 13 ] .
+Having obtained the dissimilarity indexes , Ward 's clustering , a hierarchically agglomerative clustering method , is used to decompose the network [ 38 ] .
+To select a few features out of hundreds , we apply a simple greedy selection method as follows : a forward stepwise selection as described in [ 37 ] ( section 3.4 ) was applied twenty times to the aa and seq feature set of dataset A ( mic ) .
+We present a novel method for the analysis of microarray data that identifies joint differential expression in gene-pathway pairs .
+Statistical total correlation spectroscopy ( STOCSY ) analysis method has also been implemented in Automics .
+[ 25 ] The Holt-Winters forecasting method was used to predict the mortality rate per 100,000 person-years during and after the SARS outbreak .
+The scoring process is derived from the aggregate scoring method [ 24 ] , following the common methodology used in the SC test [ 12 , 13 ] .
+The toolbox currently implements a simple alignment method utilizing the master peak list .
+We demonstrate in two different samples how this method can be applied .
+We adopted the complete linkage method , where the distance between two clusters is computed as the distance between the two farthest objects in the two clusters .
+Other methods that have been implemented are to adjust the lipid levels for medication by using medications as covariates in a linear regression model .
+The gene expression levels are typically estimated by the Tukey 's biweight method .
+The HSM method [ 2 ] iteratively divides the data set into samples of half the size as the original set and uses the half-sample with the minimum range , where range is defined as the difference between the maximum and the minimum value of the sample .
+The Gu method uses a maximum-likelihood procedure to test whether there has been a significant change in the rate of evolution after gene duplication leading to the two paralogs .
+Here we propose an extension of our polynomial-based method to cluster short expression profiles measured in different conditions .
+The first method calculates the principal moment of the helix residues and used the eigenvector corresponding to the largest eigenvalue as the helix axis .
+The plot ( Figure 2a ) demonstrates that the global size change is minimal after image 20 and the subtler differences in shape are not picked up by this method .
+However , this method is only capable of determining the rate between two subtypes where a third , more distantly related , subtype functions as an outgroup .
+The Fisher kernel [ 11 ] was the first method that used support vector machines .
+We propose a quadratic regression method for identification of differentially expressed genes and classification of genes based on their temporal expression profiles for non-cyclic short time-course microarray data .
+In this gene retrieval method , a query gene vector is one of column vectors of A .
+In order to adjust for this lack of independence , a permutation method was used to identify a correction factor that adjusts the naïve df for the calculated p-value to a lower value ( and subsequently higher p-value ) at the point where the percentage of differentially expressed genes is equal to the selected alpha level ( i.e. 5 % differentially expressed genes found at p < 0.05 ) based on random data .
+Stepwise ( forward step likelihood ratio method ) Cox proportional hazards analysis was used to assess the association between baseline factors and HIVAN , independent of other factors .
+Response rate was calculated in accordance with the method described in the GAIT study [ 11 ] .
+Redelings and Suchard ( 2005 ) describe a statistical method of incorporating indel information into phylogeny estimation .
+A well-established method is a phage display [ 13 , 14 ] .
+Publication bias was assessed according to the method introduced by Deeks [ 31 ] .
+The IUPred method uses a probabilistic score ranging between 0 ( complete order ) and 1 ( total disorder ) , which is based on an energy value calculated using a pairwise energy profile along the sequence .
+Such missing values often complicate further statistical analyses , and for this reason we developed a secondary peak picking method for filling these gaps .
+The " human capital " method was used to compute the indirect costs .
+The Prionics-Check Western blot method for active monitoring of BSE in cattle was used [ 57 ] for routine scrapie diagnosis on brain stem at the obex region .
+In recent work [ 24 ] we proposed an automated method to perform alphabet reduction .
+In the present study a new method for the detection of protein active sites is introduced .
+It is against this background of low levels of restorative treatment provision in Primary Care , and uncertainty as to the effectiveness of that treatment even if it is provided , that a novel , simplified method of using PMCs , the Hall Technique , has been investigated .
+Recently , a simpler method to determine the significance level for SNP association studies has been proposed that relies on the linkage disequilibrium ( LD ) structure of the genome to determine the number of independent tests [ 1 ] .
+These are obtained using a model-based likelihood method devised for reconstructing ancestral sequences , and implemented in PAML [ 24 ] , for our test case .
+The other 3 methods can be constrained ( see Methods for details ) to prevent this .
+Another method , which we refer to as the ' Lake ' method , uses Markov triple analysis ( MTA ) as a different approach to finding the P^U matrices for rooted triples of sequences [ 13 ] .
+Since 1999 , the Misgav Ladach method for caesarean section is used [ 16 ] .
+To determine the orientation and relative lengths of overlapping BAC clones in the walk , a PCR-based method was used .
+The most commonly used mechanism for RNA amplification is a T7 based linear amplification method first developed by Van Gelder , Eberwine and coworkers [ 19-21 ] .
+We start by describing a method for the accurate estimation of statistical significance of single binding sites .
+In this work , we present a novel method for construction of the reference state , which we have called Monte Carlo Reference State ( MCRS ) .
+A simpler method for computing cumulative tobacco smoke damage has recently been introduced .
+Other attempts at the problem use local search methods on complete conformations , including the GTabu algorithm [ 7 ] .
+Identification of overrepresented DNA binding sites in genes of the same cluster is performed by the SCOPE method [ 12 ] .
+We demonstrate the utility of this method by quantification of four genes , Xist , Sry and the two heat-inducible hsp70i ( hsp70.1 and hsp70.3 ) , as well as their RNA transcripts in single mouse embryos and in isolated blastomeres .
+In the present work we present an automated assay for the estimation of blood total antioxidant capacity ( TAC assay ) , based on the crocin bleaching ( oxidation ) method .
+For the ' Closest Sense ' method ( CS ) , input was the UMLS semantic network and the article abstracts .
+While several other methods could be implemented , this approach was used because of its simplicity in examining existing data .
+Semi-quantitative determination of ER and PR was performed according to the method described by Allred et al. [ 43 ] .
+Cohen 's kappa ( ? ) was calculated as described by NMKL to quantify the degree of agreement between the two methods [ 28 ] ( ? > 0.80 means very good agreement between the methods ) .
+We used a recently developed method to estimate the DDME from nucleotide diversity data of two species ( C. elegans and C. remanei ) that exhibit strikingly different Ne [ 23 , 50 ] .
+We also propose a modification of an existing method where the statistical framework determines whether a set of proteins shows an association with the predefined phenotypes of interest .
+Total reduced glutathione ( GSH ) was estimated by the method of Moron et al. [ 21 ] .
+We recently developed an informatics method [ 13 ] to provide an estimate for the orderliness of synonymous codon usage ( SCUO ) and the amount of synonymous codon usage bias .
+We have adopted a very common method that selects k to maximize the average silhouette ( described below ) .
+Cascade methodology was used ( i.e. one person from each group becomes an educator and runs their own sessions ) .
+The solution phase Chemical Cleavage of Mismatch ( CCM ) is one of few methods capable of detecting nearly all single base mismatches [ 1 ] .
+The method presented by Beckmann et al. [ 22 ] showcases the flexibility of Mantel statistics using haplotype sharing .
+Therefore , this method is well suited for generating sequences that can be recognized by both HMMER and Match , without giving an unfair disadvantage to any of the two methods .
+Subtractive hybridization is an attractive method for enriching differentially expressed genes .
+An alternative method of collecting data from absent students was tested during the immediate post-intervention data collection sweep , whereby school staff were given absent students ' questionnaires and asked to arrange their completion and return ( by ' freepost ' ) .
+They developed a matrix decomposition method called network component analysis ( NCA ) to determine transcription regulator activity .
+A comparative study published some years ago [ 11 , 17 ] indicated that the most accurate predictive method at that time is based on the prediction of turns .
+We accounted for correlations within medical practices using the generalized estimation equation ( GEE ) method [ 19 ] .
+The third method ( RANK ) calculates a relevance score as described below .
+The method was constructed from two procedures : 1 ) a fluorescent labeling reaction of PCR fragments using fluorescence-adapted primers in a single tube , and 2 ) electrophoresis on a non-denaturing polyacrylamide gel .
+The heat pain thresholds were assessed by the ascending ramp method with a continuous stimulus , which increased intensity at a constant rate .
+In our analysis , the authors automatically computed the number of structured abstracts in Group A by a method that uses regular expressions to look for section headings .
+The methodology developed for use in analysing industrial accidents has been adapted for use in a healthcare setting , classifying ' error producing circumstances ' and ' organisational factors ' in a single broad framework of factors affecting clinical practice [ 16 ] .
+Szabo et al [ 20 ] discuss conditions under which this method is a valid one for testing two-sample hypotheses with microarray data .
+Combined with suppression PCR , selective amplification of differentially expressed cDNA sequences was achieved without the application of physical separation methods [ 7 ] .
+The DNA cards method has been used to collect DNA samples in several clinical studies focusing on infective pathogens , such as malaria [ 5 , 10 ] , staphylococcus [ 11 ] , or HIV [ 12 ] , Gaucher disease [ 13 ] and cancer [ 4 , 14 ] .
+Pybus et al. [ 14 ] presented the " skyline plot " method that uses a step-function to approximate the population history obtained from an estimated genealogy .
+Recently an elegant method for introducing point mutations into the genome was devised by Resnick and colleagues that does not require cloning of the mutant allele [ 17 ] .
+Redundant probe sets representing the same tentative consensus ( TC ) sequences or Unigene were removed and the 2,947 genes with significant differential expression patterns of 2-fold or greater were grouped into 12 clusters by hierarchical clustering using the complete agglomeration method and Euclidean distance metric according to mRNA expression within each tissue in comparison with the other two ( Figure 1 ; Additional file 1 ) .
+A specific evaluation method adapted to military syndromic surveillance objectives and conditions of engagement in the field was developed .
+RDAM is a method for identifying genes with changing expression levels using the user-determined FDR and/or S selection parameters .
+The second method has the advantage of providing a more understandable scale .
+In this report , we describe a new microarray-based method for estimating the allele frequency in pooled DNA samples based on the physical principles of DNAs immobilization and hybridization on solid surface .
+A recent publication described a supervised classification method for microarray data : Between Group Analysis ( BGA ) .
+The famous Lempel-Ziv algorithm can efficiently extract the information on repeated patterns encoded in RNA secondary structures and makes our method an alternative to analyze the similarity of RNA secondary structures .
+Our method of gene selection will not return sets of genes that are highly correlated , because they are redundant .
+By the method we proposed , we could determine the robust stability under intrinsic fluctuations and identify the genes that are significantly affected by extrinsic noises , which we call the weak structure of the network .
+We have presented a method to test the significance of expression changes within a group of genes , while considering the correlation structure among genes in each group .
+First , Manuscript Architect will be linked to literature maps , a method developed for structured literature reviews .
+The spectral method is an indirect method which measures the magnitude of TA as the amplitude of spectral power at the 0.5 cycles per beat frequency and then subtracts the mean background noise .
+A conservative adjustment method ( Bonferroni 's adjustment ) is to divide the experiment-wise Type I error level ( a ) by the number of hypotheses tested ( N = 22,283 ) and use that as the cut-off for significant p-values .
+In this study , we proposed a scoring method ( Eq. 1 ) that combined the predicted variance information to compare two spectra under total ion current normalization .
+For example , UniqueProt [ 8 ] is a fast and simple method that reduces the redundancy of the dataset by removing over-represented sequences , based on a user-defined percent identity threshold .
+The AAA activities , other than those associated with cholinesterases ( like those found in human liver , rat serum , pineal gland ) and amidases that utilise o-nitroacetanilide as substrate can be visualised by the method described above .
+Another issue with this method of identifying double recombinants is that if a single recombinant occurs in both siblings , and the recombinant occurs on one side of a given marker in the first sibling and on the other side of that marker in the second sibling , the two siblings could in fact share an additional allele IBD for only that single marker .
+To avoid training data sparseness and to structure the hypothesis space based on the entire protein distribution , we have proposed a prediction method that uses Joachims ' spectral graph transducer and is trained on both structure-known sequences and structure-unknown sequences .
+We present a novel method of using commercial oligonucleotide expression microarrays for aCGH , enabling DNA copy number measurements and expression profiles to be combined using the same platform .
+One widely used method is the LD50 assay , which is defined as the number of bacteria required to kill 50 % of the infected hosts .

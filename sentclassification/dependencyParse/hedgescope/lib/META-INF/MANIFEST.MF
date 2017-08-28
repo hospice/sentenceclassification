@@ -1,0 +1,10 @@
+Manifest-Version: 1.2
+Name: ABNER/
+Sealed: true
+Specification-Title: "ABNER"
+Specification-Version: "1.5"
+Required-Version: 1.2 
+Main-Class: GUI
+Created-By: 1.2.2 (Sun Microsystems Inc.)
+Specification-Vendor: "Burr Settles"
+

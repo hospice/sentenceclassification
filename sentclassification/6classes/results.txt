@@ -1,0 +1,52 @@
+                 TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.566     0.052      0.682     0.566     0.619      0.884    experiment
+                 0.762     0.064      0.723     0.762     0.742      0.933    method
+                 0.6       0.091      0.59      0.6       0.595      0.868    finding
+                 0.59      0.108      0.543     0.59      0.566      0.861    result
+                 0.826     0.072      0.674     0.826     0.742      0.955    hypothesis
+                 0.51      0.044      0.666     0.51      0.578      0.877    analysis
+Weighted Avg.    0.643     0.073      0.644     0.643     0.64       0.896
+
+
+
+ a   b   c   d   e   f   <-- classified as
+ 309  53  46  70  35  33 |   a = experiment
+  38 448  13  27  20  42 |   b = method
+  35  12 353 101  67  20 |   c = finding
+  35  28 111 347  45  22 |   d = result
+   6  15  37  22 413   7 |   e = hypothesis
+  30  64  38  72  33 247 |   f = analysis
+  
+  
+  
+  
+  
+  
+  
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.546     0.131      0.453     0.546     0.495      0.775    experiment
+                 0.634     0.086      0.616     0.634     0.625      0.855    method
+                 0.44      0.13       0.425     0.44      0.432      0.75     finding
+                 0.413     0.127      0.415     0.413     0.414      0.734    result
+                 0.59      0.054      0.661     0.59      0.624      0.897    hypothesis
+                 0.405     0.068      0.505     0.405     0.45       0.77     analysis
+Weighted Avg.    0.505     0.101      0.509     0.505     0.505      0.795
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   <-- classified as
+ 298  59  62  72  21  34 |   a = experiment
+ 
+  85 373  27  32  17  54 |   b = method
+  
+  
+  78  24 259 137  54  36 |   c = finding
+  
+  
+  96  40 134 243  29  46 |   d = result
+  
+  38  36  71  38 295  22 |   e = hypothesis      
+  
+  63  74  57  64  30 196 |   f = analysis

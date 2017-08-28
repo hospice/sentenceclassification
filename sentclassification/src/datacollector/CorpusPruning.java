@@ -1,0 +1,139 @@
+package datacollector;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+
+import weka.classifiers.bayes.NaiveBayes;
+import weka.classifiers.functions.SMO;
+import weka.classifiers.functions.supportVector.PolyKernel;
+import weka.core.Instances;
+
+public class CorpusPruning {
+	
+	//Instance variable
+	Instances train; //labelled instances
+	Instances test; //unlabelled instances
+	String trainFile; //labelled file name
+	String testFile; //unlabelled file name
+	
+	
+	//Constructor 
+	public CorpusPruning(String trainFileName, String testFileName) throws IOException{
+		
+		//Setting the labelled and unlabelled files
+		this.trainFile = trainFileName;
+		this.testFile = testFileName;
+		
+		//Reading the instances in labelled file
+		BufferedReader trainReader = new BufferedReader(new FileReader(trainFileName));;
+		this.train = new Instances (trainReader);
+		trainReader.close();
+		//Setting the class attribute of the labelled file (the last attribute is the class attribute)
+		this.train.setClassIndex(train.numAttributes() -1);
+		
+		//Reading the instances in unlabelled file
+		BufferedReader testReader = new BufferedReader(new FileReader(testFileName));		
+		this.test = new Instances (testReader);
+		testReader.close();
+		//Setting the class attribute of the unlabelled file (the last attribute is the class attribute and contains "?")
+		this.test.setClassIndex(test.numAttributes() -1);
+		
+	}//public SelfLearning(String trainFileName, String testFileName) throws IOException
+	
+	//Method to classify instances
+	public void classifyInstances() throws Exception{
+		
+		Instances labeled; //to hold labelled instances
+		double clsLabel, predictionProbabilityYes, predictionProbabilityNo,  predictionProbability3; //to hold predicted labels and their probabilities. Only two probabilities because it is a binary classification problem.
+		double[] predictionOutput; //To hold the prediction output in an array
+		//BufferedWriter trainWriter = new BufferedWriter(new FileWriter(trainFile, true)); //Newly labelled instances from the unlabelled file with large confidence will be appended to the labelled file.
+		BufferedWriter testWriter = new BufferedWriter(new FileWriter("C:/Users/Hospice/annotated_data/corpusout/MRCdata/MRCSelf/corpusPrunedNoaddition98SMOsarnia.arff")); //Newly labelled instances from the unlabelled file with large confidence will be appended to the labelled file.
+
+		boolean isConverged = false; //To check whether converged
+		int lastTestInstance = test.numInstances(), currentTestInstance = 0; 
+		ArrayList<Integer> instanceTracker = new ArrayList<Integer>();
+		int k = 0;
+
+		int [] index = new int[test.numInstances()];
+		
+		//Loop until converges
+		while(isConverged == false){
+			
+			int insertedTestInstance = 0;
+			//Checking whether converged. If converges, break the loop.
+			if (lastTestInstance == currentTestInstance){
+				System.out.println("---Converged!---\n---DONE!---");//train
+				isConverged = true;
+			}//if (lastTestInstance == currentTestInstance)
+			
+			//If not converged then do---
+			else{
+				//NaiveBayes nb = new NaiveBayes();         // new instance of tree
+				//SMO nb = new SMO();
+				SMO nb = new SMO();
+				PolyKernel p = new PolyKernel();
+				p.setExponent(1);
+				nb.setKernel(p);
+				
+				nb.buildClassifier(this.train);   // build classifier
+				labeled = new Instances(this.test); //labels of unlabelled instances
+		
+				// label the unlabelled instances backwards
+				for (int i = this.test.numInstances() - 1; i >= 0; i--) {
+			
+					clsLabel = nb.classifyInstance(test.instance(i)); //class value of instance i
+					labeled.instance(i).setClassValue(clsLabel); //setting the class value
+					// Get the probability/confidence of the label.
+					predictionOutput = nb.distributionForInstance(test.instance(i));
+					predictionProbabilityYes = predictionOutput[0];
+					predictionProbabilityNo = predictionOutput[1];
+					predictionProbability3 = predictionOutput[2];
+
+					if(!instanceTracker.contains(i)){ //if the unlabelled instance is not classified yet
+						if (predictionProbabilityYes >= 0.60 || predictionProbabilityNo >= 0.60|| predictionProbability3>= 0.60){ //Only do this if the algorithm is 98% confident at its labelling
+							if (test.instance(i).toString().split(",")[2502].equals(labeled.instance(i).toString().split(",")[2502])){
+
+							//this.train.add(labeled.instance(i)); //add to the labelled instances
+								System.out.println(predictionProbabilityYes+ " "+ predictionProbabilityNo+ " " + predictionProbability3 + " "+ clsLabel +" " +test.instance(i).classValue());
+
+								//System.out.println(labeled.instance(i).toString());
+							k++;
+							//trainWriter.append("\n" + labeled.instance(i).toString()); //add to the labelled file
+							testWriter.append("\n" + labeled.instance(i).toString());
+							instanceTracker.add(i);
+							//checking whether yes class or no class
+							//if (clsLabel == 0.0){
+							//	index[i] = 1; 
+							//}
+							//this.test.delete(i); // don't need this line
+							insertedTestInstance++; //increment the no. of inserted instance
+						}//if (predictionProbabilityYes >= 0.98 || predictionProbabilityNo >= 0.98)
+						}
+						
+					}
+
+						
+				}//for (int i = 0; i < test.numInstances(); i++)
+			}//else
+			
+			currentTestInstance = test.numInstances() - insertedTestInstance;
+			lastTestInstance = currentTestInstance + insertedTestInstance;
+		
+		}//while(test.numInstances() > 0)
+		System.out.println(k);
+
+		//trainWriter.close();
+		testWriter.close();
+		//DenoisedData.denoiseData(index);
+		
+	}//public void classifyInstances() throws Exception
+	
+	public static void main(String[] args) throws Exception{
+	CorpusPruning CP = new CorpusPruning("C:/Users/Hospice/annotated_data/corpusout/IMradCorpusChi/annotated_words_tense.arff","C:/Users/Hospice/annotated_data/corpusout/IMradCorpusChi/MRCdataNorm2500CChiWithTense.arff");
+		CP.classifyInstances();
+	}
+}//public class SelfLearning

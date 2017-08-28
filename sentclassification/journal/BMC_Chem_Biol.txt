@@ -1,0 +1,8 @@
+./BMC_Chem_Biol/BMC_Chem_Biol-5-_-1180429.nxml.sentences-93-These results show that our novel ERK Activity Sensors provide real-time in vitro detection of MAP kinase activity .
+./BMC_Chem_Biol/BMC_Chem_Biol-5-_-1180429.nxml.sentences:94:This method can be applied to studying kinetics of ERK activity in real time , as well as detection of ERK activity in unknown cell lysate fractions .
+./BMC_Chem_Biol/BMC_Chem_Biol-5-_-1180429.nxml.sentences-95-There is also the potential to use these sensors for high-throughput screening of ERK kinase activity with fluorescence plate readers .
+./BMC_Chem_Biol/BMC_Chem_Biol-5-_-1180429.nxml.sentences:96:This method is more direct and convenient to monitor ERK activation in vitro than conventional assays that either use radioactivity for detection or rely on indirect detection using phospho-specific antibodies for MAPK targets .
+./BMC_Chem_Biol/BMC_Chem_Biol-9-_-2670818.nxml.sentences-190-We adopted the complete linkage method , where the distance between two clusters is computed as the distance between the two farthest objects in the two clusters .
+./BMC_Chem_Biol/BMC_Chem_Biol-9-_-2670818.nxml.sentences:191:This method tends to keep outliers out of clusters and guarantees that all objects inside clusters have strongly similar characteristics .
+./BMC_Chem_Biol/BMC_Chem_Biol-3-_-156887.nxml.sentences-6-The solution phase Chemical Cleavage of Mismatch ( CCM ) is one of few methods capable of detecting nearly all single base mismatches [ 1 ] .
+./BMC_Chem_Biol/BMC_Chem_Biol-3-_-156887.nxml.sentences:7:This method was developed in 1988 by Cotton et al. [ 2 ] and has been widely used in research and diagnosis of many inherited diseases .

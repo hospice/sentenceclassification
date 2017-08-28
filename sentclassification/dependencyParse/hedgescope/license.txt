@@ -1,0 +1,46 @@
+Hong Yu's Research Laboratory, University of Wisconsin-Milwaukee
+
+Copyright (c) 2010 University of Wisconsin-Milwaukee, All Rights Reserved
+
+SOFTWARE LICENSE AGREEMENT FOR THE HEDGESCOPE SYSTEM
+
+The HedgeScope system (hereafter, Software) is copyrighted by the University 
+of Wisconsin-Milwaukee (UWM) and ownership remains with the UWM.
+
+The UWM grants you (hereafter, Licensee) a license to use the
+Software for research and teaching purposes only, without a fee.
+
+Licensee may distribute the binary to third parties 
+provided that the copyright notice and this statement appears on all
+copies, no charge is associated with such copies, and Hong Yu's Research 
+Laboratory at the UWM is publicly and prominently acknowledged as the
+source of this software.
+
+Any Licensee wishing to make commercial use or internal business use
+of the Software must contact Hong Yu's Research Laboratory at UWM, to
+negotiate an appropriate license for such use. Commercial use
+includes (1) integration of the binary code into a
+product for sale or license by or on behalf of Licensee to third
+parties, or (2) distribution of the binary code to
+third parties that need it to utilize a commercial product sold or
+licensed by or on behalf of Licensee.
+
+UWM MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THIS SOFTWARE
+FOR ANY PURPOSE.  IT IS PROVIDED "AS IS" WITHOUT EXPRESS OR IMPLIED
+WARRANTY.  THE UWM SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY
+THE USERS OF THIS SOFTWARE. MAINTENANCE FOR THE HEDGESCOPE
+SYSTEM IS NOT PROVIDED FOR UNDER THIS AGREEMENT.
+
+By using or copying this Software, Licensee agrees to abide by the
+copyright law and all other applicable laws of the U.S. including, but
+not limited to, export control laws, and the terms of this license.
+The UWM shall have the right to terminate this license immediately by
+written notice upon Licensee's breach of, or non-compliance with, any
+of its terms.  Licensee may be held legally responsible for any
+copyright infringement that is caused or encouraged by Licensee's
+failure to abide by the terms of this license.
+
+Hong Yu's Reserach Laboratory at UWM requests users of this software 
+to return improvements that they make and grant the UWM
+redistribution rights. Comments and questions should be sent to
+Shashank Agarwal (<last_name><at>uwm.edu).

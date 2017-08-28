@@ -1,0 +1,38 @@
+1 Have an effect on activity (BIO/29)                                    8 Physical Relation
+1.1 Activate / Inactivate Between Molecules (BIO/20)
+1.1.1 Change activity: activate, inhibit                                 8.1 Binding: bind, attach
+1.1.2 Suppress: suppress, repress                                        8.2 Translocate and Segregate
+1.1.3 Stimulate: stimulate                                               8.2.1 Translocate: shift, switch
+1.1.4 Inactivate: delay, diminish                                        8.2.2 Segregate: segregate, export
+1.2 Affect                                                               8.3 Transmit
+1.2.1 Modulate: stabilize, modulate				                         8.3.1 Transport: deliver, transmit
+1.2.2 Regulate: control, support 				                         8.3.2 Link: connect, map
+1.3 Increase / decrease: increase, decrease                              9 Report (GEN/30)
+1.4 Modify: modify, catalyze                                             9.1 Investigate
+2 Biochemical events (BIO/12)                                            9.1.1 Examine: evaluate, analyze
+2.1 Express: express, overexpress                                        9.1.2 Establish: test, investigate
+2.2 Modification                                                         9.1.3 Confirm: verify, determine
+2.2.1 Biochemical modification:                                          9.2 Suggest
+dephosphorylate, phosphorylate                                           9.2.1 Presentational:
+2.2.2 Cleave: cleave                                                      hypothesize, conclude
+2.3 Interact: react, interfere                                           9.2.2 Cognitive:
+3 Removal (BIO/6)                                                        consider, believe
+3.1 Omit: displace, deplete                                              9.3 Indicate: demonstrate, imply
+3.2 Subtract: draw, dissect                                              10 Perform (GEN/10)
+4 Experimental Procedures (BIO/30)                                       10.1 Quantify
+4.1 Prepare                                                              10.1.1 Quantitate: quantify, measure
+4.1.1 Wash: wash, rinse                                                  10.1.2 Calculate: calculate, record
+4.1.2 Mix: mix                                                           10.1.3 Conduct: perform, conduct
+4.1.3 Label: stain, immunoblot                                           10.2 Score: score, count
+4.1.4 Incubate: preincubate, incubate                                    11 Release (BIO/4): detach, dissociate
+4.1.5 Elute: elute                                                       12 Use (GEN/4): utilize, employ
+4.2 Precipitate: coprecipitate                                           13 Include (GEN/11)
+coimmunoprecipitate                                                      13.1 Encompass: encompass, span
+4.3 Solubilize: solubilize,lyse                                          13.2 Include: contain, carry
+4.4 Dissolve: homogenize, dissolve                                       14 Call (GEN/3): name, designate
+4.5 Place: load, mount                                                   15 Move (GEN/12)
+5 Process (BIO/5): linearize, overlap                                    15.1 Proceed:
+6 Transfect (BIO/4):                                                       inject, microinject progress, proceed
+7 Collect (BIO/6)                                                          15.2 Emerge:
+7.1 Collect: harvest, select                                                   arise, emerge
+7.2 Process: centrifuge, recover                                         16 Appear (GEN/6): appear, occur

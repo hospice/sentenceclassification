@@ -1,0 +1,1585 @@
+[The, ChIP, experiment, of, Figure, 2E, ,, in, which, FLAG-tagged, H2B, was, probed, ,, supports, the, conclusion, that, the, 160-bp, regions, between, HS, sites, in, Figure, 2, are, occupied, by, nucleosomes, .]
+nsubj(supports-15, experiment-3)
+nsubjpass(probed-13, H2B-11)
+nsubjpass(occupied-29, regions-21)
+[Moreover, ,, ablating, one, of, the, two, putative, Polo, binding, sites, on, Mtrm, by, mutation, prevents, the, physical, interaction, between, Polo, and, Mtrm, and, renders, the, mutated, Mtrm, protein, functionless, .]
+[Athymic, nude, mice, were, maintained, under, the, same, conditions, in, a, germ-free, environment, .]
+nsubjpass(maintained-5, mice-3)
+[Plasmids, DNAs, were, prepared, from, these, orange, colonies, and, subjected, to, Pst, I, ,, Sph, I, ,, Bam, HI, digestion, .]
+nsubjpass(prepared-4, DNAs-2)
+nsubjpass(subjected-10, DNAs-2)
+nsubjpass(Sph-15, DNAs-2)
+nsubj(HI-19, DNAs-2)
+[Therefore, ,, for, the, calendar, year, of, 1929, he, and, a, colleague, from, his, arctic, explorations, ate, a, diet, consisting, of, meat, and, fat, for, 12, months, .]
+nsubj(ate-17, he-9)
+nsubj(ate-17, colleague-12)
+[These, artificially-generated, conditioned, fear, memories, were, not, transient, -, they, lasted, at, least, 3, days, ,, indicating, that, mice, will, condition, as, readily, to, ACC, stimulation, as, they, might, to, shock, delivery, .]
+nsubj(transient-8, memories-5)
+nsubj(lasted-11, they-10)
+nsubj(condition-21, mice-19)
+nsubj(might-29, they-28)
+[The, deletion, abolished, silencing, at, the, HMR, locus, to, the, same, extent, as, did, deletion, of, the, SIR2, gene, -LRB-, Figure, 4, -RRB-, .]
+nsubj(abolished-3, deletion-2)
+[Remarkably, ,, despite, undetectable, levels, of, sequence, identity, ,, TrpF, and, HisA, that, catalyze, the, Amadori, rearrangements, can, be, interconverted, by, directed, evolution, :, starting, with, TrpF, ,, a, single, point, mutation, at, the, end, of, the, fifth, ß, strand, was, found, to, confer, the, ability, to, catalyze, the, HisA, reaction, while, retaining, the, TrpF, reaction, -LRB-, 49, -RRB-, .]
+nsubj(catalyze-14, TrpF-10)
+nsubjpass(interconverted-20, TrpF-10)
+nsubj(catalyze-14, HisA-12)
+nsubjpass(interconverted-20, HisA-12)
+nsubjpass(found-42, mutation-32)
+[We, chose, the, pair, of, phenotypes, MXDRNK, and, ttth3, -LRB-, one, of, the, electrophysiological, measures, -RRB-, as, the, bivariate, phenotype, to, perform, the, main, simulation, of, linkage, with, unlinked, markers, ,, in, which, we, ran, 100,000, replicates, .]
+nsubj(chose-2, We-1)
+nsubj(phenotype-20, bivariate-19)
+nsubj(ran-35, we-34)
+[For, these, baseline, environmental, preference, measurements, ,, juvenile, mice, from, the, A, ,, BALB, ,, B6, and, DBA, strains, were, examined, -LRB-, N, =, 32, mice, from, seven, to, eight, litters, per, strain, -RRB-, .]
+nsubjpass(examined-21, mice-9)
+[Following, the, conditioning, protocol, of, Experiment, 2, ,, a, total, of, 10, mixed-BALB, \/, B6, social, groups, were, examined, -LRB-, N, =, 20, mice, from, 10, litters, per, strain, -RRB-, .]
+nsubjpass(examined-19, total-10)
+[Furthermore, ,, each, participant, was, required, to, perform, the, same, game, twice, to, trace, long-term, participant, preferences, after, the, completion, of, first, 100, trials, in, the, modified, IGT, .]
+nsubjpass(required-6, participant-4)
+[Full-text, papers, for, these, 200, samples, were, subjected, to, a, ', pseudo-curation, ', procedure, in, which, the, paper, was, read, by, an, expert, and, ,, instead, of, being, fully, curated, ,, was, only, scored, with, respect, to, its, ', curatability, ', for, containing, a, TFBS, -LRB-, see, Materials, and, methods, -RRB-, .]
+nsubjpass(subjected-8, papers-2)
+nsubjpass(read-20, paper-18)
+nsubjpass(scored-34, paper-18)
+[To, check, whether, fgf8, expression, was, actually, silenced, in, the, transformed, cells, ,, immunohistochemistry, with, an, antibody, to, GFP, was, performed, on, whole, mount, embryos, and, on, sections, after, fgf8, in, situ, hybridization, .]
+nsubjpass(silenced-8, expression-5)
+nsubjpass(performed-21, immunohistochemistry-14)
+[The, dose, dependent, transcriptional, responses, probably, directly, reflect, the, dose, of, bacteria, in, the, tissue, and, also, ,, due, to, the, lag, phase, in, bacterial, growth, ,, different, durations, of, inflammation, in, the, tissue, .]
+nsubj(reflect-8, responses-5)
+[The, resulting, nonlinear, steady-state, response, curves, provided, an, estimate, of, the, true, f, null, cline, -LRB-, henceforth, referred, to, as, fL, -RRB-, .]
+nsubj(provided-7, curves-6)
+[Because, catenanes, were, seen, under, conditions, where, either, bla, was, fully, functioning, -LRB-, pREC, -RRB-, or, impaired, -LRB-, pKNOT, -RRB-, ,, it, does, not, seem, likely, that, catenanes, block, replication, and, transcription, -LRB-, or, cause, mutagenesis, -RRB-, .]
+nsubjpass(seen-4, catenanes-2)
+nsubj(functioning-12, bla-9)
+nsubj(likely-26, it-22)
+nsubj(block-29, catenanes-28)
+[We, suspect, that, ß-globin, mRNA, was, in, excess, of, the, probe, level, used, in, these, experiments, ,, and, tested, this, assumption, by, using, a, large, excess, of, probe, to, analyze, ß-globin, mRNA, by, northern, blot, -LRB-, Figure, 1B, -RRB-, .]
+nsubj(suspect-2, We-1)
+nsubj(was-6, mRNA-5)
+[The, recombinant, virus, not, only, predisposed, these, mice, to, gliomas, ,, but, MoMuLV, also, efficiently, tagged, oncogenes, in, the, brain, ,, potentially, collaborating, with, PDGF-ß, .]
+nsubj(predisposed-6, virus-3)
+nsubj(MoMuLV-13, virus-3)
+[Therefore, the, hypothesis, of, a, global, change, of, conformation, of, poly, -LRB-, CA, -RRB-, ·, poly, -LRB-, TG, -RRB-, induced, or, stabilized, by, supercoiling, had, to, be, ruled, out, .]
+nsubj(had-25, hypothesis-3)
+[We, further, verified, this, by, in, vitro, transcription, \/, translation, with, the, plasmid, constructs, followed, by, reporter, gene, expression, analysis, -LRB-, Fig, ., 8, -RRB-, .]
+nsubj(verified-3, We-1)
+[Hence, ,, our, experimental, design, for, providing, a, definitive, test, of, the, fate, of, prospective, endoderm, and, mesoderm, cells, of, the, streak, included, transplanting, the, more, caudal, rostral, streak, cells, ,, which, contains, prospective, endoderm, cells, not, contributing, to, the, midline, floor, of, the, foregut, -LRB-, 6, ,, 14, -RRB-, .]
+nsubj(included-23, design-5)
+nsubj(contains-33, cells-30)
+[These, may, be, isoforms, generated, by, alternative, splicing, -LRB-, i.e., ELP-1b, -RRB-, or, proteolytic, fragments, of, ELP-1a, .]
+nsubjpass(generated-5, These-1)
+[EV, ,, 2, mg, \/, rat, ,, reduced, intakes, of, a, saccharin, solution, -LRB-, no, ethanol, -RRB-, ,, but, produced, less, reduction, in, intake, of, a, sugar, solution, -LRB-, 11, -RRB-, .]
+nsubj(reduced-8, EV-1)
+nsubj(produced-20, EV-1)
+[Body, weights, of, hamsters, pre-treated, with, 10, h, versus, 5, h, melatonin, were, also, lower, through, Week, 6, -LRB-, F, =, 5.6, ;, d.f., =, 1, ,, 50, ;, p, -LRB-, 0.05, -RRB-, .]
+nsubj(lower-15, weights-2)
+[Entrainment, parameters, were, assessed, with, two-factor, analysis, of, variance, -LRB-, ANOVA, -RRB-, with, photoperiod, -LRB-, LD, vs, SD, -RRB-, and, melatonin, pre-treatment, duration, -LRB-, 10, h, vs, 5, h, -RRB-, as, independent, factors, -LRB-, Statview, 5.0, ;, SAS, Institute, ,, Cary, ,, NC, -RRB-, .]
+nsubjpass(assessed-4, parameters-2)
+[Correlation, coefficients, ,, r, ,, routinely, exceed, 0.90, over, the, range, of, 80-800, mg, -LRB-, 35, -RRB-, .]
+nsubj(exceed-7, coefficients-2)
+[We, conclude, that, barrel, cortex, firing, rate, on, each, trial, predicts, the, animal, 's, judgment, of, texture, .]
+nsubj(conclude-2, We-1)
+nsubj(predicts-11, rate-7)
+[During, the, Second, World, War, ,, another, oft-cited, study, was, performed, ,, this, time, examining, the, practicality, of, pemmican, -LRB-, a, mixture, of, dried, meat, and, fat, -RRB-, as, a, light-weight, emergency, ration, for, soldiers, .]
+nsubjpass(performed-11, study-9)
+[For, example, ,, it, is, known, -LRB-, 30, -RRB-, that, Ste5, null, mutant, cells, are, unable, to, mate, or, to, arrest, the, cell, cycle, .]
+nsubjpass(known-6, it-4)
+nsubj(unable-16, cells-14)
+[Hence, ,, bringing, these, levels, of, speech, processing, together, and, utilizing, subtle, featural, differences, such, as, lip, rounding, in, experiments, that, do, require, natural, speech, recognition, will, help, to, disambiguate, the, role, of, the, beta, ERD, seen, here, .]
+nsubj(require-23, differences-14)
+[There, are, only, few, data, relating, the, metabolic, consequences, of, feeding, diets, very, low, in, n-3, fatty, acids, .]
+nsubj(are-2, data-5)
+[The, amount, of, soluble, and, non-soluble, protein, for, each, mutant, was, analyzed, by, western, blotting, as, shown, in, Figure, 3, ,, using, anti-GFP, for, the, detection, .]
+nsubjpass(analyzed-12, amount-2)
+[On, the, otherhand, ,, in, heminested, PCR, assay, using, same, annealing, temperature, only, one, single, band, of, 240, bp, size, was, produced, at, the, second, PCR, reaction, -LRB-, fig, 5, -RRB-, .]
+nsubj(using-9, otherhand-3)
+nsubjpass(produced-22, band-16)
+[M21, human, melanoma, cells, expressing, Case12, displayed, a, nice, high, dynamic, range, response, to, ATP, at, a, final, concentration, of, 100, µM, -LRB-, Figure, 3e-h, -RRB-, .]
+nsubj(displayed-7, cells-4)
+[In, order, to, ascertain, whether, this, is, the, case, ,, we, assessed, responsiveness, to, LIF+D, ex, of, a, representative, panel, of, cluster, #, 2, genes, in, the, presence, \/, absence, of, the, protein, synthesis, inhibitor, cycloheximide, -LRB-, Figure, 5E, -RRB-, .]
+nsubj(case-9, this-6)
+nsubj(assessed-12, we-11)
+[Strikingly, ,, introduction, of, a, bulge, in, the, pri-miR-18a, stem, -LRB-, UC, ?, GU, -RRB-, made, its, processing, more, efficient, and, completely, independent, of, the, presence, of, hnRNP, A1, -LRB-, Figure, 2C, -RRB-, .]
+nsubj(stem-10, introduction-3)
+nsubj(made-16, GU-14)
+[Two, experiments, were, performed, on, adult, male, house, sparrows, -LRB-, Passer, domesticus, -RRB-, caught, around, Lucknow, city, -LRB-, 27, °, N, ,, 81, °, E, -RRB-, and, quarantined, in, an, outdoor, aviary, for, 4-6, days, .]
+nsubjpass(performed-4, experiments-2)
+[Nevertheless, ,, these, papers, do, not, analyze, the, solutions, by, the, MI-based, measures, ,, as, we, do, here, .]
+nsubj(analyze-7, papers-4)
+nsubj(do-17, we-16)
+[The, percentage, of, metaphase, chromosome, spreads, -LRB-, n, -RRB-, 150, -RRB-, showing, H3K27m3, staining, was, analyzed, in, undifferentiated, clone, 36, ES, cells, ,, which, expressed, Xist, for, 3, d, -LRB-, lane, 1, -RRB-, or, were, further, grown, without, inducer, for, 24, h, -LRB-, lane, 2, -RRB-, or, 48, h, -LRB-, lane, 3, -RRB-, .]
+nsubjpass(analyzed-16, percentage-2)
+nsubj(showing-12, spreads-6)
+nsubj(expressed-25, cells-22)
+nsubjpass(grown-37, cells-22)
+[A, recent, paper, reported, that, knocking, down, RGA-3, along, with, its, paralog, RGA-4, resulted, in, changes, in, the, boundary, of, anterior, and, posterior, domains, of, PAR, proteins, in, the, early, embryo, -LRB-, 11, -RRB-, .]
+nsubj(reported-4, paper-3)
+[We, have, previously, shown, that, lack, of, lectin, signal, from, IgG, corresponds, well, to, complete, hydrolysis, of, the, chitobiose, core, of, the, IgG-glycan, as, analyzed, by, mass, spectroscopy, of, hydrolyzed, IgG, -LRB-, 36, -RRB-, .]
+nsubj(shown-4, We-1)
+nsubj(corresponds-12, lack-6)
+[Figure, 3F, shows, the, merge, between, Nissl, staining, -LRB-, C, -RRB-, ,, GFAP, immunoreactivity, -LRB-, D, -RRB-, and, GluR1, expression, -LRB-, E, -RRB-, in, the, lamina, IX, in, the, cervical, region, of, four-week-old, wobbler, mice, .]
+nsubj(shows-3, Figure-1)
+[Subsequently, ,, the, RNA, synthesis, in, this, region, was, analyzed, by, RT-PCR, in, cells, growing, exponentially, in, minimal, medium, .]
+nsubjpass(analyzed-10, synthesis-5)
+[The, results, obtained, using, a, single, dose, of, scrapie, inoculum, were, then, re-evaluated, using, the, same, dose, of, cytokines, and, different, doses, of, scrapie, inocula, -LRB-, data, not, shown, -RRB-, .]
+nsubjpass(re-evaluated-13, results-2)
+[N2A, cells, were, selected, for, this, experiment, in, favor, of, the, NIH3T3, cells, shown, above, due, to, a, higher, ratio, of, nucleus, to, cytoplasm, .]
+nsubjpass(selected-4, cells-2)
+[To, analyze, this, further, we, combined, the, data, generated, from, all, oligos, that, covered, the, transcribed, regions, in, order, to, compare, the, expression, profiles, of, the, sense, and, antisense, tags, over, time, -LRB-, Figure, 5c-f, -RRB-, .]
+nsubj(combined-6, we-5)
+nsubj(generated-9, data-8)
+nsubj(covered-14, oligos-12)
+[Consistent, with, the, findings, above, ,, K14-TSLPtg, animals, also, developed, B-LPD, only, during, the, neonatal, period, ,, which, disappeared, later, in, life, despite, elevated, serum, TSLP, levels, -LRB-, Figure, 6D, and, 6E, -RRB-, .]
+nsubj(developed-10, animals-8)
+nsubj(disappeared-19, period-16)
+[In, a, parallel, staining, ,, the, cells, were, probed, with, MitoTracker, ,, and, merging, of, the, pictures, indicated, an, identical, pattern, .]
+nsubjpass(probed-9, cells-7)
+[Pre-treatment, of, microsomes, with, Proteinase, K, ,, however, ,, resulted, in, the, loss, of, signal, for, BnDGAT1, on, the, Western, blot, -LRB-, Figure, 5, ,, lane, 2, -RRB-, suggesting, that, the, N-terminal, segment, of, the, enzyme, was, digested, by, the, proteinase, in, microsomal, vesicles, .]
+nsubj(resulted-10, Pre-treatment-1)
+nsubjpass(digested-38, segment-33)
+[Subcellular, localization, of, Cx55, .5, protein, variants, in, transfected, NIH3T3, cells, :, Confocal, laser, scanning, imaging, of, the, subcellular, distribution, of, EGFP, and, the, Cx55.5-EGFP, fusion, protein, constructs, in, NIH3T3, cells, .]
+[Lacking, a, suitable, antibody, for, immunoprecipitation, of, CHOP, ,, we, measured, CHOP, protein, stability, instead, by, immunoblot, after, treatment, of, stressed, cells, with, the, protein, synthesis, inhibitor, cycloheximide, .]
+nsubj(measured-11, we-10)
+[The, predictable, exception, was, a, mAb, that, only, recognizes, denatured, gemin5, on, blots, and, would, not, be, expected, to, bind, native, complexes, .]
+nsubj(mAb-6, exception-3)
+nsubj(recognizes-9, mAb-6)
+nsubjpass(expected-18, mAb-6)
+[In, the, complementary, experiment, ,, pro-Th, explants, do, not, express, Shh, -LRB-, 0, \/, 30, -RRB-, and, only, rarely, the, Th, marker, Gbx2, -LRB-, 3, \/, 30, -RRB-, after, 72, hours, in, culture, -LRB-, Figure, 6c, -RRB-, while, pro-ZLI, +, pro-Th, explants, express, both, genes, in, the, majority, of, cases, -LRB-, 25, \/, 30, ;, Figure, 6d, -RRB-, .]
+nsubj(express-10, explants-7)
+nsubj(rarely-19, explants-7)
+nsubj(express-43, explants-42)
+[The, spectral, profile, of, this, component, is, concentrated, mainly, in, the, delta, range, -LRB-, 0.5, ., 4, Hz, -RRB-, and, is, unlikely, to, cause, the, modulations, observed, in, the, beta, and, gamma, ranges, .]
+nsubjpass(concentrated-8, profile-3)
+nsubj(unlikely-22, profile-3)
+[When, we, reintroduced, the, wild-typeDa7, transgene, into, the, mutantP, ?, D5, orP, ?, EY6, background, by, using, OK307-GAL4, -LRB-, 32, -RRB-, ,, a, driver, with, expression, in, several, elements, of, the, giant, fiber, circuit, -LRB-, including, the, giant, fiber, ,, DLMmn, ,, TTMmn, and, PSI, -RRB-, ,, we, were, able, to, fully, rescue, the, activation, of, the, DLM, by, giant, fiber, stimulation, -LRB-, Figure, 3B, and3C, -RRB-, .]
+nsubj(reintroduced-3, we-2)
+nsubj(able-50, we-48)
+[After, 2, hours, in, the, presence, of, thiamine, ,, intracellular, thiamine, already, reached, a, maximum, ,, while, with, benfotiamine, an, important, lag, period, was, observed, .]
+nsubj(reached-13, thiamine-11)
+nsubj(observed-25, period-23)
+[In, the, presence, of, a, morpholino, ,, the, GFP-pri-miR-205, mRNA, level, is, higher, compared, to, control, embryos, that, were, not, injected, with, morpholinos, .]
+nsubj(higher-13, level-11)
+nsubjpass(injected-21, embryos-17)
+[Experimental, details, and, further, analysis, can, be, found, in, Futschik, et, al., -LRB-, 15, -RRB-, .]
+nsubjpass(found-8, details-2)
+nsubjpass(found-8, analysis-5)
+[Figure, 5B, shows, that, greater, summed, probe-item, similarity, -LRB-, left, side, of, each, pair, -RRB-, predicts, greater, probability, of, a, Yes, response, -LRB-, paired, T-test, for, conditions, a, and, b, showed, p, -LRB-, 0.00001, ,, for, c, and, d, ,, p, -LRB-, 0.01, -RRB-, .]
+nsubj(shows-3, Figure-1)
+nsubj(showed-31, greater-5)
+nsubj(predicts-16, similarity-8)
+[We, wanted, to, assess, directly, whether, this, species, is, heterotypic, -LRB-, i.e., ,, CenH3, ,, H2A, ,, H2B, ,, and, H4, -RRB-, or, homotypic, -LRB-, i.e., ,, two, copies, each, of, CenH3, and, H4, -RRB-, .]
+nsubj(wanted-2, We-1)
+nsubj(heterotypic-10, species-8)
+nsubj(homotypic-24, species-8)
+[Due, to, the, following, acquisition, sequence, -LRB-, MART-1, Jurkat, \/, gp100, ,, MART-1, Jurkat, \/, MART-1, ,, Control, Jurkat, \/, gp100, ,, and, Control, Jurkat, \/, MART-1, -RRB-, ,, we, believe, that, carry, over, of, the, MART-1, Jurkat, \/, MART-1, tetramer, sample, caused, background, staining, in, Control, Jurkat, \/, gp100, tetramer, .]
+nsubj(believe-31, we-30)
+[We, reproduced, these, values, on, the, stereomicroscope, ,, and, then, tested, the, response, of, wild-type, animals, to, these, different, wavelengths, at, these, powers, .]
+nsubj(reproduced-2, We-1)
+nsubj(tested-11, We-1)
+[As, expected, ,, NBI-31772, stimulated, IGF-1-dependent, proteoglycan, synthesis, in, a, dose-dependent, manner, -LRB-, Fig, ., 5a, -RRB-, ,, but, R3, IGF-1, activity, ,, which, by, itself, was, highly, enhanced, compared, with, IGF-1, ,, remained, unaffected, by, NBI-31772, -LRB-, Fig, ., 5b, -RRB-, .]
+nsubj(stimulated-5, NBI-31772-4)
+nsubjpass(enhanced-29, activity-22)
+nsubj(unaffected-35, activity-22)
+[PC-3M, cells, were, incubated, in, suspension, over, a, period, of, 5, days, and, then, assessed, by, flow, cytometry, for, uPAR, cell, surface, levels, .]
+nsubjpass(incubated-4, cells-2)
+nsubjpass(assessed-15, cells-2)
+[Perhaps, the, most, surprising, result, is, the, apparent, systemic, effect, of, the, hormones, .]
+nsubj(effect-10, result-5)
+[Therefore, the, effect, of, two, PKC, inhibitors, ,, GF109203X, which, inhibits, all, PKC, isoforms, and, Gö6976, which, only, inhibits, classical, isoforms, ,, on, the, growth-inhibiting, effects, of, vincristine, on, SK-N-BE, -LRB-, 2, -RRB-, cells, was, investigated, -LRB-, Figure, 3, ,, Table, 2, -RRB-, .]
+nsubjpass(investigated-36, effect-3)
+nsubj(inhibits-11, GF109203X-9)
+nsubj(inhibits-19, isoforms-14)
+nsubj(inhibits-19, Gö6976-16)
+[To, model, the, state, of, detachment, in, which, cancer, cells, must, exist, during, metastasis, ,, both, cancer, cell, lines, were, placed, in, forced, suspension, culture, and, incubated, in, suspension, over, a, period, of, days, during, which, the, numbers, of, early, apoptotic, vs., live, cells, were, quantitatively, scored, .]
+nsubj(exist-12, cells-10)
+nsubjpass(placed-21, lines-19)
+nsubjpass(incubated-27, lines-19)
+nsubjpass(scored-47, numbers-38)
+[Our, time-correlated, evaluation, of, IP-10, secretion, at, different, times, ,, removing, all, accumulated, protein, ,, avoids, misinterpretations, and, allows, pointing, out, the, time, that, L., lactis, is, able, to, secrete, recombinant, proteins, after, inducing, the, activity, of, the, pNis, promoter, .]
+nsubj(avoids-16, evaluation-3)
+nsubj(allows-19, evaluation-3)
+nsubj(able-28, lactis-26)
+[Towards, that, end, ,, migratory, potential, of, both, cell, lines, was, compared, using, the, wound, healing, assay, .]
+nsubjpass(compared-12, potential-6)
+[All, the, plants, grown, from, spotted, kernels, in, this, family, carried, MuDR, -LRB-, p5, -RRB-, ,, but, the, presence, or, absence, of, MuDR, -LRB-, p4, -RRB-, had, no, effect, on, activity, ;, three, of, ten, plants, grown, from, spotted, kernels, carried, MuDR, -LRB-, p4, -RRB-, ,, as, did, seven, of, nine, plants, grown, from, pale, kernels, .]
+nsubj(carried-11, plants-3)
+nsubj(had-27, presence-19)
+nsubj(had-27, absence-21)
+nsubj(carried-41, MuDR-42)
+[The, large, fold, changes, result, from, very, small, denominators, used, in, the, fold, change, calculations, for, these, probe, sets, .]
+nsubj(sets-19, result-5)
+[Finally, ,, they, assessed, the, efficacy, of, rapamycin, in, combination, with, paclitaxel, in, nude, mice, with, cell, line, xenografts, .]
+nsubj(assessed-4, they-3)
+[Whole, cell, lysates, were, prepared, and, subjected, to, SDS-PAGE, and, immunoblot, analysis, using, anti-ßCstF-64, -LRB-, Figure, 2A, ,, top, panel, -RRB-, ,, anti-FLAG, -LRB-, Figure, 2A, ,, middle, panel, -RRB-, ,, and, anti-tubulin, antibodies, -LRB-, Figure, 2A, ,, bottom, panel, -RRB-, .]
+nsubjpass(prepared-5, lysates-3)
+nsubjpass(subjected-7, lysates-3)
+[Using, PET, ,, subject, 's, brains, were, scanned, while, they, learned, about, the, defector, 's, abuse, of, trust, and, determined, the, punishment, .]
+nsubjpass(scanned-8, brains-6)
+nsubjpass(determined-20, brains-6)
+nsubj(learned-11, they-10)
+[Thus, ,, more, than, 99, %, of, the, cells, with, two, apparent, daughters, were, monocolor, ,, which, is, far, more, than, the, 50, %, expected, for, a, random, population, of, false, '', bibudded, '', cells, .]
+nsubj(monocolor-15, %-6)
+nsubjpass(expected-25, monocolor-15)
+[The, lower, dose, time-course, also, included, a, 4, hour, treatment, ,, or, two, cell, divisions, .]
+nsubj(included-6, time-course-4)
+[In, the, third, experiment, -LRB-, CL1, \/, trans, vs., CL1, \/, exp, -RRB-, ,, 26, genes, had, a, different, expression, level, in, transition, phase, ,, including, 10, genes, with, increased, expression, -LRB-, bioB, ,, bioY, and, phoD, -RRB-, and, 16, genes, with, decreased, expression, -LRB-, e.g., seuC, ,, seuB, ,, ssuD2, ,, ssuC, ,, ssuD1, and, ssuB, -RRB-, -LRB-, Fig, ., 3B, -RRB-, .]
+nsubj(had-17, genes-16)
+[In, the, hormone-treated, mice, ,, only, 2, \/, 66, -LRB-, 3, %, -RRB-, produced, tumors, -LRB-, p, -LRB-, 0.05, -RRB-, .]
+nsubj(produced-14, 66-9)
+[A, performance, summary, of, this, experiment, is, shown, in, Table, 2, .]
+nsubjpass(shown-8, summary-3)
+[Nevertheless, ,, the, helices, ,, even, though, their, local, 3D, structure, is, perturbed, ,, remain, docked, together, .]
+nsubjpass(docked-16, helices-4)
+nsubj(perturbed-13, structure-11)
+[For, the, operator, ,, the, pressure, fluctuations, hamper, titration, of, the, desired, set, airway, pressure, while, the, pressure, safety, alarm, limits, may, be, exceeded, frequently, .]
+nsubj(hamper-8, fluctuations-7)
+nsubjpass(exceeded-24, limits-21)
+[The, transplants, exposed, to, tamoxifen, for, only, 3, months, did, not, develop, any, tumors, after, 50, weeks, .]
+nsubj(develop-12, transplants-2)
+[The, descendants, of, the, AB, blastomere, that, was, transiently, in, contact, with, P2, show, elongated, AB-derived, regions, .]
+nsubj(show-14, descendants-2)
+nsubj(was-8, blastomere-6)
+[In, experimental, manipulations, ,, whichever, form, was, most, common, was, most, likely, to, be, attacked, by, ground-foraging, birds, ,, resulting, in, a, survival, advantage, for, the, rare, form, .]
+nsubj(common-9, form-6)
+nsubj(likely-12, advantage-24)
+[Western, blot, of, pRE, and, pRE-IR2, transfected, N2A, cells, .]
+nsubj(transfected-7, blot-2)
+[The, dim, subpopulation, had, a, 20-fold, higher, survival, rate, as, compared, to, the, sorted, bright, cells, -LRB-, Fig, ., 2C, -RRB-, .]
+nsubj(had-4, subpopulation-3)
+[In, three, independent, experiments, we, observed, that, from, a, total, of, 101, cultures, ,, 29, did, grow, in, G418, ,, 31, grew, in, blasticidin, ,, whereas, 41, showed, growth, in, both, G418, and, blasticidin, .]
+nsubj(observed-6, we-5)
+nsubj(grow-17, 29-15)
+nsubj(grew-22, 31-21)
+nsubj(showed-28, 41-27)
+[The, antibodies, themselves, do, not, shift, the, probe, -LRB-, lanes, 11-14, -RRB-, .]
+nsubj(shift-6, antibodies-2)
+[In, the, Super-Shift, reaction, array, ,, a, lag, band, of, the, '', antigen-antibody-specific, probe, complex, '', was, observed, -LRB-, Fig, ., 4C, -RRB-, .]
+nsubj(observed-18, band-9)
+[In, each, experiment, ,, the, ability, to, detect, the, heteroplasmic, positions, for, different, haplotype, ratios, with, different, detection, thresholds, was, tested, ,, the, number, of, correct, bases, were, determined, and, false, positives, were, scored, -LRB-, Table, S3, -RRB-, .]
+nsubjpass(tested-21, ability-6)
+nsubjpass(determined-29, number-24)
+nsubjpass(scored-34, positives-32)
+[The, 90, kDa, form, of, Arm, is, stable, as, it, persists, until, the, late, stage, of, apoptosis, ,, at, time, points, when, full, length, Arm, is, no, longer, detectable, -LRB-, Fig, ., 5C, ,, D, ,, H, -RRB-, .]
+nsubj(stable-8, form-4)
+nsubj(persists-11, it-10)
+nsubj(detectable-29, Arm-25)
+[We, also, saw, that, C2, positive, cells, had, increased, staining, intensity, as, they, approached, confluence, .]
+nsubj(saw-3, We-1)
+nsubj(increased-9, cells-7)
+nsubj(approached-14, they-13)
+[The, amount, of, Evan, 's, Blue, extracted, from, the, bladder, tissue, was, determined, spectrophotometrically, -LRB-, 620, nm, -RRB-, and, data, were, expressed, in, µg, \/, g, of, bladder, weight, .]
+nsubjpass(determined-13, amount-2)
+nsubjpass(expressed-22, data-20)
+[These, interactions, reflect, group, differences, in, the, pattern, of, growth, .]
+nsubj(reflect-3, interactions-2)
+[These, studies, were, approved, by, the, University, of, Alabama, at, Birmingham, Institutional, Animal, Care, and, Use, Committee, .]
+nsubjpass(approved-4, studies-2)
+[The, 1, %, zymosan, data, were, those, derived, from, Experiment, 1, .]
+nsubj(those-7, data-5)
+[The, three, treatments, in, which, seeds, were, produced, did, not, differ, from, each, other, in, number, of, seeds, per, capsule, .]
+nsubj(differ-11, treatments-3)
+nsubjpass(produced-8, seeds-6)
+[In, the, final, experiment, ,, we, asked, whether, ,, conversely, ,, transfer, from, arm, to, wrist, could, be, blocked, by, a, prior, history, of, wrist, training, .]
+nsubj(asked-7, we-6)
+nsubjpass(blocked-19, transfer-12)
+[Table, 3, shows, the, performance, of, miPred, and, miR-KDE, for, the, NH3350, dataset, in, terms, of, genus, .]
+nsubj(shows-3, Table-1)
+[When, comparing, some, groups, ', scores, ,, there, was, no, need, for, correction, for, multiple, comparisons, ,, t-tests, were, used, .]
+nsubj(was-9, need-11)
+nsubjpass(used-20, t-tests-18)
+[To, test, whether, the, new, FPs, retain, the, low, bacterial, cytotoxicity, of, DsRed-Express2, ,, we, examined, colony, size, for, E., coli, cells, expressing, high, levels, of, various, FPs, -LRB-, 5, -RRB-, .]
+nsubj(retain-7, FPs-6)
+nsubj(examined-16, we-15)
+[To, further, study, the, effect, of, NPD, media, on, secretion, ,, we, examined, the, secretion, of, monoclonal, antibody, in, cultures, grown, in, reduced, serum, .]
+nsubj(examined-13, we-12)
+[In, contrast, ,, no, significant, phosphorylation, was, observed, for, fusion, proteins, composing, most, of, TIM, ,, the, N-terminal, half, of, CLK, ,, or, full-length, CYC, and, SGG, -LRB-, Figure, 2, -RRB-, .]
+nsubjpass(observed-8, phosphorylation-6)
+[A, link, between, H2A, ubiquitylation, and, cellular, damage, repair, was, uncovered, by, the, finding, that, the, UV-induced, enrichment, of, ubiquitylated, H2A, was, absent, in, the, NER-deficient, XPA, ,, XPC, ,, XPG, ,, and, XPF, cells, but, remains, intact, in, the, XPV, cells, ,, which, are, not, defective, in, NER, pathway, but, carry, a, mutant, DNA, polymerase, ?, .]
+nsubjpass(uncovered-11, link-2)
+nsubj(defective-47, finding-14)
+nsubj(carry-52, finding-14)
+nsubj(absent-23, enrichment-18)
+nsubj(intact-38, enrichment-18)
+[C., elegans, genes, with, exons, of, unusual, hexamer, content, ,, as, well, as, those, with, unusually, many, exons, ,, short, exons, ,, long, introns, ,, a, weak, translation, start, signal, ,, weak, splice, sites, ,, or, poorly, conserved, orthologs, posed, the, greatest, difficulty, for, gene-finders, .]
+nsubj(elegans-2, C.-1)
+nsubj(posed-40, genes-3)
+[All, gene, sets, will, be, available, from, and, will, also, be, displayed, in, the, genome, browsers, for, these, species, at, .]
+nsubj(available-6, sets-3)
+nsubjpass(displayed-12, sets-3)
+[Levels, for, all, stimuli, in, Experiment, 2, were, 79, dBSPL, -LRB-, decibels, sound, pressure, level, -RRB-, ,, well, above, our, participants, ', hearing, thresholds, ,, and, levels, for, stimuli, in, Experiment, 1, were, similar, -LRB-, with, the, same, code, and, hardware, settings, ,, but, a, different, computer, -RRB-, .]
+nsubj(dBSPL-10, Levels-1)
+nsubj(similar-34, levels-27)
+[Testis, volume, -LRB-, TV, -RRB-, was, calculated, using, the, formula, 4, \/, 3, p, a, b2, ,, where, a, and, b, denote, half, of, the, length, and, width, ,, respectively, .]
+nsubjpass(calculated-7, volume-2)
+nsubj(denote-22, a-19)
+nsubj(denote-22, b-21)
+[In, fact, ,, only, enhancement, mediated, by, the, mutation, S45F, was, slightly, but, significantly, higher, than, the, other, ones, .]
+nsubj(was-11, enhancement-5)
+nsubj(higher-15, enhancement-5)
+[Blood, samples, were, collected, at, 0.5, ,, 1, ,, 2, ,, 4, ,, 6, ,, 8, and, 24, h, after, the, EGCG, administration, .]
+nsubj(h-19, samples-2)
+[Overexpression, of, STAP, in, NIH, 3T3, cells, revealed, that, STAP, may, regulate, cell, growth, via, reducing, p21, expression, .]
+nsubj(revealed-8, Overexpression-1)
+nsubj(regulate-12, STAP-10)
+[After, 24, hrs, ,, each, cup, was, examined, for, remaining, larva, .]
+nsubjpass(examined-8, cup-6)
+[The, animals, were, housed, under, constant, temperature, -LRB-, 21-25, °, C, -RRB-, and, in, a, 12, h, light, \/, dark, cycle, and, maintained, on, water, and, food, ad, libitum, .]
+nsubjpass(housed-4, animals-2)
+nsubjpass(housed-4', animals-2)
+nsubjpass(maintained-23, animals-2)
+[-LRB-, 80, -RRB-, and, -LRB-, 57, -RRB-, make, use, of, an, experiment, profiling, gene, expression, in, different, tissues, of, Populus, trichocarpa, ', Niqually-1, ', ,, the, sequenced, clone, .]
+nsubj(make-8, expression-15)
+[Little, difference, was, seen, between, the, 10, and, 20, µl, doses, for, either, Mock, or, APF, treated, samples, ,, but, cells, treated, with, 50, µl, of, APF, or, the, mock, preparation, were, clearly, different, from, the, lower, level, treatments, .]
+nsubjpass(seen-4, difference-2)
+nsubj(different-34, cells-21)
+[In, this, simulation, ,, a, dipole, is, placed, near, a, stationary, skate, ,, and, the, dipole, is, simply, rotated, in, the, horizontal, plane, of, the, skate, without, changing, its, position, -LRB-, Figure, 14, -RRB-, .]
+nsubjpass(placed-8, dipole-6)
+nsubj(rotated-19, dipole-16)
+[Since, the, time, available, to, search, for, suitable, habitats, and, host-plants, for, larval, growth, and, survival, is, limiting, ,, the, number, of, surviving, offspring, may, be, higher, for, females, that, lay, relatively, fewer, eggs, but, spend, more, time, searching, for, oviposition, sites, -LRB-, Wiklund, and, Persson, 1983, -RRB-, .]
+nsubj(limiting-18, time-3)
+nsubj(higher-27, number-21)
+nsubj(lay-31, females-29)
+nsubj(spend-36, females-29)
+[Similarly, ,, the, 45, kD, IkB-ß, band, in, the, protein, of, the, TC, group, was, affected, but, later, -LRB-, 60, min, -RRB-, after, PH, ,, and, its, levels, remained, low, even, at, 24, and, 48, h, -LRB-, Figure, 6, -RRB-, .]
+nsubjpass(affected-16, band-7)
+nsubj(h-36, levels-28)
+[The, average, ROC, -LRB-, ROC50, -RRB-, scores, for, 10, draws, of, the, data, were, 0.874, -LRB-, 0.361, -RRB-, for, the, unflipped, data, ,, and, 0.871, -LRB-, 0.356, -RRB-, for, the, flipped, data, .]
+nsubj(0.874-15, scores-7)
+[Raw, data, ,, corresponding, to, the, mean, signal, intensity, of, up, to, 60, spots, have, been, normalized, by, the, mean, signals, of, the, 18, microarrays, .]
+nsubjpass(normalized-17, data-2)
+[For, two, generations, removed, from, selection, ,, the, dams, of, the, daughters, for, ovariole, number, determination, were, taken, from, lines, in, which, selection, had, been, relaxed, for, two, generations, .]
+nsubjpass(taken-18, dams-9)
+nsubjpass(relaxed-26, selection-23)
+[Percent, germination, after, one, week, for, ABR17-transgenic, and, WT, seeds, in, the, dark, and, in, the, presence, of, light, -LRB-, fluorescent, light, ,, 30, µmol, m-2, s-1, -RRB-, were, compared, in, Petri, dishes, at, RT, .]
+nsubjpass(compared-30, germination-2)
+nsubjpass(compared-30, germination-2')
+[The, results, showed, that, cancer, cell, proliferation, could, not, be, reduced, .]
+nsubj(showed-3, results-2)
+nsubjpass(reduced-11, proliferation-7)
+[Particularly, at, the, periphery, of, the, plastids, ,, the, green, fluorescence, of, GFP, seemed, predominant, -LRB-, arrows, -RRB-, while, the, fluorescence, of, Chl, was, predominant, within, the, chloroplast, -LRB-, asterisks, -RRB-, .]
+nsubj(seemed-14, predominant-15)
+nsubjpass(predominant-25, fluorescence-21)
+[On, the, other, hand, ,, when, the, same, tunnel, was, lined, with, axial, stripes, --, so, that, a, bee, flying, through, it, would, experience, very, little, optic, flow, because, the, stripes, were, parallel, to, the, flight, direction, --, the, bees, signaled, a, very, small, distance, ,, even, though, they, had, flown, the, same, physical, distance, as, in, the, previous, condition, -LRB-, Srinivasan, et, al., 2000, -RRB-, .]
+nsubjpass(lined-11, tunnel-9)
+nsubj(experience-24, bee-19)
+nsubj(were-32, stripes-31)
+nsubj(signaled-41, bees-40)
+nsubj(flown-51, they-49)
+[Surprisingly, ,, no, additional, RNAs, were, visualized, with, either, RNA, extraction, method, -LRB-, Trizol, ™, or, Qiagen, ™, ,, not, shown, -RRB-, or, stress, -LRB-, see, conditions, in, Material, and, Methods, section, ,, data, not, shown, -RRB-, .]
+nsubjpass(visualized-7, RNAs-5)
+nsubj(stress-24, RNAs-5)
+nsubj(™-18, ™-15)
+nsubj(™-18, Qiagen-17)
+[A, significant, increase, in, the, number, of, TRP2, :, 180-188-specific, IFN, -, ?, -, producing, cells, occurred, by, 8, days, post-immunization, -LRB-, Fig, ., 2, -RRB-, .]
+nsubj(occurred-17, cells-16)
+[These, secondary, Abs, were, used, in, all, the, blotting, assays, of, this, paper, .]
+nsubjpass(used-5, Abs-3)
+[Unlike, the, tumors, initiated, by, activated, Ras, or, Wnt-1, ,, p53, heterozygosity, or, nullizygosity, had, no, significant, impact, on, the, level, of, cell, proliferation, -LRB-, Figure, 4C, -RRB-, .]
+nsubj(had-15, p53-11)
+[Additionally, ,, dosage, sensitivity, is, evident, in, vNB, DA1, and, SOG, extension, phenotypes, -LRB-, Figure, 5g, -RRB-, .]
+nsubj(evident-6, sensitivity-4)
+[Placing, cto, mutants, in, 2, µM, neocuproine, at, 3, hpf, resulted, in, wavy, notochords, in, the, mutant, embryos, at, 24, hpf, while, having, no, effect, on, heterozygous, or, wild-type, embryos, -LRB-, Figure, 4A, ,, B, -RRB-, .]
+[We, find, that, the, input, function, of, a, reporter, strain, in, which, the, GalS, \/, GalR, binding, sites, in, the, galE, promoter, were, deleted, is, monotonic, -LRB-, Figure, 1H, -RRB-, .]
+nsubj(find-2, We-1)
+nsubj(monotonic-26, function-6)
+nsubjpass(deleted-24, sites-18)
+[However, ,, hybridization, of, RNA, that, has, been, labeled, directly, by, chemical, means, ,, thus, omitting, the, use, of, reverse, transcriptase, ,, usually, yielded, signals, only, from, the, annotated, strand, .]
+nsubj(yielded-24, hybridization-3)
+nsubjpass(labeled-9, RNA-5)
+[Additional, scanning, of, the, novel, human, dataset, yielded, 11, potential, proteins, via, SVM, and, 16, potential, proteins, via, BLAST, -LRB-, threshold, 10-2, -RRB-, ,, which, is, in, agreement, with, the, unknown, status, of, existence, in, several, human, repair, pathways, -LRB-, 1, -RRB-, .]
+nsubj(yielded-8, scanning-2)
+nsubj(is-26, BLAST-19)
+[Observations, were, made, on, testicular, and, follicular, size, at, the, beginning, and, the, end, of, the, experiment, ,, and, at, monthly, intervals, during, the, experiment, .]
+nsubjpass(made-3, Observations-1)
+[Studies, looking, at, plasma, histamine, levels, following, morphine, administration, in, humans, have, shown, peak, histamine, levels, within, 5, minutes, of, administration, -LRB-, 3, ,, 4, ,, 6, -RRB-, .]
+nsubj(shown-13, Studies-1)
+[For, very-low, velocity, impacts, ,, this, is, to, be, expected, ,, as, it, is, usually, only, when, the, sled, acceleration, exceeds, 5, g, 's, that, head, acceleration, begins, to, exceed, sled, acceleration, .]
+nsubj(is-7, this-6)
+nsubj(is-14, it-13)
+nsubj(exceeds-21, acceleration-20)
+nsubj('s-24, g-23)
+nsubj(begins-28, acceleration-27)
+[For, very-low, velocity, impacts, ,, this, is, to, be, expected, ,, as, it, is, usually, only, when, the, sled, acceleration, exceeds, 5, g, 's, that, head, acceleration, begins, to, exceed, sled, acceleration, .]
+nsubj(is-7, this-6)
+nsubj(is-14, it-13)
+nsubj(exceeds-21, acceleration-20)
+nsubj('s-24, g-23)
+nsubj(begins-28, acceleration-27)
+[A, subsequent, study, was, conducted, to, see, if, using, ', three, video, channels, ', overcame, the, problems, associated, with, using, a, single, video, camera, -LRB-, 6, -RRB-, .]
+nsubjpass(conducted-5, study-3)
+[We, illustrate, our, method, with, publicly, available, expression, measurements, from, Dictyostellium, discoideum, wild, type, -LRB-, 20, -RRB-, and, deletion, mutant, strains, -LRB-, 21, -RRB-, .]
+nsubj(illustrate-2, We-1)
+[We, then, tested, whether, those, populations, would, evolve, earlier, aging, .]
+nsubj(tested-3, We-1)
+nsubj(evolve-8, populations-6)
+[With, this, assay, it, can, not, be, determined, whether, offspring, carry, an, extra, Y, chromosome, .]
+nsubjpass(determined-8, it-4)
+nsubj(carry-11, offspring-10)
+[The, required, computational, time, of, the, algorithms, are, studied, with, respect, to, the, number, of, genes, to, be, selected, -LRB-, t, -RRB-, and, the, size, of, the, whole, gene, set, -LRB-, d, -RRB-, .]
+nsubjpass(studied-9, time-4)
+[We, do, this, in, two, ways, :, First, ,, we, measure, this, accuracy, by, the, F1, score, of, our, predictions, on, held-aside, data, ,, and, compare, these, scores, to, those, obtained, by, a, restricted, version, of, our, algorithm, ,, for, which, the, only, aspect, given, to, the, Train, function, is, multiple, binding, sites, .]
+nsubj(do-2, We-1)
+nsubj(measure-11, we-10)
+nsubj(compare-26, we-10)
+nsubj(sites-53, aspect-44)
+[The, other, work, reported, the, analysis, of, Pseudomonas, aeruginosa, corneal, infection, using, an, oligonucleotide, microarray, -LRB-, 37, -RRB-, .]
+nsubj(reported-4, work-3)
+[The, experiments, using, inhibition, of, DNA, replication, merely, measure, the, pattern, of, mass, increase, in, a, perturbed, experimental, situation, on, cells, that, are, not, synchronized, .]
+nsubj(replication-7, experiments-2)
+nsubjpass(synchronized-25, cells-21)
+[We, have, conducted, a, DNA, microarray, experiment, using, the, AFFYMETRIX, 430, 2.0, array, ,, which, contains, oligonucleotide, probe, sets, representing, approximately, 39,000, genes, .]
+nsubj(conducted-3, We-1)
+nsubj(contains-16, array-13)
+[Some, anorectic, animals, received, processed, canned, cat, feed, for, a, few, days, to, stimulate, their, appetite, .]
+nsubj(received-4, animals-3)
+[Thus, ,, we, added, purified, recombinant, HuR, to, the, cytoplasmic, extracts, and, monitored, its, effect, on, the, endonuclease, activity, .]
+nsubj(added-4, we-3)
+nsubj(monitored-13, we-3)
+[Demura, et, al., -LRB-, 28, -RRB-, also, examined, the, change, in, gene, expression, in, the, transdifferentiation, of, mesophyll, cells, into, xylem, cells, in, Z., elegans, .]
+nsubj(examined-8, Demura-1)
+nsubj(examined-8, al.-3)
+[Bacterial, lysates, containing, GST-tagged, vinculin, or, paxillin, were, mixed, with, lysates, containing, FLAG-Nudel, and, then, subjected, to, co-IP, with, anti-FLAG, resin, .]
+nsubjpass(mixed-9, lysates-2)
+nsubjpass(subjected-16, lysates-2)
+[In, k-folding, ,, the, training, set, is, partitioned, randomly, into, k, -LRB-, for, example, ,, 2, ,, 5, ,, or, 10, -RRB-, subsets, ;, one, of, these, subsets, is, then, selected, as, the, verification, set, ,, the, pandect, is, constructed, on, the, remainder, of, the, training, set, -LRB-, viewed, as, the, learning, set, -RRB-, ,, and, the, prognosis, of, the, pandect, is, checked, on, the, verification, set, .]
+nsubjpass(partitioned-8, set-6)
+nsubjpass(selected-31, one-25)
+nsubjpass(constructed-40, pandect-38)
+nsubjpass(checked-63, prognosis-58)
+[Examples, of, the, gain, of, functional, responses, -LRB-, CD69, upregulation, -LRB-, A, -RRB-, and, cytotoxicity, -LRB-, B, -RRB-, -RRB-, to, a, narrow, presentation, range, of, EIINFEKL-Kb, that, parallel, with, the, ppERK, responses, shown, in, Figure, S9, .]
+[Effects, of, bFGF, and, VPA, on, proliferation, of, NPCs, .]
+[In, situ, hybridization, of, mitf, and, dct, in, these, neural, fold, extirpated, tadpoles, showed, a, normal, pattern, in, the, anterior, but, an, absence, of, positive, cells, in, the, region, of, the, tail, affected, by, the, neural, fold, extirpation, -LRB-, fig, ., 10F, ,, G, -RRB-, .]
+nsubj(showed-14, tadpoles-13)
+[A, peptide, containing, the, binding, motif, can, bind, its, ligand, ,, competitively, displacing, the, normal, protein, ligand, leading, to, a, dose-dependent, decrease, in, protein, activity, .]
+nsubj(bind-8, peptide-2)
+[It, also, allowed, us, to, test, for, heterogeneity, in, survival, rates, among, the, 12, independently, evolved, lines, .]
+nsubj(allowed-3, It-1)
+nsubj(test-6, us-4)
+[whether, they, are, in, or, out, of, the, stress, context, ,, will, be, given, priority, for, access, to, long-term, memory, storage, .]
+nsubj(are-3, they-2)
+[To, test, this, ,, we, misexpressed, col, using, the, apGAL4, driver, ,, which, is, not, expressed, until, stage, 16, ,, thus, maintaining, col, expression, in, all, four, Ap, cluster, neurons, at, the, time, when, Col, is, normally, down-regulated, .]
+nsubj(misexpressed-6, we-5)
+nsubjpass(expressed-16, driver-11)
+nsubj(down-regulated-38, Col-35)
+[Using, this, assay, ,, we, determined, a, p27, half-life, of, 4, h, in, control, cells, ,, which, was, increased, to, more, than, 6, h, in, MIB, treated, cells, -LRB-, Fig, ., 3B, -RRB-, .]
+nsubj(determined-6, we-5)
+nsubjpass(increased-19, cells-15)
+[Either, way, ,, increased, global, movement, of, humans, and, agricultural, produce, and, associated, parasites, may, not, only, increase, disease, transmission, ,, but, also, result, in, evolutionary, change, in, levels, of, parasite, infectivity, and, host, resistance, .]
+nsubj(increase-18, way-2)
+nsubj(result-24, way-2)
+nsubj(increase-18, parasites-14)
+[Over, the, course, of, 170, minutes, -LRB-, ~, 1.5, cell, cycles, -RRB-, ,, culture, samples, were, fixed, every, ten, minutes, with, formaldehyde, ,, and, H3K56ac, levels, at, individual, nucleosomes, were, measured, relative, to, the, cell, cycle, average, .]
+nsubjpass(fixed-17, samples-15)
+nsubjpass(measured-31, levels-26)
+[The, p, value, represents, the, correlation, between, non-HS, and, HS, which, is, significantly, different, .]
+nsubj(represents-4, value-3)
+nsubj(different-14, correlation-6)
+[Such, an, effect, will, not, preclude, cytokine, detection, when, a, high, protein, concentration, is, measured, ,, but, hampers, the, analysis, when, the, concentration, of, protein, is, low, .]
+nsubj(preclude-6, effect-3)
+nsubj(hampers-18, effect-3)
+nsubjpass(measured-15, concentration-13)
+nsubj(low-27, concentration-23)
+[To, determine, whether, the, effects, of, Bcl-xL, occurred, early, or, late, in, the, neoplastic, process, ,, we, examined, sections, of, pancreases, from, RIP-Tag, ;, RIP-tva, mice, at, 2, and, 5, wk, after, RCASBP-Bcl-xL, delivery, -LRB-, 9, and, 12, wk, of, age, ,, respectively, -RRB-, ,, as, well, as, 9, wk, after, infection, -LRB-, Figure, 5B, and, 5C, -RRB-, .]
+nsubj(occurred-8, effects-5)
+nsubj(examined-18, we-17)
+nsubj(wk-31, mice-26)
+[As, in, the, spatial, task, ,, RM, and, WM, errors, can, now, be, defined, .]
+nsubjpass(defined-14, errors-10)
+[In, cells, stably, transfected, with, DNA, that, expressed, wild-type, LKB1, -LRB-, but, not, a, catalytically, inactive, mutant, -RRB-, ,, however, ,, the, ability, of, AICA, riboside, and, phenformin, to, activate, AMPK, ,, to, phosphorylate, Thr172, on, the, AMPKa, subunit, ,, and, to, cause, phosphorylation, of, a, downstream, target, -LRB-, ACC, -RRB-, was, restored, -LRB-, Figure, 6, -RRB-, .]
+nsubj(expressed-8, DNA-6)
+nsubjpass(restored-53, ability-23)
+[Substitution, of, these, amino, acids, in, the, sequence, of, Lhcb1, ,, a, major, LHCP, that, can, not, be, detected, in, Chl, b-less, plants, -LRB-, 5, ,, 8, -RRB-, ,, would, be, expected, to, restore, accumulation, of, the, protein, with, only, Chl, a, .]
+nsubjpass(expected-32, Substitution-1)
+nsubjpass(detected-19, LHCP-14)
+[Second, is, what, the, absolute, number, of, beads, is, that, is, acquired, by, the, instrument, attributable, to, carryover, .]
+nsubj(is-2, Second-1)
+nsubjpass(acquired-12, what-3)
+nsubj(is-9, number-6)
+[The, development, of, this, method, to, repair, ex, vivo, the, gene, defect, in, isolated, human, monocytes, should, have, beneficial, effects, when, these, cells, are, re-infused, in, the, circulation, and, retained, in, the, lung, to, give, protection, against, proteolytic, alveolar, damage, .]
+nsubj(have-18, development-2)
+nsubj(defect-12, vivo-9)
+nsubjpass(re-infused-25, cells-23)
+nsubjpass(retained-30, cells-23)
+[When, the, number, of, basis, vectors, is, 70, ,, the, performance, seems, to, be, optimized, with, 0.86, mean, ROC, score, .]
+nsubj(70-8, number-3)
+nsubj(seems-12, performance-11)
+[Results, may, be, considered, particularly, positive, for, a, governmental, health, promotion, website, working, with, a, small, marketing, budget, .]
+nsubjpass(considered-4, Results-1)
+[Therefore, ,, we, designed, now, an, initial, explorative, approach, to, document, a, basic, effectiveness, at, first, .]
+nsubj(designed-4, we-3)
+[Reassuringly, ,, these, results, are, also, supported, by, published, in, vivo, reporter, expression, experiments, and, in, vitro, binding, assays, of, Ndt80, mutants, -LRB-, 22, -RRB-, .]
+nsubjpass(supported-7, results-4)
+[Moreover, ,, the, learning, curve, indicated, that, the, deck, B, was, relatively, more, attractive, than, the, other, three, decks, throughout, the, game, -LRB-, see, Additional, file, 2, -RRB-, .]
+nsubj(indicated-6, curve-5)
+nsubj(attractive-14, B-10)
+nsubj(file-26, Additional-25)
+[Our, proposed, solution, has, been, to, construct, an, archive, of, manuscripts, -LRB-, from, previous, classes, and, gathered, from, the, Internet, -RRB-, that, allows, for, a, computer-based, ,, digital, check, of, originality, for, all, newly, submitted, manuscripts, .]
+nsubj(been-5, solution-3)
+nsubj(allows-23, manuscripts-11)
+[To, test, the, applicability, of, the, mRNA-tagging, strategy, for, obtaining, a, comprehensive, gene, expression, profile, of, a, specific, subset, of, neurons, ,, we, utilized, this, approach, to, fingerprint, a, group, of, 18, larval, cells, largely, composed, of, A-type, motor, neurons, -LRB-, 35, ,, 75, -RRB-, .]
+nsubj(utilized-24, we-23)
+[To, determine, whether, impairment, of, cholesterol, efflux, by, HIV-1, infection, leads, to, cholesterol, accumulation, and, foam, cell, formation, ,, we, loaded, macrophages, -LRB-, uninfected, or, infected, with, Nef-expressing, or, ?, Nef, HIV-1, -RRB-, with, lipids, by, incubating, with, acetylated, LDL, -LRB-, AcLDL, -RRB-, in, the, presence, of, apoA-I, and, stained, cellular, lipids, with, Oil, Red, O, -LRB-, Figure, 6, -RRB-, .]
+nsubj(leads-11, impairment-4)
+[In, order, to, further, support, the, involvement, if, Fgfs, in, ectopic, bud, formation, ,, we, additionally, probed, control, and, Gata3ND, -, \/, -, embryos, with, the, soluble, Fgfr2-Fc, fusion, protein, ,, which, recognizes, several, Fgfs, -LRB-, 44, -RRB-, .]
+nsubj(probed-17, we-15)
+nsubj(embryos-24, control-18)
+nsubj(embryos-24, Gata3ND-20)
+nsubj(recognizes-33, protein-30)
+[We, observed, essentially, similar, results, using, the, other, structurally, and, mechanistically, different, PI3-kinase, inhibitor, -LRB-, wortmannin, -RRB-, .]
+nsubj(observed-2, We-1)
+[At, the, end, of, the, treatment, period, all, cells, were, harvested, and, analyzed, for, the, phospho-ATF-2, level, .]
+nsubjpass(harvested-11, cells-9)
+nsubjpass(analyzed-13, cells-9)
+[As, a, first, step, toward, discovery, of, the, cis-element, ,, the, Bmdsx, mini, gene, ,, which, consisted, of, exon, 1, and, 5, and, internally, shortened, introns, 2, to, 4, ,, was, constructed, ,, and, transgenic, silkworms, expressing, this, construct, was, generated, .]
+nsubj(consisted-17, gene-14)
+nsubj(shortened-25, gene-14)
+nsubjpass(constructed-32, gene-14)
+nsubjpass(generated-41, silkworms-36)
+[Samples, from, culture, supernatant, and, 45, %, ammonium, sulphate, saturation, fraction, of, S., lividans, TK, 24, -LRB-, pOW15, -RRB-, were, included, as, negative, controls, -LRB-, Fig, ., 3, ,, lanes, 1, and, 2, -RRB-, .]
+nsubj(sulphate-9, Samples-1)
+nsubj(sulphate-9, ammonium-8)
+nsubj(lividans-14, fraction-11)
+nsubjpass(included-21, TK-15)
+[Furthermore, ,, LIF-treatment, led, to, a, twofold, increase, of, nestin-positive, cells, as, well, as, a, doubling, of, the, BrdU, and, nestin, double-positive, cell, population, -LRB-, Fig, ., 3A-C, -RRB-, .]
+nsubj(led-4, LIF-treatment-3)
+[0.8]
+[Various, other, methods, already, analyzed, this, experiment, ;, the, results, strongly, suggest, the, toxin, is, affecting, the, animal, .]
+nsubj(analyzed-5, methods-3)
+nsubj(suggest-12, results-10)
+nsubj(affecting-16, toxin-14)
+[The, targets, for, Grx5, should, be, the, proteins, that, become, reduced, at, a, quicker, rate, .]
+nsubj(proteins-8, targets-2)
+nsubjpass(reduced-11, proteins-8)
+[In, the, first, experiment, ,, the, global, gene, expression, of, the, sigB-proficient, strain, RES167, was, compared, to, that, of, the, sigB-deficient, strain, CL1, whereby, both, strains, were, harvested, in, the, exponential, growth, phase, -LRB-, sample, number, 4, -RRB-, .]
+nsubj(was-15, expression-9)
+nsubjpass(harvested-28, strains-26)
+[Thus, ,, the, average, survival, rate, dropped, to, 19, %, ,, 4, %, and, 0, %, following, 7, mJ, \/, cm2, ,, 11.5, mJ, \/, cm2, ,, and, 23, mJ, \/, cm2, of, UVB, irradiation, ,, respectively, -LRB-, Figure, 1, -RRB-, .]
+nsubj(dropped-7, rate-6)
+[We, then, asked, how, well, the, top, regulators, can, perform, if, they, are, used, to, build, a, new, aobANN, over, a, sweep, that, ranges, from, three, to, 28, regulators, .]
+nsubj(asked-3, We-1)
+nsubj(perform-10, regulators-8)
+nsubjpass(used-14, they-12)
+nsubj(ranges-24, sweep-22)
+[To, confirm, that, the, fragments, identified, here, contain, binding, sites, for, nuclear, proteins, ,, an, EMSA, was, carried, out, using, individual, fragments, that, overlapped, with, the, identified, ones, -LRB-, Fig, ., 5, -RRB-, .]
+nsubj(contain-8, fragments-5)
+nsubjpass(carried-18, EMSA-16)
+nsubj(overlapped-24, fragments-22)
+[The, day, 7, time, point, was, chosen, throughout, this, paper, ,, as, it, is, the, latest, time, point, we, can, use, before, most, flies, begin, to, die, from, the, infection, .]
+nsubjpass(chosen-7, point-5)
+nsubj(point-18, it-13)
+nsubj(use-21, we-19)
+nsubj(begin-25, flies-24)
+[We, also, investigated, their, inhibitory, effect, against, other, Gram-positive, pathogenic, cocci, which, possess, the, homologous, YycG, \/, YycF, TCS, .]
+nsubj(investigated-3, We-1)
+nsubj(possess-13, cocci-11)
+[Double, labeling, of, neuron-specific, class, III, beta-tubulin, and, Cre, recombinase, showed, that, the, majority, of, striatal, neurons, express, the, Cre, recombinase, driven, by, the, Drd1a, gene, -LRB-, Fig, ., 7b, -RRB-, .]
+nsubj(showed-11, labeling-2)
+nsubj(express-18, majority-14)
+nsubj(driven-22, recombinase-21)
+[Under, these, new, conditions, ,, the, activity, of, L., fermentum, CRL722, was, again, assessed, by, coadministration, of, the, strain, with, the, a-GOS-rich, soy, milk, .]
+nsubjpass(assessed-14, activity-7)
+[The, resulting, multispecies, 9E10, were, then, tested, by, immunofluorescence, using, HeLa, cells, transiently, expressing, Myc-tagged, GFP-CLIP-170, -LRB-, 11, -RRB-, -LRB-, Figure, 4, -RRB-, .]
+nsubjpass(tested-7, multispecies-3)
+[Future, brain, imaging, research, can, shed, light, on, how, individual, differences, in, the, brain, reward, system, contribute, to, strategic, decision, making, in, the, Ultimatum, and, Dictator, Games, .]
+nsubj(shed-6, research-4)
+nsubj(contribute-17, differences-11)
+[To, demonstrate, that, ATF-2, was, phosphorylated, ,, the, nuclear, extracts, from, B16, cells, were, incubated, with, protein, phosphatase-1A, -LRB-, PP1A, -RRB-, for, different, periods, of, time, ,, and, then, ATF-2, protein, was, detected, using, an, antibody, specific, for, phospho-ATF-2, .]
+nsubjpass(phosphorylated-6, ATF-2-4)
+nsubjpass(incubated-15, extracts-10)
+nsubjpass(detected-33, protein-31)
+[Since, S2, cells, do, not, express, their, own, PrP, ,, Málaga-Trillo, et, al., could, directly, test, the, effect, of, exogenous, PrP, expression, on, cell, adhesion, .]
+nsubj(express-6, cells-3)
+nsubj(test-16, Málaga-Trillo-11)
+nsubj(test-16, al.-13)
+[For, a, direct, comparison, of, human, and, murine, promoters, ,, reporter, gene, vectors, including, either, TSS, A, or, B, were, analyzed, side, by, side, in, Saos2, cells, .]
+nsubjpass(analyzed-21, vectors-13)
+[To, determine, whether, inhibition, of, p38, leads, to, a, decrease, in, ATF-2, phosphorylation, ,, we, treated, B16, cells, with, or, without, 10, µM, of, the, p38, MAPK, selective, enzyme, inhibitor, SB203580, .]
+nsubj(leads-7, inhibition-4)
+nsubj(treated-16, we-15)
+nsubj(treated-16', we-15)
+[Seven, pigmented, transformants, were, cloned, ,, and, their, plasmid, DNAs, were, extracted, and, analyzed, by, some, restriction, endonuclease, .]
+nsubjpass(cloned-5, transformants-3)
+nsubjpass(extracted-12, DNAs-10)
+nsubjpass(analyzed-14, DNAs-10)
+[The, controls, at, the, bottom, show, that, all, lanes, contain, the, same, amounts, of, DNA, to, verify, that, preferential, labeling, of, the, 3, kb, plasmid, is, not, due, to, higher, amounts, of, input, substrate, .]
+nsubj(show-6, controls-2)
+nsubj(contain-10, lanes-9)
+nsubj(verify-17, amounts-13)
+nsubj(due-28, labeling-20)
+[Specifically, ,, the, initial, patterns, of, WRN, exonuclease, activity, on, an, 80-mer, are, identical, in, the, presence, or, absence, of, ATP, ,, but, degradation, of, a, 45-mer, is, significantly, better, with, ATP, than, without, -LRB-, see, Fig, ., 1E, -RRB-, .]
+nsubj(identical-14, patterns-5)
+nsubj(better-30, degradation-24)
+[Therefore, ,, we, performed, in, situ, hybridization, by, using, a, D2R-specific, riboprobe, followed, by, immunohistochemistry, with, Cre-specific, antibody, -LRB-, Fig, ., 7c, -RRB-, .]
+nsubj(performed-4, we-3)
+[Strongest, inhibition, -LRB-, 23, %, CAT, activity, -RRB-, was, seen, with, the, four, times, selected, pool, ,, which, was, significantly, increased, versus, the, initial, pool, -LRB-, 71, %, CAT, activity, ;, Fig, ., 5B, -RRB-, .]
+nsubjpass(seen-10, inhibition-2)
+nsubjpass(increased-21, pool-16)
+[The, values, are, derived, from, an, assessment, of, approximately, 200, cells, in, random, fields, in, each, experiment, .]
+nsubjpass(derived-4, values-2)
+[In, contrast, to, imd, homozygotes, ,, flies, homozygous, for, a, mutation, in, Dif, ,, a, transcription, factor, in, the, Toll, pathway, ,, did, not, die, rapidly, -LRB-, Figure, 1B, and, 1C, -RRB-, .]
+nsubj(die-25, homozygous-8)
+[Figure, 5a, shows, an, immunoprecipitation, -LRB-, anti-GFP, -RRB-, plus, protein, blot, -LRB-, anti-Ptc, -RRB-, analysis, of, extracts, from, these, cells, treated, for, 4, ,, 8, and, 24, hours, with, vehicle, ,, 25, nM, Hh, protein, or, 0.2, µM, Hh, agonist, -LRB-, see, Figure, 1e, ;, Hh-Ag, 1.2, -RRB-, .]
+nsubj(shows-3, 5a-2)
+[The, controls, showed, that, the, ratio, of, total, flies, on, food, spots, to, flies, free, in, the, chamber, was, of, the, same, order, in, all, the, strains, tested, -LRB-, figure, 7, -RRB-, ,, and, this, again, allows, us, to, eliminate, major, peripheral, sensory, defects, -LRB-, olfactory, or, visual, -RRB-, .]
+nsubj(showed-3, controls-2)
+nsubj(was-19, ratio-6)
+nsubj(allows-37, this-35)
+nsubj(eliminate-40, us-38)
+[Binding, of, STAT6, to, the, endogenous, mTARC, promoter, was, also, confirmed, in, ChIP, assays, using, IL-4-treated, bone, marrow-derived, M, ?, -LRB-, Figure, 2B, -RRB-, in, the, presence, or, absence, of, a, STAT6, blocking, peptide, .]
+nsubj(marrow-derived-18, bone-17)
+nsubj(Binding-1, M-19)
+[As, expected, ,, SycE, did, not, co-purify, with, YopE1-18-DHFR, fusion, ,, since, this, construct, does, not, include, the, SycE, binding, site, .]
+nsubj(did-5, SycE-4)
+nsubj(include-17, construct-14)
+[In, addition, ,, they, used, a, double, mutant, strain, affecting, both, orientation, of, the, mitotic, spindle, and, checkpoint, control, ,, such, that, both, nuclei, frequently, accumulate, in, one, cell, ,, either, the, mother, or, daughter, .]
+nsubj(used-5, they-4)
+nsubj(accumulate-26, nuclei-24)
+[All, the, M., abscessus, and, M., chelonae, isolates, had, the, same, PCR, pattern, .]
+nsubj(had-9, abscessus-4)
+nsubj(had-9, isolates-8)
+[The, PCR, product, in, the, template, fraction, might, represent, a, subpopulation, of, pre-mRNAs, for, which, binding, of, poly, -LRB-, A, -RRB-, factors, has, been, more, rapid, or, efficient, ,, so, they, have, remained, tethered, to, the, polymerase, even, after, cleavage, at, the, 3, ', ribozyme, .]
+nsubj(represent-9, product-3)
+nsubj(rapid-26, binding-16)
+nsubj(efficient-28, binding-16)
+nsubj(remained-33, they-31)
+[The, results, of, this, experiment, are, shown, in, Fig, ., 5B, .]
+nsubjpass(shown-7, results-2)
+[Therefore, ,, we, cloned, the, rat, Tubß4, 3, ', -, UTR, and, tested, it, for, RNA, localization, activity, using, the, Xenopus, oocyte, assay, .]
+nsubj(cloned-4, we-3)
+nsubj(tested-13, we-3)
+[Competence, as, well, as, sporulation, is, monitored, by, the, cell, using, subtle, cues, ,, most, of, which, are, still, unknown, .]
+nsubjpass(monitored-7, Competence-1)
+nsubjpass(monitored-7, sporulation-5)
+nsubj(unknown-20, most-15)
+[Flowers, showing, white, sectors, also, exhibited, coordinated, transformation, of, petals, to, sepals, and, both, stamens, and, staminodia, to, carpels, -LRB-, Figure, 9, -RRB-, .]
+nsubj(exhibited-6, Flowers-1)
+[On, the, other, hand, ,, for, Yeast, ,, which, was, curated, largely, from, abstracts, ,, the, figure, was, 73, %, .]
+nsubjpass(curated-11, Yeast-7)
+nsubj(%-20, figure-17)
+[Again, ,, we, analyzed, the, nuclear, distribution, of, ßTERM, ?, pA, pre-mRNA, transcripts, by, RT-PCR, using, the, nuclear, fractionation, protocol, -LRB-, Figure, 2D, -RRB-, and, show, that, nearly, all, -LRB-, 95, %, -RRB-, of, ß-globin, pre-mRNA, is, located, in, the, template, fraction, -LRB-, lane, 1, -RRB-, ,, with, only, a, small, amount, released, into, the, nucleoplasmic, fraction, -LRB-, lane, 2, -RRB-, .]
+nsubj(analyzed-4, we-3)
+nsubj(show-26, we-3)
+nsubjpass(located-38, all-29)
+[In, a, second, experiment, we, also, evaluated, the, classification, accuracy, of, the, method, with, the, test, set, included, in, the, reference, set, ,, i.e., in, this, case, the, fragments, of, each, genome, were, taxonomically, classified, using, all, 373, genomes, as, a, reference, .]
+nsubj(evaluated-7, we-5)
+nsubjpass(classified-35, fragments-29)
+[Heat-killed, S, cells, were, also, harmless, ,, but, when, live, R, cells, were, mixed, with, killed, S, cells, and, injected, into, mice, ,, the, mice, died, ,, and, the, bacteria, re-isolated, from, those, mice, had, been, ', transformed, ', into, the, S, type, .]
+nsubj(harmless-6, cells-3)
+nsubjpass(mixed-14, cells-12)
+nsubjpass(injected-20, cells-12)
+nsubj(died-26, mice-25)
+nsubjpass(transformed-38, bacteria-30)
+[As, expected, ,, the, classification, accuracy, drops, by, 0.22, %, .]
+nsubj(drops-7, accuracy-6)
+[Permeabilization, of, virion, particles, with, 0.2, %, NP-40, abolished, the, protection, of, capsid, and, endophilin, ,, and, these, proteins, were, then, degraded, even, at, low, concentration, of, protease, -LRB-, Figure, 5b, -RRB-, .]
+nsubj(abolished-9, Permeabilization-1)
+nsubjpass(degraded-22, proteins-19)
+[In, the, present, study, we, found, that, exogenously, added, heparin, had, a, stronger, inhibitory, effect, on, the, cytotoxic, activity, of, the, peptides, ,, compared, to, CS, .]
+nsubj(found-6, we-5)
+nsubj(added-9, exogenously-8)
+nsubj(had-11, heparin-10)
+[As, an, internal, control, ,, no, obstruction, of, actin, flow, was, observed, at, the, unblocked, side, of, the, cell, cortex, .]
+nsubjpass(observed-12, obstruction-7)
+[However, ,, since, r, -LRB-, N, ,, X, -RRB-, is, a, global, measure, that, uses, information, on, both, N, and, X, we, can, not, conclude, that, cc, -LRB-, N, ,, X, -RRB-, can, be, predicted, from, N, alone, .]
+nsubj(measure-13, r-4)
+nsubj(uses-15, measure-13)
+nsubj(conclude-25, we-22)
+nsubjpass(predicted-35, cc-27)
+[No, signs, of, nonspecific, toxicity, were, detected, by, histopathological, evaluation, of, organs, .]
+nsubjpass(detected-7, signs-2)
+[Consistent, with, this, possibility, ,, addition, of, an, anti-collagen, antibody, led, to, a, substantial, reduction, in, the, average, cell, speed, at, later, stages, of, cell, movement, ,, probably, due, to, shielding, of, both, the, collagen, IV, binding, sites, and, the, bindings, sites, of, other, ECM, components, by, the, antibody, molecules, binding, to, the, gradually, accumulating, newly, secreted, collagen, IV, .]
+nsubj(led-11, Consistent-1)
+[Once, again, ,, we, resorted, to, affinity, chromatography, ,, incubating, in, vitro-translated, ,, 35S-Met-labeled, SMAD1, and, SMAD4, with, a, resin, containing, His-ZZ-MAB21L2, .]
+nsubj(resorted-5, we-4)
+[The, progression, of, the, remaining, cells, through, S, \/, M, was, delayed, slightly, by, a-amanitin, -LRB-, Figure, 9A, -RRB-, ,, but, ,, importantly, ,, despite, decreased, cell, cycle, transcription, -LRB-, Figure, 9B, -RRB-, ,, the, daughter, cell-size, profile, of, the, a-amanitin-treated, culture, was, essentially, identical, to, that, of, the, control, cells, -LRB-, Figure, 9C, ,, µM, amanitin, -RRB-, .]
+nsubjpass(delayed-12, progression-2)
+nsubj(identical-45, profile-38)
+[Cytokinesis, defects, were, observed, in, control, -LRB-, dma1, +, -RRB-, cells, as, well, as, dma1, ?, cells, overproducing, Nuc2p, -LRB-, Figure, 7A, -RRB-, .]
+nsubjpass(observed-4, defects-2)
+[Figure, 6B, -LRB-, inset, -RRB-, shows, that, the, indicated, tau, peptide, -LRB-, 317-335, -RRB-, is, able, to, assemble, in, the, presence, of, 3-APS, .]
+nsubj(shows-6, Figure-1)
+nsubj(able-16, peptide-11)
+[The, distribution, of, bacteria, seen, using, the, two, GFP, constructs, was, similar, -LRB-, unpublished, data, -RRB-, .]
+nsubj(similar-12, distribution-2)
+[Therefore, ,, the, real, number, of, Atf21p, \/, Atf31p, targets, is, probably, considerably, higher, than, the, conservative, estimate, from, our, previous, study, -LRB-, 4, -RRB-, .]
+nsubj(higher-14, number-5)
+[These, two, glomeruli, are, also, often, ectopically, innervated, by, lola, -, \/, -, PNs, from, the, opposite, lineage, -LRB-, that, is, ,, DA1, is, ectopically, targeted, by, lola, -, \/, -, adPNs, while, VA1d, is, ectopically, targeted, by, lola, -, \/, -, lPNs, -RRB-, .]
+nsubj(innervated-8, glomeruli-3)
+nsubj(is-21, that-20)
+nsubjpass(targeted-26, DA1-23)
+nsubjpass(targeted-37, VA1d-34)
+[The, mean, time, to, death, was, lengthened, by, 3, d, in, the, two, eiger, mutants, tested, -LRB-, Figure, 4A, -RRB-, .]
+nsubjpass(lengthened-7, time-3)
+[We, also, need, to, point, out, that, the, topology, accuracy, error, rate, decreases, with, the, increase, of, input, sequence, length, ;, the, error, rate, also, increases, with, the, increase, of, indel, rate, ,, because, for, these, datasets, the, alignment, is, more, difficult, .]
+nsubj(need-3, We-1)
+nsubj(decreases-13, rate-12)
+nsubj(increases-26, rate-24)
+nsubj(difficult-42, alignment-39)
+[As, anticipated, ,, we, observed, no, HA-p11, in, particles, -LRB-, Figure, 3d, ;, lane, 4, versus, lane, 3, -RRB-, ,, while, substantial, levels, of, HA-nuc212, were, recovered, in, virions, -LRB-, Figure, 3d, ;, lane, 6, versus, lane, 5, -RRB-, .]
+nsubj(observed-5, we-4)
+nsubjpass(recovered-27, levels-23)
+[Thus, ,, we, routinely, used, the, ratio, of, 4, µg, per, 0.5, mg, particles, .]
+nsubj(used-5, we-3)
+[The, levels, of, incorporated, endophilin, 2, inside, the, virions, quickly, reached, a, plateau, ,, and, no, higher, levels, were, found, even, with, dramatically, increasing, amounts, of, endophilin, 2, expressed, inside, the, cells, -LRB-, Figure, 6, -RRB-, .]
+nsubj(reached-11, levels-2)
+nsubjpass(found-20, levels-18)
+[In, the, maturation, process, of, cells, from, the, colonic, crypt, ,, the, stem, cells, differentiate, to, become, either, goblet, cell, in, the, crypt, or, surface, epithelial, cell, -LRB-, 8, -RRB-, .]
+nsubj(differentiate-15, cells-14)
+[The, same, result, occurred, after, 23, h, of, culture, .]
+nsubj(occurred-4, result-3)
+[The, reverse, transcriptase, activity, of, culture, medium, displayed, at, most, a, two-fold, reduction, compared, to, controls, -LRB-, Figure, 8b, -RRB-, .]
+nsubj(displayed-8, activity-4)
+[In, agreement, with, the, filter-lift, assays, ,, constructs, containing, MA, showed, the, strongest, reporter, gene, expression, .]
+nsubj(showed-11, constructs-8)
+[After, transplantation, ,, cells, from, the, more, caudal, transplanted, streak, turned, on, Sox17, expression, in, all, cases, -LRB-, n, =, 7, ,, Figure, 5C, ,, C, ', ,, C, '', ,, C, '', ', ,, and, 5C, '', ', insets, -RRB-, ,, but, were, unable, to, maintain, expression, after, overnight, incubation, -LRB-, 0, \/, 7, ,, Figure, 5E, ,, E, ', ,, E, '', -RRB-, .]
+nsubj(turned-11, cells-4)
+nsubj(unable-45, cells-4)
+[Addition, of, Grx1, ,, without, addition, of, GSH, or, another, reducing, agent, ,, resulted, in, rapid, reversal, of, the, reaction, and, deglutathionylation, the, protein, .]
+nsubj(resulted-14, Addition-1)
+nsubj(deglutathionylation-22, Addition-1)
+nsubj(reducing-11, addition-6)
+[Western, blot, analysis, of, multiple, subunits, revealed, a, markedly, reduced, amount, of, Rpc11p, in, the, Pol, III, complex, containing, Rpc2, -, ?, p, -LRB-, Figure, 6A, ,, lane, 8, -RRB-, relative, to, wild-type, Rpc2p, -LRB-, Figure, 6A, ,, lane, 7, -RRB-, .]
+nsubj(revealed-7, analysis-3)
+[Thus, ,, it, is, unlikely, that, our, reranking, setup, resulted, in, different, conclusions, than, if, the, retrieval, had, been, performed, on, the, entire, corpus, .]
+nsubj(unlikely-5, it-3)
+nsubj(resulted-10, setup-9)
+nsubjpass(performed-20, retrieval-17)
+[Mice, from, the, BALB, and, B6, strains, were, tested, -LRB-, N, =, 16, mice, from, three, to, four, litters, per, strain, -RRB-, .]
+nsubjpass(tested-9, Mice-1)
+[PPI, phenotypes, at, each, of, the, prepulse, sounds, -LRB-, 72, ,, 74, ,, 78, ,, 82, ,, and, 86, dB, -RRB-, were, measured, for, the, four, inbred, strains, -LRB-, B6, ,, C3, ,, BALB, ,, and, DBA, -RRB-, ,, where, the, numbers, of, mice, measured, were, 30, ,, 30, ,, 29, ,, and, 30, for, males, in, B6, ,, C3, ,, BALB, ,, and, DBA, ,, respectively, ,, and, were, 32, ,, 32, ,, 30, ,, and, 32, for, females, in, B6, ,, C3, ,, BALB, ,, and, DBA, ,, respectively, .]
+[Experiment, 2, .]
+[Previous, research, has, suggested, that, any, personalisation, of, approach, helps, to, improve, the, response, rate, .]
+nsubj(suggested-4, research-2)
+nsubj(helps-10, personalisation-7)
+[Experiment, 3, .]
+[The, second, test, used, trajectories, generated, by, human, subjects, while, tracking, geometrically, prescribed, complex, figural, forms, -, cloverleaves, ,, lemniscates, and, limaçons, -, during, both, drawing, and, locomotion, .]
+nsubj(used-4, test-3)
+nsubj(generated-6, trajectories-5)
+nsubj(prescribed-13, tracking-11)
+[To, improve, the, performance, of, SRL, on, biomedical, literature, ,, we, add, two, domain, specific, features, ,, NE, features, and, argument-template, features, -LRB-, denoted, as, BIOSMILENE, and, BIOSMILETemplate, respectively, -RRB-, to, BIOSMILE, .]
+nsubj(add-12, we-11)
+[The, inhibition, by, Histaminum, and, Apis, is, particularly, interesting, because, when, released, at, normal, doses, into, a, tissue, both, histamine, and, bee, venom, have, pro-inflammatory, powers, and, irritant, properties, .]
+nsubj(interesting-9, inhibition-2)
+nsubj(have-24, venom-23)
+[The, results, of, this, experiment, show, that, although, increasing, the, cognitive, load, -LRB-, by, increasing, the, set, size, from, two, to, ten, -RRB-, yields, the, expected, increase, in, diotic, identification, thresholds, ,, it, does, not, change, binaural, benefits, .]
+nsubj(show-6, results-2)
+nsubj(change-36, it-33)
+[As, we, demonstrate, in, Methods, ,, if, we, consider, m1, and, m2, to, be, the, same, motif, ,, the, resulting, combined, motif, has, expected, count, ?, 1, +, ?, 2, and, observed, count, k1, +, k2, in, the, group, .]
+nsubj(demonstrate-3, we-2)
+nsubj(consider-9, we-8)
+nsubj(motif-17, m1-10)
+nsubj(motif-17, m2-12)
+nsubj(expected-24, motif-22)
+nsubj(observed-32, motif-22)
+[Such, normalizations, also, make, the, PPCA, simple, -LRB-, 30, -RRB-, .]
+nsubj(make-4, normalizations-2)
+[Reintroduction, of, hb9, from, embryonic, stage, 16, onwards, using, dMP2-GAL4, rescued, Ilp7, expression, -LRB-, 96.7, %, ,, Figure, 4E, and, 4M, -RRB-, but, failed, to, rescue, anterior, apoptosis, -LRB-, 66.7, %, of, anterior, dMP2, neurons, persist, in, early, first-instar, larvae, ,, Figure, 4E, and, 4M, -RRB-, .]
+nsubj(rescued-11, Reintroduction-1)
+nsubj(failed-24, Reintroduction-1)
+nsubj(persist-36, %-31)
+[Both, samples, raised, similar, large, fibrils, -LRB-, Figure, 2B, -RRB-, ,, indicating, that, the, incubation, period, was, sufficient, for, both, ,, independent, of, their, initial, aggregation, state, ,, to, reach, the, rapid, growth, phase, that, leads, to, the, fibril, formation, .]
+nsubj(raised-3, samples-2)
+nsubj(sufficient-18, period-16)
+nsubj(leads-36, phase-34)
+[After, 4, weeks, ,, the, genetically, labeled, cells, displayed, a, more, differentiated, fibroblast, -, or, chondrocyte-like, phenotype, and, appeared, to, have, become, integrated, into, the, surrounding, cartilage, tissue, of, wild-type, origin, .]
+nsubj(displayed-9, cells-8)
+nsubj(appeared-19, cells-8)
+[Experiment, 1, .]
+[Each, array, used, in, this, study, contained, 175,477, features, for, PM-only, and, MM-only, measurements, .]
+nsubj(contained-7, array-2)
+[Each, chip, contained, 409,600, features, on, the, array, in, the, -LRB-, x, ,, y, -RRB-, coordinate, system, of, size, 640, ×, 640, features, .]
+nsubj(contained-3, chip-2)
+[The, purpose, of, this, experiment, was, to, explore, alterations, in, vascular, morphology, of, iron, deficient, rats, ,, using, the, abdominal, aorta, as, a, representative, artery, .]
+nsubj(was-6, purpose-2)
+[Microarray, data, of, zebrafish, -LRB-, Danio, rerio, -RRB-, development, were, downloaded, from, ArrayExpress, -LRB-, E-TABM-33, -RRB-, -LRB-, 43, -RRB-, .]
+nsubjpass(downloaded-11, data-2)
+[We, assessed, Jna, \/, +, mice, on, a, hippocampal-independent, reference, memory, acquisition, task, .]
+nsubj(assessed-2, We-1)
+[Annulus, cells, were, all, derived, from, surgical, patients, .]
+nsubjpass(derived-5, cells-2)
+[The, purpose, of, this, experiment, was, to, see, if, a, daily, injection, of, the, beta-blocker, propanolol, inhibits, the, cardiac, hypertrophy, that, is, associated, with, iron, deficiency, in, weanling, rats, .]
+nsubj(was-6, purpose-2)
+nsubj(inhibits-17, injection-12)
+nsubjpass(associated-23, hypertrophy-20)
+[Intravenous, infusions, of, physiological, saline, solution, were, used, as, a, control, .]
+nsubjpass(used-8, infusions-2)
+[At, the, cellular, level, CYP1A, mRNA, was, always, observed, at, or, around, the, cell, nucleus, close, to, the, basolateral, membrane, and, at, the, tissue, level, CYP1A, mRNA, was, found, in, the, basal, and, apex, area, of, the, intestinal, fold, .]
+nsubjpass(observed-9, mRNA-6)
+nsubjpass(observed-9', mRNA-6)
+nsubjpass(found-29, mRNA-27)
+[TBGRI, agreed, to, equally, share, the, royalty, with, the, tribal, community, .]
+nsubj(agreed-2, TBGRI-1)
+[In, addition, to, confirming, gene, expression, in, both, biological, replicates, of, the, TUC, aphid, line, and, one, biological, replicate, of, each, of, the, 5A, and, 5AR, lines, examined, by, microarray, hybridization, ,, we, analyzed, Buchnera, ibpA, expression, in, two, more, aphid, lines, :, 7-2-1, and, 9-2-1, .]
+nsubj(analyzed-34, we-33)
+[Here, ,, individuals, within, each, patch, i, were, replaced, by, individuals, of, the, same, sex, and, with, the, same, infection, status, randomly, selected, from, the, entire, pool, of, individuals, in, the, metapopulation, .]
+nsubjpass(replaced-9, individuals-3)
+nsubjpass(replaced-9', individuals-3)
+[Note, that, all, three, genotypes, achieved, satiety, at, the, same, level, ,, indicating, that, hcrtr168, homozygous, mutants, have, food, intake, abilities, similar, to, those, of, wild-types, and, heterozygotes, .]
+nsubj(achieved-6, genotypes-5)
+nsubj(have-18, mutants-17)
+nsubj(similar-22, abilities-21)
+[In, summary, ,, this, study, is, the, first, to, show, CMS-dependent, morphological, changes, on, the, level, of, basal, dendritic, spines, in, the, rat, mPFC, ,, and, PS, seems, to, make, the, brain, less, responsive, to, some, of, the, stress-related, changes, as, implicated, by, the, predictive, adaptive, response, hypothesis, .]
+nsubj(first-8, study-5)
+nsubj(seems-28, PS-27)
+nsubj(implicated-42, brain-32)
+[To, test, for, the, possibility, that, the, proteins, encoded, by, net1, -LRB-, 7m, -RRB-, and, net1, -LRB-, 19m, ', -RRB-, might, be, hypomorphic, with, respect, to, their, resistance, toward, phosphorylation, by, Cdc5, -LRB-, i.e., ,, not, all, Cdc5, phosphorylation, sites, on, Net1, were, mapped, and, mutated, -RRB-, ,, we, evaluated, whether, the, net1, phosphosite-mutants, exhibited, a, synthetic, growth, phenotype, when, combined, with, msd2-1, -LRB-, a, mutant, allele, of, CDC5, -RRB-, .]
+nsubj(hypomorphic-23, proteins-8)
+nsubjpass(mapped-44, sites-40)
+nsubjpass(mutated-46, sites-40)
+nsubj(evaluated-50, we-49)
+nsubj(exhibited-55, phosphosite-mutants-54)
+[The, last, DpnII, site, and, the, downstream, 14, bases, were, cloned, into, Megaclone, vectors, and, their, sequences, determined, according, to, the, MPSS, protocol, .]
+nsubjpass(cloned-11, site-4)
+nsubjpass(cloned-11, bases-9)
+[Waterlogging, was, started, at, the, 3-leaf, stage, ,, and, lasted, three, to, eight, weeks, depending, on, the, trait, measured, .]
+nsubjpass(started-3, Waterlogging-1)
+nsubjpass(lasted-10, Waterlogging-1)
+[2.1, .]
+[As, a, control, ,, this, experiment, was, performed, on, male, nuclei, showing, that, RNA-FISH, signals, co-located, in, all, nuclei, in, which, genes, were, expressed, .]
+nsubjpass(performed-8, experiment-6)
+nsubj(signals-15, RNA-FISH-14)
+nsubjpass(expressed-24, genes-22)
+[50, well, fed, females, of, An, ., gambiae, ready, to, lay, eggs, were, introduced, into, a, cage, provided, with, 2, types, of, breeding, sites, for, their, oviposition, :, a, breeding, site, with, petroleum, products, from, the, field, and, a, breeding, site, with, no, trace, of, petroleum, products, -LRB-, control, -RRB-, -LRB-, Figure, 1, -RRB-, .]
+nsubjpass(introduced-14, females-4)
+[The, relative, expression, of, Syk, to, that, of, ribosomal, RNA, was, determined, using, the, Sequence, Detection, System, Software, .]
+nsubjpass(determined-12, expression-3)
+[We, constructed, an, rgsA, deletion, mutant, of, strain, CHA0, and, tested, its, survival, after, a, 30-min, exposure, to, 40, mM, H2O2, in, NYB, with, shaking, .]
+nsubj(constructed-2, We-1)
+nsubj(tested-11, We-1)
+[Histology, data, was, not, available, on, samples, included, in, study, 1, ,, which, were, part, of, a, large, backlog, of, specimens, accumulated, after, the, foot, and, mouth, outbreak, of, 2001, .]
+nsubj(available-5, data-2)
+nsubj(part-15, study-10)
+[For, each, time, point, at, least, four, hybridizations, were, carried, out, corresponding, to, 3, biological, replicates, and, one, dye-swap, ,, except, for, the, time, point, corresponding, to, 24, h, of, culture, .]
+nsubjpass(carried-10, hybridizations-8)
+[We, therefore, determined, whether, DSXM, expression, required, EYA, function, .]
+nsubj(determined-3, We-1)
+nsubj(required-7, expression-6)
+nsubj(function-9, EYA-8)
+[For, the, experiment, in, which, RNA-SSD, was, used, to, design, structures, with, primary, structure, constraints, ,, we, utilised, only, biologically, motivated, structures, .]
+nsubjpass(used-8, RNA-SSD-6)
+nsubj(utilised-18, we-17)
+[The, collection, of, strongly, bimodally, expressed, transcripts, from, population, sampling, provides, a, sample, of, candidate, genes, that, can, be, assessed, for, regulation, of, quantitative, traits, in, targeted, crosses, or, carefully, chosen, pedigrees, .]
+nsubj(expressed-6, collection-2)
+nsubj(provides-11, transcripts-7)
+nsubjpass(assessed-20, genes-16)
+nsubjpass(assessed-20, pedigrees-32)
+[The, oil, is, saturated, with, nitrogen, to, prevent, oxidation, during, shipping, and, storage, .]
+nsubjpass(saturated-4, oil-2)
+[The, source, of, dl-a-tocopherol, -LRB-, synthetic, vitamin, E, -RRB-, was, ICN, Biochemical, -LRB-, Costa, Mesa, ,, CA, -RRB-, .]
+nsubj(Biochemical-12, source-2)
+[Further, analysis, proceeded, in, the, same, way, as, the, primary, analysis, .]
+nsubj(proceeded-3, analysis-2)
+[In, a, third, experiment, ,, we, tested, the, utility, of, the, E, values, computed, by, Tomtom, .]
+nsubj(tested-7, we-6)
+[In, one, experiment, ,, EDTA, was, added, to, an, experiment, with, dissolved, ferrous, iron, .]
+nsubjpass(added-7, EDTA-5)
+[In, the, current, study, ,, the, majority, of, genes, previously, implicated, in, the, biosynthesis, of, melanin, did, not, show, significantly, different, transcriptional, behavior, ,, but, this, is, not, surprising, considering, the, experimental, design, .]
+nsubj(show-19, majority-7)
+nsubj(surprising-29, this-26)
+[Perfusion, with, this, medium, was, continued, until, the, ensuing, rise, in, Mag-Indo-1, fluorescence, ratio, appeared, to, reach, a, maximum, ,, which, was, presumed, to, equate, to, near, complete, exhaustion, of, cytosolic, ATP, .]
+nsubjpass(continued-6, Perfusion-1)
+nsubj(appeared-15, rise-10)
+nsubjpass(presumed-23, maximum-19)
+[Finally, we, monitored, if, coilin, and, SMN, compete, for, the, same, binding, sites, on, Tim50a, .]
+nsubj(monitored-3, we-2)
+nsubj(compete-8, coilin-5)
+nsubj(compete-8, SMN-7)
+[GAPDH, was, used, as, an, endogenous, control, and, the, Day, 0, -LRB-, normal, skin, -RRB-, sample, was, used, as, the, calibrator, .]
+nsubjpass(used-3, GAPDH-1)
+nsubjpass(used-18, control-7)
+nsubjpass(used-18, sample-16)
+[Experiment, 2, directly, tested, this, model, 's, predictions, for, memory, for, moving, ripple, sounds, ,, and, compared, these, results, to, previous, results, obtained, with, visual, stimuli, .]
+nsubj(tested-4, Experiment-1)
+nsubj(compared-17, Experiment-1)
+[We, measure, the, pathogen, growth, directly, ,, not, just, the, lesion, ,, or, area, of, dead, tissue, present, on, the, leaf, surface, ,, which, may, not, correspond, to, the, actual, pathogen, spread, .]
+nsubj(measure-2, We-1)
+nsubj(present-18, area-14)
+nsubj(correspond-27, surface-22)
+[Mapping, procedures, and, motor, training, were, identical, as, in, the, other, experiments, .]
+nsubj(identical-7, procedures-2)
+nsubj(identical-7, training-5)
+[The, study, followed, international, standards, for, animal, care, and, welfare, ,, and, was, approved, by, the, institutional, animal, care, and, use, committee, at, the, College, of, William, and, Mary, -LRB-, IACUC, 0018, -RRB-, .]
+nsubj(followed-3, study-2)
+nsubjpass(approved-14, study-2)
+[The, study, followed, international, standards, for, animal, care, and, welfare, ,, and, was, approved, by, the, institutional, animal, care, and, use, committee, at, the, College, of, William, and, Mary, -LRB-, IACUC, 0018, -RRB-, .]
+nsubj(followed-3, study-2)
+nsubjpass(approved-14, study-2)
+[Except, for, the, photoperiod, treatment, ,, procedures, and, data, collection, were, as, in, Experiment, 1, .]
+nsubj(were-11, procedures-7)
+nsubj(were-11, collection-10)
+[Litter, size, ,, sex, bias, within, each, litter, and, maternal, experience, -LRB-, primiparous, vs., multiparous, -RRB-, were, noted, and, their, relationship, to, SCPP, responses, was, also, assessed, .]
+nsubjpass(noted-18, size-2)
+nsubjpass(assessed-27, relationship-21)
+[Thus, ,, we, found, an, inverse, interaction, pattern, in, temporal, and, frontal, structures, -LRB-, see, Tables, 3, ,, 4, ,, and, 5, -RRB-, .]
+nsubj(found-4, we-3)
+[Effect, of, blending, time, and, gentamycin, .]
+[It, is, a, normal, practice, for, beef, to, be, consumed, after, 2-3, weeks, due, to, the, fact, that, an, elaborate, meat, tenderization, process, occurs, over, this, time, period, .]
+nsubj(practice-5, It-1)
+nsubj(occurs-24, process-23)
+[In, the, second, experiment, ,, the, global, gene, expression, of, the, sigB-proficient, strain, RES167, was, compared, between, the, transition, growth, phase, -LRB-, sample, number, 8, -RRB-, and, exponential, growth, phase, -LRB-, sample, number, 4, -RRB-, .]
+nsubjpass(compared-16, expression-9)
+[To, study, the, long-range, correlation, ,, we, picked, 20, genes, that, produce, large, numbers, of, gene, pairs, with, correlation, coeffcients, greater, than, 0.5, .]
+nsubj(picked-8, we-7)
+nsubj(produce-12, genes-10)
+nsubj(coeffcients-20, numbers-14)
+[Each, condition, was, allowed, 21, days, post, 6-OHDA, administrations, for, consistent, comparison, of, lesion, severity, -LRB-, Fig, ., 1a-b, -RRB-, .]
+nsubjpass(allowed-4, condition-2)
+[The, situations, presented, to, our, subjects, were, those, which, led, Baron, -LRB-, 1, -RRB-, to, show, that, subjects, often, make, non-consequential, decisions, .]
+nsubj(those-8, situations-2)
+nsubj(led-10, those-8)
+nsubj(make-20, subjects-18)
+[The, medium, was, replaced, by, 10, %, FBS-F12, medium, with, growth, factors, in, optimal, effect-concentration, -LRB-, acquired, by, dose-effect, experiment, -RRB-, .]
+nsubjpass(replaced-4, medium-2)
+[Moreover, we, evaluated, the, possible, correlations, between, bone, and, body, composition, parameters, and, also, with, the, adipokine, adiponectin, .]
+nsubj(evaluated-3, we-2)
+[In, some, experiments, we, were, able, to, make, several, different, sequences, of, downward, and, upward, movements, in, the, same, cell, to, a, depth, at, which, ,, as, shown, in, Fig, ., 3A, ,, the, apparent, -LRB-, Ca2, +, -RRB-, i, rose, rapidly, .]
+nsubj(able-6, we-4)
+nsubj(rose-41, i-40)
+[Grains, were, exchanged, after, every, parasitoid, tested, -LRB-, N, =, 20, for, each, treatment, -RRB-, .]
+nsubjpass(exchanged-3, Grains-1)
+[Values, are, the, mean, of, 4, samples, read, in, triplicate, with, standard, deviation, .]
+nsubj(mean-4, Values-1)
+[Values, are, the, mean, of, 4, samples, read, in, triplicate, with, standard, deviation, .]
+nsubj(mean-4, Values-1)
+[One, of, the, two, clones, demonstrated, higher, specificity, for, a, cholangiocarcinoma, cell, line, ,, when, compared, to, COS-7, or, HepG-2, cells, -LRB-, Figure, 4, ,, panel, B, -RRB-, .]
+nsubj(demonstrated-6, One-1)
+[In, experiment, II, ,, 5, animals, were, inoculated, once, daily, with, 100, D., viviparus, L3, on, 5, consecutive, days, -LRB-, day, 0-4, -RRB-, at, the, start, of, the, experiment, .]
+nsubjpass(inoculated-8, animals-6)
+[Butyricum, ,, suggesting, that, this, response, does, not, influence, feed, efficiency, -LRB-, 17, -RRB-, and, confirming, that, antibody, production, is, a, not, an, energy, demanding, process, -LRB-, 18, ,, 19, -RRB-, .]
+nsubj(influence-9, response-6)
+[The, integrin, avß6, expression, on, kidney, cells, was, compared, between, the, hh, -LRB-, n, =, 2, -RRB-, and, HH, -LRB-, n, =, 2, -RRB-, genotypes, by, flow, cytometry, .]
+nsubj(was-8, expression-4)
+nsubj(genotypes-25, HH-19)
+[A, similar, experiment, ,, with, the, injection, of, 20,000-24, ,000, cells, enriched, in, neoblasts, -LRB-, 30-88, %, neoblasts, -RRB-, into, X-irradiated, S., mediterranea, ,, was, performed, by, Baguñà, et, al., -LRB-, 1989, -RRB-, .]
+nsubjpass(performed-26, experiment-3)
+[The, number, of, intracellular, amastigotes, was, estimated, 48, h, post-infection, and, the, results, are, expressed, as, average, of, triplicates, ±, SD, .]
+nsubjpass(estimated-7, number-2)
+nsubjpass(expressed-15, results-13)
+[Dissected, organs, ,, including, brain, ,, for, subsequent, RNA, extraction, were, immediately, frozen, in, a, dry, ice, \/, ethanol, bath, and, stored, at, -80, °, C, .]
+nsubjpass(frozen-13, organs-2)
+nsubjpass(stored-22, organs-2)
+[All, the, components, of, growth, medium, ,, the, required, antibiotics, ,, sucrose, ,, lysozyme, ,, NONIDET-P40, -LRB-, NP40, -RRB-, and, the, electrophoresis, reagents, were, purchased, from, Pharmacia, Biotech, ., ,, Sweden, ;, purified, E., coli, AP, ,, DNP, ,, CCCP, ,, antibody, to, GroEL, ,, 4-chloro-1-napthol, and, Freunds, adjuvant, from, Sigma-Aldrich, ,, USA, ;, Ni-NTA, Agarose, from, QIAGEN, ,, Germany, ;, HRP-conjugated, goat, anti-rabbit, IgG, -LRB-, secondary, antibody, -RRB-, and, proteinA-CL, agarose, from, Genei, ,, India, ;, the, Nitrocellulose, transfer, membrane, from, BioRad, Laboratories, ,, USA, ;, 35S-methionine, from, Board, of, Radiation, and, Isotope, Technology, ,, India, ;, H2O2, ,, Tween-20, and, anti-DnaK, antibody, from, Merck, ,, India, ;, Isopropyl, ß-D-thiogalacto, pyranoside, -LRB-, IPTG, -RRB-, and, p-nitrophenyl, phosphate, -LRB-, PNPP, -RRB-, from, Sisco, Research, Laboratories, ,, India, .]
+[The, final, product, of, this, mutation, strategy, is, the, insertion, of, DNA, encoding, a, foreign, epitope, into, the, S., enteritidis, genome, without, the, addition, of, any, unwanted, sequence, .]
+nsubj(insertion-10, product-3)
+[For, this, reason, ,, in, a, final, experiment, ,, we, studied, the, relationships, between, these, two, phenomena, -LRB-, batch, 11, -RRB-, .]
+nsubj(studied-11, we-10)
+[All, combinations, of, forward, primers, from, the, newly, defined, region, flanking, the, deletion, on, the, telomeric, side, with, reverse, primers, from, the, newly, defined, region, flanking, the, deletion, on, the, centromeric, side, were, used, in, PCR, amplification, reactions, performed, with, DNA, from, the, three, affected, family, members, and, single, unaffected, family, members, .]
+nsubjpass(used-34, combinations-2)
+[The, red, fluorescence, of, DiIC12, -LRB-, 3, -RRB-, could, be, detected, in, the, abdominal, region, of, fish, that, consumed, the, food, -LRB-, Fig, ., 2b, ,, upper, panels, -RRB-, but, not, in, those, that, did, not, -LRB-, Fig, ., 2b, ,, lower, panels, -RRB-, .]
+nsubjpass(detected-11, fluorescence-3)
+nsubj(consumed-19, region-15)
+nsubj(did-35, those-33)
+[Hemoglobin, release, was, estimated, by, measurement, of, the, optical, density, of, the, supernatant, at, 545, nm, .]
+nsubjpass(estimated-4, release-2)
+[The, co-culture, was, then, incubated, in, culture, medium, without, butein, for, 14, days, ,, after, which, the, numbers, of, colonies, of, tumor, cells, were, counted, as, described, above, .]
+nsubjpass(incubated-5, co-culture-2)
+nsubjpass(counted-25, numbers-18)
+[Conversely, ,, the, nahG, mutant, that, is, defective, in, SA, production, and, signalling, ,, is, the, only, experiment, presented, in, this, study, that, documents, a, large, reduction, in, the, expression, of, AtPNP-A, -LRB-, -4.6, log2, -RRB-, and, the, correlated, genes, -LRB-, Figure, 4, -RRB-, .]
+nsubj(defective-8, mutant-5)
+nsubj(signalling-13, mutant-5)
+nsubj(experiment-18, mutant-5)
+nsubj(documents-24, study-22)
+[2E-hexenal, ,, 3Z-hexenol, ,, and, TEC, were, generous, gifts, from, Soda, Aromatic, Co., ., Ltd., ,, Tokyo, .]
+[Following, the, RT-PCR, amplification, reaction, ,, the, amplicons, were, labeled, and, hybridized, to, our, multi-species, microarray, slide, in, order, to, assess, the, efficiency, of, gene-specific, but, cross-species, hybridizations, .]
+nsubjpass(labeled-10, amplicons-8)
+nsubjpass(hybridized-12, amplicons-8)
+[Cultures, were, incubated, at, 37, °, C, and, sampled, every, hour, .]
+nsubjpass(incubated-3, Cultures-1)
+nsubjpass(sampled-9, Cultures-1)
+[Then, the, suction, vacuum, was, turned, on, ,, at, a, vacuum, pressure, of, 350, mmHg, ,, for, approximately, 1, minute, ,, while, the, differential, pressure, transducer, was, continually, recording, IOP, .]
+nsubjpass(turned-6, vacuum-4)
+nsubj(recording-29, transducer-26)
+[We, can, use, the, measured, values, of, L, -LRB-, ?, t, -RRB-, and, Q, -LRB-, ?, t, -RRB-, to, calculate, these, predictions, and, experimentally, test, them, by, performing, a, series, of, three-click, iso-response, measurements, .]
+nsubj(use-3, We-1)
+[Cells, carrying, the, pREP3X, control, vector, were, treated, in, the, same, way, and, used, as, reference, .]
+nsubjpass(treated-8, Cells-1)
+nsubjpass(used-14, Cells-1)
+[Table, 5, shows, the, ranking, of, rigid, gap, motifs, from, ten, datasets, of, the, Dilimot, database, .]
+nsubj(shows-3, Table-1)
+[We, used, three, networks, with, different, connectivity, ,, each, with, 5, different, sets, of, CPSs, -LRB-, randomly, selected, CPSQ1-CPSQ4, -RRB-, .]
+nsubj(used-2, We-1)
+[However, ,, the, significant, change, was, not, observed, in, cells, expressing, USP17L, -LRB-, CS, -RRB-, or, USP17N, -LRB-, Fig, ., 11, -RRB-, .]
+nsubjpass(observed-8, change-5)
+[From, ,, three, days, post-hatching, ,, water, and, food, were, changed, daily, -LRB-, food, ad, libitum, -RRB-, and, the, number, and, sex, of, emerging, adults, was, recorded, .]
+nsubjpass(recorded-27, days-4)
+nsubjpass(changed-11, post-hatching-5)
+nsubjpass(changed-11, water-7)
+nsubjpass(changed-11, food-9)
+nsubjpass(recorded-27, number-20)
+nsubjpass(recorded-27, sex-22)
+[Since, ob, \/, ob, mice, selectively, lack, the, C16, :, 0, sulfatide, isoform, in, pancreas, -LRB-, 3, -RRB-, ,, this, model, was, used, to, investigate, whether, this, specific, isoform, could, be, taken, up, in, pancreas, .]
+nsubj(lack-7, mice-5)
+nsubjpass(used-23, model-21)
+nsubjpass(taken-32, isoform-29)
+[To, confirm, the, results, obtained, from, the, proteomic, analysis, ,, we, determined, whether, TERA, was, increased, after, NGAL, treatment, using, western, blot, analysis, .]
+nsubj(determined-12, we-11)
+nsubjpass(increased-16, TERA-14)
+[The, MT9-B, 's, accuracy, was, assessed, in, terms, of, the, mean, and, standard, deviation, of, the, errors, in, these, angles, ,, using, the, corresponding, mechanism, readings, as, ground, truth, .]
+nsubjpass(assessed-6, accuracy-4)
+[Comparative, studies, of, protein, expression, in, the, retinae, of, rdta, mice, and, their, littermate, controls, were, performed, with, a, minimum, of, three, independent, groups, of, animals, .]
+nsubjpass(performed-17, studies-2)
+[24, hours, after, infection, total, RNA, was, isolated, and, used, for, hybridization, on, an, Affymetrix, HuGeneFL, GeneChip, ™, representing, over, 5,600, genes, .]
+nsubj(total-5, hours-2)
+nsubjpass(isolated-8, RNA-6)
+nsubjpass(used-10, RNA-6)
+[Implantation, of, a, glass, barrier, in, the, neural, tube, of, a, 2, somite, stage, embryo, posterior, to, the, 2nd, somites, did, not, prevent, the, extension, of, Hoxd4, expression, ,, thus, implying, that, planar, signals, are, not, necessary, after, the, stage, at, which, the, glass, barrier, was, placed, .]
+nsubj(prevent-23, Implantation-1)
+nsubj(necessary-37, signals-34)
+nsubjpass(placed-47, barrier-45)
+[In, a, single, experiment, ,, 90, percent, of, the, samples, -LRB-, randomly, selected, -RRB-, were, used, to, train, a, classifier, after, which, the, classifier, was, tested, on, the, remaining, 10, percent, .]
+nsubjpass(used-16, percent-7)
+nsubjpass(tested-26, classifier-24)
+[As, expected, ,, the, position, of, the, mutation, along, the, sequence, of, the, probe, molecule, strongly, influenced, the, hybridization, ratio, -LRB-, Fig, 9, -RRB-, .]
+nsubj(influenced-17, position-5)
+[The, transgenic, FasL, mRNA, was, highly, expressed, on, days, 2, to, 10, and, obviously, decreased, on, day, 20, after, virus, injection, -LRB-, Fig, ., 2, ,, lanes, 2-6, -RRB-, ,, which, suggests, that, repeated, administration, of, FasL, gene, transfer, would, be, necessary, to, maintain, a, high, level, of, FasL, transgene, expression, in, vivo, .]
+nsubjpass(expressed-7, mRNA-4)
+nsubjpass(decreased-15, mRNA-4)
+nsubj(suggests-32, injection-21)
+nsubj(necessary-42, administration-35)
+[One, inoculum, -LRB-, 5, ×, 106, cells, -RRB-, of, either, NIH3T3vector-only, or, NIH3T3TRIP-Br2-HA, fibroblasts, -LRB-, from, one, representative, clone, each, -RRB-, was, injected, subcutaneously, into, the, lower, flanks, of, athymic, nude, mice, -LRB-, n, =, 4, -RRB-, .]
+nsubjpass(injected-23, inoculum-2)
+[At, the, end, of, the, experiment, the, wings, of, each, mosquito, were, dissected, and, measured, from, the, distal, to, dorsal, points, using, microscopy, .]
+nsubjpass(dissected-13, wings-8)
+nsubjpass(measured-15, wings-8)
+[Each, sample, was, mixed, with, a, reference, pool, and, applied, to, a, 70, mer, DNA, oligonucleotide, microarray, in, a, standard, two-color, competitive, hybridization, -LRB-, 19, -RRB-, .]
+nsubjpass(mixed-4, sample-2)
+nsubjpass(applied-10, sample-2)
+[The, supernatant, fraction, was, centrifuged, at, 130,000, g, for, 1, hr, ,, and, the, sub, mitochondrial, particles, pellet, resuspended, for, EPR, analysis, after, checking, the, purity, of, this, fraction, -LRB-, by, studying, the, electron, transfer, reactions, using, potassium, ferricyanide, as, an, electron, acceptor, and, succinate, as, a, substrate, -RRB-, .]
+nsubjpass(centrifuged-5, fraction-3)
+nsubj(transfer-35, electron-34)
+nsubj(succinate-45, electron-34)
+[By, analyzing, all, timepoints, in, parallel, ,, we, were, able, to, compare, the, relative, GFP, intensity, between, the, pulse, and, chase, populations, .]
+nsubj(able-10, we-8)
+[At, that, time, ,, the, mammary, fat, pads, free, of, palpable, tumors, were, either, collected, for, the, preparation, of, epithelial, cell, pellets, and, frozen, or, prepared, as, whole, mounts, .]
+nsubjpass(collected-15, pads-8)
+nsubjpass(frozen-24, pads-8)
+[In, addition, ,, dihybrid, moths, were, mated, in, the, intercross, Yyes, \/, Dalzell98, ×, Yyes, \/, Dalzell98, from, which, three, pairs, were, fertile, and, 153, F2, progeny, were, scored, -LRB-, see, Table, 2, -RRB-, .]
+nsubjpass(mated-7, moths-5)
+nsubj(fertile-23, Dalzell98-17)
+nsubjpass(scored-29, F2-26)
+[A, strong, colocalization, signal, was, present, almost, immediately, on, the, plasma, membrane, and, colocalization, appeared, on, numerous, vacuoles, within, the, cells, by, the, end, of, the, time, series, .]
+nsubj(present-6, signal-4)
+[In, an, experiment, comparing, biofilm, formation, in, 4, duplicate, wells, ,, strain, M37-1, ,, the, pilus, deficient, variant, ,, yielded, an, average, optical, density, of, 0.204, whereas, its, isogenic, parent, strain, ,, M37, ,, yielded, an, average, optical, density, of, 0.884, .]
+nsubj(comparing-4, experiment-3)
+nsubj(yielded-20, M37-1-13)
+nsubj(yielded-35, strain-31)
+[Treatment, with, estradiol, -LRB-, 0.6, cancers, per, mouse, -RRB-, or, estradiol, plus, progesterone, -LRB-, 0.8, cancers, per, mouse, -RRB-, drastically, reduced, mammary, cancer, multiplicity, and, also, approximately, doubled, the, mammary, cancer, latency, -LRB-, Figures, 8, and, 9, -RRB-, .]
+nsubj(reduced-21, Treatment-1)
+nsubj(doubled-28, Treatment-1)
+[GST-Cdc6, eluted, from, the, beads, following, high, salt, wash, failed, to, show, any, DNA, binding, activity, -LRB-, Fig, ., 3C, -RRB-, whereas, high, salt, eluate, containing, only, p35, showed, strong, DNA, binding, activity, suggesting, that, p35, not, Cdc6, is, responsible, for, the, binding, activity, .]
+nsubj(eluted-2, GST-Cdc6-1)
+nsubj(showed-29, eluate-25)
+nsubj(responsible-40, p35-36)
+nsubj(responsible-40, Cdc6-38)
+[The, results, shown, in, Figure, 5, indicate, that, p300N, protein, specifically, interacted, with, Bel1, \/, Tas, -LRB-, lane, 1, -RRB-, whereas, the, middle, and, C-terminal, regions, ,, p300M, and, p300C, ,, respectively, ,, do, not, seem, to, bind, to, Bel1, \/, Tas, under, the, conditions, used, -LRB-, Fig, ., 5, ,, lanes, 3, and, 5, -RRB-, .]
+nsubj(indicate-7, results-2)
+nsubj(interacted-12, protein-10)
+nsubj(seem-36, middle-23)
+nsubj(seem-36, regions-26)
+[The, deleted, nodes, were, added, to, the, candidate, gene, set, ,, and, the, performance, of, the, algorithm, was, evaluated, using, the, incomplete, network, .]
+nsubjpass(added-5, nodes-3)
+nsubjpass(evaluated-19, performance-14)
+[Autoradiography, was, performed, using, Kodak, X-Omat, 5000RA, film, .]
+nsubjpass(performed-3, film-8)
+[DNA, content, was, quantified, using, a, FACSCAN, -LRB-, Becton, Dickson, -RRB-, .]
+nsubjpass(quantified-4, content-2)
+[There, was, no, difference, in, the, body, weight, of, rat, pups, -LRB-, from, comparable, litter, sizes, -RRB-, between, CO, exposed, and, air-only, exposed, rat, pups, .]
+nsubj(was-2, difference-4)
+[To, test, the, efficacy, of, another, anti-filarial, drug, ,, ivermectin, ,, in, these, mice, ,, ivermectin, phosphate, -LRB-, 1, mg, \/, kg, in, 1, %, DMSO, -RRB-, was, administered, by, i.p., injection, .]
+nsubjpass(administered-29, phosphate-17)
+[The, amount, of, PCR, product, was, compared, with, the, input, amount, to, calculate, the, percentages, of, input, .]
+nsubjpass(compared-7, amount-2)
+[Fewer, mosquitoes, expressed, defensin, 3, days, after, emergence, when, C6, \/, 36, cells, were, infected, at, a, MOI, of, 0.1, -LRB-, 10, %, for, MRE, \/, 3, ', 2J, \/, ppA, and, 20, %, for, MRE, \/, 3, ', 2J, \/, ppC, ;, n, =, 10, -RRB-, ,, as, compared, to, those, exposed, to, a, MOI, of, 0.01, -LRB-, 70, %, for, both, MRE, \/, 3, ', 2J, \/, ppA, and, ppC, ;, n, =, 10, -RRB-, -LRB-, Figure, 5A, -RRB-, ,, even, though, the, infection, levels, of, mosquitoes, remained, comparable, -LRB-, 80-85, %, ,, n, =, 20, -RRB-, as, determined, by, virus, isolation, from, mosquito, carcasses, in, BHK, cell, cultures, .]
+[Figure, 1, depicts, the, basic, experiment, carried, out, on, each, of, the, cell, lines, .]
+nsubj(depicts-3, Figure-1)
+[-LRB-, Milford, ,, MA, -RRB-, .]
+nsubj(MA-4, Milford-2)
+[agarose, gel, .]
+nsubj(gel-2, agarose-1)
+[Data, are, presented, as, the, average, activity, relative, to, control, in, the, absence, of, lipid, ±, S.D., from, a, single, assay, performed, in, triplicate, .]
+nsubjpass(presented-3, Data-1)
+[These, samples, were, measured, and, the, recovery, rate, was, determined, with, the, formula, :, -LRB-, -LRB-, spiked, sample, -, neat, sample, -RRB-, \/, spiked, control, -RRB-, -, 100, .]
+nsubjpass(measured-4, samples-2)
+nsubjpass(determined-10, rate-8)
+nsubj(--27, \/-23)
+[After, 2, h, incubation, ,, the, purple, formazan, crystal, was, solubilized, by, adding, 120, -LRB-, xL, of, lysis, buffer, -LRB-, 1, %, HCl, 12, N, and, 5, %, Triton, X-100, in, isopropanol, -RRB-, ,, and, the, absorbance, was, measured, at, 570, nm, on, a, SpedroMax, Microplate, Spedrophotometer, -LRB-, Molecular, Devices, ,, Sunnyvale, ,, CA, ,, USA, -RRB-, .]
+nsubjpass(solubilized-11, crystal-9)
+nsubjpass(measured-39, absorbance-37)
+[Left, mammary, glands, were, processed, for, whole, mounts, .]
+nsubjpass(processed-5, glands-3)
+[Cultures, of, rad26, ?, -LRB-, TE257, -RRB-, and, rad24, ?, -LRB-, TE465, -RRB-, cells, were, grown, to, an, OD, of, 0.3, ,, treated, for, 5, hours, with, 0.2, µM, LatA, ,, fixed, with, paraformaldehyde, and, stained, with, DAPI, .]
+nsubjpass(grown-16, Cultures-1)
+nsubjpass(treated-23, Cultures-1)
+nsubjpass(fixed-32, Cultures-1)
+nsubjpass(stained-36, Cultures-1)
+[Three, mRNA, populations, were, isolated, and, hybridized, to, distinct, chips, :, MP, -LRB-, mitochondrial, and, membrane, bound, polysomes, -RRB-, ;, FP, -LRB-, free, cytosolic, polysomes, -RRB-, ;, and, TOT, -LRB-, total, polysomes, ,, that, is, ,, the, whole, transcriptome, -RRB-, .]
+nsubj(chips-10, populations-3)
+nsubj(transcriptome-39, polysomes-32)
+[For, each, cultivar, ,, 20, two-leaf, stage, plants, were, inoculated, with, buffer, -LRB-, 20, mM, phosphate, buffer, ,, pH, 7, -RRB-, ,, or, purified, RYMV, particles, at, a, concentration, of, 100, µg, \/, ml, .]
+nsubjpass(inoculated-10, plants-8)
+nsubjpass(purified-24, plants-8)
+[After, 48, hours, ,, the, differentiated, cells, were, analyzed, by, immunocytochemistry, for, uptake, of, BrdU, .]
+nsubjpass(analyzed-9, cells-7)
+[-LRB-, Note, :, the, clones, do, not, differ, in, the, gene, sequences, of, the, molecular, markers, available, for, this, species, in, Genbank, -LRB-, NCBI, -RRB-, ,, so, that, the, clones, could, not, be, differentiated, and, identified, ,, unpubl, ., data, -RRB-, .]
+nsubj(differ-8, clones-5)
+nsubjpass(differentiated-34, clones-30)
+nsubjpass(identified-36, clones-30)
+[The, small, peak, that, eluted, just, before, the, major, activity, peak, -LRB-, Fig, ., 3B, -RRB-, ,, which, was, removed, by, trypsin-treatment, -LRB-, Fig, ., 3C, -RRB-, ,, may, represent, a, non-specific, aggregate, ,, since, it, was, also, found, in, other, PP1, forms, that, had, been, obtained, from, crude, cellular, extracts, by, affinity, chromatography, -LRB-, 27, -RRB-, .]
+nsubj(eluted-5, peak-3)
+nsubjpass(removed-20, peak-3)
+nsubj(represent-30, peak-3)
+nsubjpass(found-39, it-36)
+nsubjpass(obtained-47, forms-43)
+[PCR, analysis, ,, performed, as, described, in, Figure, S1A, ,, showed, clearly, that, treatment, with, 5-AzadC, after, I-SceI, exposure, did, not, increase, the, number, of, GFP, recombinant, genes, -LRB-, Figure, 1B, -LRB-, b, -RRB-, -RRB-, .]
+nsubj(showed-11, analysis-2)
+nsubj(increase-22, treatment-14)
+[First, ,, the, repair, time, was, too, short, to, account, for, a, large, fraction, of, newly, synthesized, plasmids, ,, and, second, ,, IR, results, in, a, dramatic, arrest, in, DNA, replication, in, normal, cells, -LRB-, 22, -RRB-, ,, making, it, highly, unlikely, that, any, newly, replicated, plasmid, was, achieved, .]
+nsubj(short-8, time-5)
+nsubj(unlikely-42, it-40)
+nsubjpass(achieved-49, plasmid-47)
+[A, close, overlap, was, observed, between, the, green, and, red, fluorescent, signals, of, XB15-smGFP2, and, H, +, -, ATPase-dsRed, ,, respectively, .]
+nsubj(overlap-3, close-2)
+[After, 4, to, 7, days, ,, I, made, a, plaster, cast, of, the, nest, .]
+nsubj(made-8, I-7)
+[The, grapevines, were, moved, to, pathogen-free, greenhouse, for, 3, months, under, natural, light, conditions, with, daily, watering, from, an, automated, irrigation, system, at, 27, °, C, .]
+nsubjpass(moved-4, grapevines-2)
+[Two, hundred, eggs, of, An, ., gambiae, were, introduced, into, breeding, sites, containing, two, liters, of, water, collected, in, areas, of, spilled, petroleum, products, in, the, south-western, Nigeria, .]
+nsubjpass(introduced-9, eggs-3)
+[With, Win, TLV, version, 2.0, -LRB-, http, :, \/, \/, www.c3sys.demon.co.uk, -RRB-, ,, one, frame, was, recorded, every, 30, seconds, over, a, 24, hour, period, and, played, back, at, a, rate, of, 5, frames, per, second, resulting, in, a, 9, minute, 36, second, video, clip, .]
+nsubjpass(recorded-17, frame-15)
+nsubjpass(played-27, frame-15)
+[Plants, were, grown, in, the, hydroponics, system, for, two, weeks, ,, until, they, reached, the, V3, stage, -LRB-, 63, -RRB-, ,, at, which, point, tissue, was, harvested, for, RNA, extraction, .]
+nsubjpass(grown-3, Plants-1)
+nsubj(reached-14, they-13)
+nsubjpass(harvested-27, tissue-25)
+[The, PCR, thermal, cycling, parameters, were, 50, °, C, for, 2, min, ., ,, 95, °, C, for, 10, min, followed, by, 40, cycles, of, 95, °, C, for, 15, sec, ., ,, 60, °, C, for, 1, min, .]
+nsubj(C-9, parameters-5)
+nsubj(95-15, sec-31)
+[As, depicted, in, Figure, 5, ,, PpuR, levels, in, P., putida, IBE4, were, detected, as, being, significantly, higher, than, those, in, the, wild, type, parent, strain, indicating, that, absence, of, the, Lon, protease, resulted, in, larger, amounts, of, PpuR, present, in, the, cell, .]
+nsubjpass(detected-14, levels-8)
+nsubj(strain-26, those-20)
+nsubj(resulted-34, absence-29)
+[When, added, at, the, highest, dose, used, in, biological, assays, -LRB-, 10, µM, -RRB-, ,, NBI-31772, did, not, displace, specific, 125I-labeled, IGF-1, binding, from, the, cell, surface, .]
+nsubj(displace-19, NBI-31772-16)
+[Incubation, at, 37, °, C, initiated, receptor, internalization, in, the, assay, .]
+nsubj(initiated-6, C-5)
+[Permission, was, granted, for, an, experiment, involving, the, distribution, of, clean, syringes, in, the, towns, of, Malmö, and, Lund, .]
+nsubjpass(granted-3, Permission-1)
+[The, animals, were, evaluated, twice, weekly, to, detect, the, appearance, of, mammary, tumors, .]
+nsubjpass(evaluated-4, animals-2)
+[Reasons, for, this, improved, balance, in, the, GVS, session, remain, uncertain, .]
+nsubj(uncertain-11, Reasons-1)
+[Each, group, was, treated, with, a, different, carbohydrate, -LRB-, or, no, carbohydrate, in, the, control, group, -RRB-, and, all, nine, groups, were, fed, using, the, blood, from, a, single, donor, .]
+nsubjpass(treated-4, group-2)
+nsubjpass(fed-23, groups-21)
+[Like, the, second, chromosome, ,, any, chromosome, 3, content, other, than, diplo-2, is, lethal, ,, so, viable, offspring, only, occur, from, the, fertilization, of, nullo-3, eggs, by, diplo-3, sperm, or, diplo-3, eggs, by, nullo-3, sperm, .]
+nsubj(viable-17, diplo-2-12)
+nsubj(occur-20, offspring-18)
+[To, test, Literature, Lab, on, a, more, challenging, ,, in, vivo, derived, dataset, ,, we, applied, Literature, Lab, to, a, set, of, genes, whose, expression, increased, with, the, prostate-specific, expression, of, myristoylated, AKT, -LRB-, also, associated, with, the, eventual, prostate, phenotype, of, prostatic, intraepithelial, neoplasm, -RRB-, and, decreased, when, mice, were, treated, with, RAD001, ,, an, mTOR, inhibitor, -LRB-, Fig, ., 2A, -RRB-, .]
+nsubj(applied-16, we-15)
+nsubj(increased-26, expression-25)
+nsubj(decreased-48, expression-25)
+nsubjpass(treated-52, mice-50)
+[In, contrast, ,, Group, 2, animals, would, show, better, performance, because, the, internal, models, previously, acquired, in, Context, A, are, not, fully, activated, during, the, retrieval, in, Context, B, and, remain, stable, .]
+nsubj(show-8, animals-6)
+nsubjpass(activated-23, models-14)
+nsubj(stable-32, models-14)
+[We, used, data, from, an, experiment, that, compared, the, protein, expression, in, the, whole, brain, homogenate, of, rats, that, were, fed, a, diet, with, 5, %, of, grape, seed, extract, to, that, of, a, normal, rat, diet, .]
+nsubj(used-2, We-1)
+nsubjpass(fed-21, that-19)
+nsubj(extract-30, diet-23)
+[It, is, of, course, possible, that, at, very, low, CO2, pressures, endospores, might, be, more, sensitive, to, their, environmental, conditions, than, at, one, atmosphere, .]
+nsubj(is-2, It-1)
+nsubj(sensitive-16, endospores-12)
+[Curie, explaining, the, wonders, of, radium, at, the, Sorbonne, .]
+[However, ,, large, numbers, of, apoptotic, cells, are, present, in, both, the, tumors, treated, with, Apo2L, \/, TRAIL, alone, and, Apo2L, \/, TRAIL, in, combination, with, gemcitabine, -LRB-, Figure, 7, ,, F, and, 7, H, -RRB-, .]
+nsubj(present-9, numbers-4)
+[A, fortnight, after, the, transfers, ,, we, tried, to, catch, the, same, anthias, males, again, to, repeat, the, sampling, .]
+nsubj(tried-8, we-7)
+[Paired, patch, recordings, may, be, necessary, to, show, that, the, input, is, from, precisely, one, neuron, .]
+nsubj(necessary-6, recordings-3)
+nsubj(is-12, input-11)
+[It, would, be, very, informative, to, clarify, this, point, by, double, staining, with, ThS, or, X-34, to, visualize, the, deposits, ,, and, Aß, antibodies, that, recognize, both, soluble, and, insoluble, forms, of, the, amyloid, peptide, .]
+nsubj(informative-5, It-1)
+nsubj(recognize-26, antibodies-24)
+[In, order, to, unmask, the, true, severity, of, epicardial, stenosis, ,, we, evaluate, a, diagnostic, parameter, ,, which, is, obtained, from, fundamental, fluid, dynamics, principles, .]
+nsubj(evaluate-13, we-12)
+nsubjpass(obtained-20, parameter-16)
+[The, effect, of, transcription, and, translation, on, noise, levels, was, studied, by, independently, varying, these, two, parameters, and, measuring, the, resulting, noise, levels, for, a, population, of, cells, .]
+nsubjpass(studied-11, effect-2)
+[Site-directed, mutagenesis, experiments, are, then, done, to, confirm, the, role, of, specific, mutations, introduced, into, a, wild-type, virus, .]
+nsubjpass(done-6, experiments-3)
+[The, serine-threonine, protein, kinase, SAPK4, was, identified, in, a, subtracted, cDNA, library, from, F., rubra, ssp, ., litoralis, enriched, for, salt-responsive, genes, .]
+nsubjpass(identified-7, SAPK4-5)
+[To, achieve, this, aim, ,, we, asked, subjects, to, switch, to, the, opposite, diet, after, completion, of, the, first, diet, period, -LRB-, Phase, II, -RRB-, ,, after, which, the, same, measurements, were, assessed, -LRB-, i.e., ,, each, subject, consumed, a, VLCK, and, LF, diet, -RRB-, .]
+nsubj(asked-7, we-6)
+nsubjpass(assessed-33, measurements-31)
+[All, other, RACE, bands, generated, from, LNCaP, ,, HepG2, and, normal, testis, were, either, comprised, of, SHBG, sequences, that, had, recombined, with, sequences, from, other, chromosomes, or, were, not, specific, for, SHBG, ,, and, were, considered, to, be, experimental, artifacts, .]
+nsubjpass(comprised-15, bands-4)
+nsubj(specific-30, bands-4)
+nsubjpass(considered-36, bands-4)
+nsubj(recombined-21, sequences-18)
+[Microarray, experiments, provide, a, rapid, method, for, directly, profiling, the, expression, pattern, of, an, entire, gene, repertoire, in, a, genome, .]
+nsubj(provide-3, experiments-2)
+[Therefore, we, set, up, experiments, with, restrained, hosts, to, analyze, the, behavior, in, detail, .]
+nsubj(set-3, we-2)
+[In, addition, ,, the, pilus, proteins, also, have, a, strong, protective, capacity, in, animal, models, -LRB-, 46, -RRB-, .]
+nsubj(have-8, proteins-6)
+[But, it, must, be, kept, in, mind, that, infection, was, measured, by, cyst, excretion, ,, not, by, symptoms, .]
+nsubjpass(kept-5, it-2)
+nsubjpass(measured-11, infection-9)
+[It, has, been, shown, that, pneumococcal, adherence, to, human, lung, epithelial, cells, is, significantly, enhanced, by, expression, of, the, pilus, -LRB-, Hemsley, et, al., ,, 2003, ;, Barocchi, et, al., ,, 2006, -RRB-, .]
+nsubjpass(shown-4, It-1)
+nsubjpass(enhanced-15, adherence-7)
+[Combined, molecular, and, biochemical, approaches, are, required, for, a, deeper, understanding, of, mechanisms, of, ATP, homeostasis, in, S., aureus, and, analyze, its, impact, on, the, loss, of, replicative, functions, and, viability, during, exposure, to, high, temperatures, as, well, as, other, stressing, conditions, .]
+nsubjpass(required-7, molecular-2)
+nsubj(analyze-21, molecular-2)
+nsubjpass(required-7, approaches-5)
+[For, the, majority, of, the, 141, F2, plants, multiple, explants, were, examined, -LRB-, one, leaf, ,, two, nodes, ,, 8, pollinated, florets, ,, 20, immature, florets, ,, 8, immature, grains, and, 8, seedlings, -RRB-, ,, resulting, in, a, total, of, 5134, analyzed, explants, .]
+nsubjpass(examined-12, explants-10)
+[For, example, ,, RNase, HI, and, RNase, HIII, genes, tagged, with, different, drug, resistances, are, inserted, into, the, RNase, HI-knockout, mutants, of, E., coli, and, repeated, subcultures, of, the, recombinants, allow, us, to, detect, the, mutated, RNase, H, gene, using, specific, drug, resistances, as, markers, .]
+nsubj(tagged-10, HI-5)
+nsubj(tagged-10, genes-9)
+nsubjpass(inserted-16, resistances-14)
+nsubj(allow-31, subcultures-27)
+nsubj(detect-34, us-32)
+[The, latter, scenario, is, more, probable, because, the, starting, joint, position, was, found, to, be, shifted, in, the, direction, of, the, movement, ,, i.e., ,, having, a, more, flexed, starting, position, for, the, flexors, and, more, extended, starting, position, for, the, extensors, .]
+nsubj(probable-6, scenario-3)
+nsubj(extended-37, the-8)
+nsubjpass(found-13, position-11)
+[At, present, the, significance, of, this, result, ,, in, terms, of, the, transmissibility, or, pathogenicity, under, ', field, conditions, ', of, this, agent, strain, in, any, species, remains, speculative, ,, but, it, supports, the, need, for, appropriate, control, measures, protecting, both, the, animal, and, the, human, food, chain, to, encompass, atypical, scrapie, cases, specifically, .]
+nsubj(speculative-29, conditions-19)
+nsubj(supports-33, it-32)
+[We, therefore, first, confirmed, the, specificity, of, AT, domains, from, two, modules, of, PKS12, to, confirm, that, the, two, modules, are, used, alternately, during, mycoketide, biosynthesis, .]
+nsubj(confirmed-4, We-1)
+nsubjpass(used-22, modules-20)
+[Because, the, immunoprecipitated, chromatin, can, be, chemically, or, physically, sheared, into, smaller, fragments, ,, the, sequences, complementary, to, the, binding, sites, can, be, narrowed, down, to, a, much, smaller, region, using, arrays, made, on, the, POSaM, platform, -LRB-, data, not, shown, -RRB-, .]
+nsubj(be-6, chromatin-4)
+nsubjpass(narrowed-24, sequences-16)
+[Results, from, these, studies, could, justify, further, explorations, in, tumor, samples, from, patients, .]
+nsubj(justify-6, Results-1)
+[Protein-protein, interaction, data, used, in, the, creation, or, prediction, of, molecular, networks, is, usually, obtained, from, large, scale, or, high-throughput, experiments, .]
+nsubjpass(obtained-15, data-3)
+[To, assess, the, quality, of, our, predictions, relative, to, other, methods, that, have, been, published, to, date, ,, we, built, on, the, results, recently, published, by, Stark, et, al., -LRB-, 25, -RRB-, ,, who, have, performed, a, detailed, comparison, of, the, performance, of, most, of, the, prediction, methods, that, are, currently, in, use, on, a, relatively, large, set, of, experimentally, tested, miRNA-mRNA, interactions, .]
+nsubjpass(published-15, methods-11)
+nsubj(built-20, we-19)
+nsubj(performed-36, Stark-27)
+nsubj(performed-36, al.-29)
+nsubj(are-50, comparison-39)
+[In, a, first, step, ,, we, used, gene, essentialities, established, during, the, construction, of, the, ADP1, mutant, library, to, derive, an, intermediary, version, of, the, model, iAbaylyiv3, .]
+nsubj(used-7, we-6)
+nsubj(established-10, essentialities-9)
+[The, analyzed, dataset, contains, the, results, of, 161, microarray, experiments, ,, of, which, 95, are, HCC, samples, ,, and, 66, normal, liver, samples, .]
+nsubj(contains-4, dataset-3)
+nsubj(samples-17, 95-14)
+[An, alternative, using, automated, information, extraction, techniques, which, do, not, rely, on, expert, knowledge, is, presented, in, the, discussion, .]
+nsubjpass(presented-16, alternative-2)
+nsubj(rely-11, techniques-7)
+[The, latter, ,, however, ,, had, to, be, evaluated, following, injection, of, cells, directly, into, the, lateral, tail, vein, because, the, parental, cells, are, not, effective, at, spontaneous, metastasis, .]
+nsubj(had-6, latter-2)
+nsubj(effective-26, cells-23)
+[The, authors, used, nearly, 1,000, images, ,, so, that, individuals, saw, each, object, only, twice, during, the, experiment, -LRB-, once, during, the, first, and, second, presentations, -RRB-, .]
+nsubj(used-3, authors-2)
+nsubj(saw-11, individuals-10)
+nsubj(object-13, each-12)
+[We, carried, out, therefore, the, radioactive, ADP, ribosylation, for, a, short, time, and, a, limited, concentration, of, reagent, in, order, to, label, preferentially, the, isoproterenol, activated, Gas, .]
+nsubj(carried-2, We-1)
+[Bti, bacterium, produces, insecticidal, toxins, which, are, widely, used, for, mosquito, control, ,, and, the, toxic, litter, was, collected, in, a, mosquito, pond, in, Eastern, France, three, months, after, treatment, with, commercial, Bti, insecticide, -LRB-, Bactimos, ,, Valent, Biosciences, Corporation, -RRB-, .]
+nsubj(produces-3, bacterium-2)
+nsubjpass(used-9, toxins-5)
+nsubjpass(collected-19, litter-17)
+[To, further, test, this, hypothesis, ,, we, transiently, transfected, an, MT1-MMP, expression, construct, -LRB-, MTpc3SE, -RRB-, into, the, WT8, cells, and, measured, the, ability, of, these, transfectants, to, degrade, type, I, collagen, .]
+nsubj(transfected-9, we-7)
+nsubj(measured-22, we-7)
+[The, availability, of, intraspecies, genome, data, from, two, strains, of, Campylobacter, jejuni, -LRB-, 19, ,, 20, -RRB-, ,, has, provided, us, with, the, opportunity, to, examine, the, quantitative, relationship, between, the, LR, and, probe, \/, target, identity, -LRB-, PTI, -RRB-, using, our, C., jejuni, microarray, .]
+nsubj(genome-5, availability-2)
+nsubj(provided-20, availability-2)
+nsubj(probe-34, availability-2)
+[TERT, expression, by, Northern, blot, in, the, TERT-off, cohort, was, efficiently, suppressed, by, doxycycline, injection, within, 6, hours, -LRB-, Figure, 4B, -RRB-, .]
+nsubj(was-10, expression-2)
+[The, experiment, was, designed, to, include, several, consecutive, 20, and, 4, °, C, time, points, for, evaluating, the, extent, of, inheritable, versus, LT, inducible, fluctuation, ,, and, to, initiate, the, LT, treatment, near, the, end, of, the, day, to, better, reflect, natural, conditions, .]
+nsubjpass(designed-4, experiment-2)
+[After, a, further, 20, minute, incubation, period, under, repressing, conditions, ,, a, second, 60, ml, sample, was, removed, for, RNA, purification, .]
+nsubjpass(removed-18, sample-16)
+[To, limit, the, impact, of, a, learning, effect, on, appropriate, OAT, management, practice, within, the, department, over, time, -LRB-, possible, for, medical, residents, -RRB-, ,, the, order, of, these, three, periods, was, determined, by, using, a, Latin, square, plan, -LRB-, see, Figure, -RRB-, .]
+nsubjpass(determined-33, order-27)
+[Whilst, hematopoiesis, was, largely, normal, when, Rb, deficient, cells, were, supported, by, a, wild-type, microenvironment, a, distinctly, different, phenotype, was, observed, when, Mx1-Cre, Rbfl, \/, fl, animals, were, induced, to, delete, Rb, -LRB-, 29, -RRB-, .]
+nsubj(normal-5, hematopoiesis-2)
+nsubjpass(supported-11, cells-9)
+nsubjpass(observed-21, phenotype-19)
+nsubjpass(induced-29, animals-27)
+[Multiple, samples, are, typically, analyzed, in, parallel, for, ', omics, studies, ,, as, is, the, case, with, our, ionomics, study, .]
+nsubjpass(analyzed-5, samples-2)
+[The, validation, experiment, involved, transcriptome, analysis, in, two, '', resynthesised, '', B., napus, lines, and, their, B., rapa, and, B., oleracea, progenitors, .]
+nsubj(involved-4, experiment-3)
+nsubj(napus-13, analysis-6)
+[The, second, approach, relied, on, the, Cre-loxP, recombination, system, to, establish, mice, in, which, the, endogenous, ß-catenin, gene, was, altered, to, produce, a, stabilized, \/, activated, protein, .]
+nsubj(relied-4, approach-3)
+nsubjpass(altered-20, gene-18)
+[In, the, '', reference, '', design, each, sample, is, compared, to, a, common, RNA, reference, sample, ,, serving, as, a, common, denominator, between, different, microarray, hybridizations, -LRB-, 7, -RRB-, .]
+nsubj(is-9, design-6)
+[It, is, useful, to, visualize, the, details, of, the, experiment, in, the, form, of, a, matrix, ,, as, shown, in, Figure, 1, .]
+nsubj(useful-3, It-1)
+[The, goal, of, this, study, was, to, perform, a, genome-wide, screen, for, differentially, transcribed, R., typhi, genes, in, response, to, a, shift, in, temperature, from, 37, °, C, to, 25, °, C, .]
+nsubj(was-6, goal-2)
+[Inasmuch, as, our, microarray, analyses, directly, compared, genetically, matched, individuals, who, differ, only, in, degree, of, expression, of, autistic, symptoms, ,, it, is, likely, that, other, genes, ,, not, identified, in, our, study, ,, also, play, a, role, in, the, pathophysiology, of, autism, .]
+nsubj(differ-12, individuals-10)
+nsubj(likely-24, it-22)
+nsubj(play-36, genes-27)
+[For, this, purpose, ,, they, designed, reverse, primers, in, the, coding, sequence, of, the, targeted, genes, and, forward, primers, within, the, conserved, 5, `, UTRs, motifs, that, could, be, split, in, TAC, and, TTT, forms, ,, based, upon, divergent, nucleotides, -LRB-, Figure, 1A, ,, TAC, colored, in, red, ,, TTT, in, blue, -RRB-, .]
+nsubj(designed-6, they-5)
+nsubj(primers-19, they-5)
+nsubj(based-37, they-5)
+nsubjpass(split-30, motifs-26)
+[For, each, treatment, and, control, and, for, each, time, point, two, independent, biological, replicate, experiments, were, performed, and, RNA, derived, from, each, biological, replicate, was, used, for, two, separate, array, hybridizations, each, using, reversed, fluorescence, labels, -LRB-, dye-flip, -RRB-, .]
+nsubjpass(performed-17, experiments-15)
+nsubjpass(used-26, RNA-19)
+[SubgroupA1, +, A1-Gender, Male9, -LRB-, 12.3, %, -RRB-, 20, -LRB-, 27.4, %, -RRB-, Female19, -LRB-, 26.0, %, -RRB-, 25, -LRB-, 34.2, %, -RRB-, Total28, -LRB-, 38.4, %, -RRB-, 45, -LRB-, 61.6, %, -RRB-, Ethnicity, Aboriginal, and\/or, Torres, Strait, Islander1, -LRB-, 1.4, %, -RRB-, 0, -LRB-, 0, %, -RRB-, Caucasian, \/, European20, -LRB-, 27.8, %, -RRB-, 31, -LRB-, 43.1, %, -RRB-, Polynesian1, -LRB-, 1.4, %, -RRB-, 5, -LRB-, 6.9, %, -RRB-, Asian3, -LRB-, 4.2, %, -RRB-, 2, -LRB-, 2.8, %, -RRB-, Other3, -LRB-, 4.2, %, -RRB-, 6, -LRB-, 8.3, %, -RRB-, Total28, -LRB-, 38.9, %, -RRB-, 44, -LRB-, 61.1, %, -RRB-, aA1, +, participants, have, at, least, one, A1, allele, and, A1, -, participants, are, homozygous, for, A2, .]
+[Earthworms, were, sampled, at, the, end, of, the, night, but, before, dawn, -LRB-, c., 0400, hours, -RRB-, along, transects, starting, and, ending, 10, m, from, a, pair, of, adjacent, main, setts, .]
+nsubjpass(sampled-3, Earthworms-1)
+nsubjpass(sampled-3', Earthworms-1)
+nsubj(starting-20, transects-19)
+nsubj(ending-22, transects-19)
+[Candidate, AP-1, responsive, transcripts, would, be, identified, as, those, with, '', A, \/, B, '', and, '', A, \/, C, '', ratios, significantly, different, from, control, '', B, \/, C, '', ratios, .]
+nsubjpass(identified-7, transcripts-4)
+[These, contacts, include, 441, interactions, within, the, HoxA, cluster, ,, 64, in, the, gene, desert, region, ,, and, 336, inter-chromosomal, genomic, contacts, .]
+nsubj(include-3, contacts-2)
+[Transcripts, were, missing, part, of, the, first, exon, or, even, complete, exons, at, the, 5, ', end, .]
+nsubj(missing-3, Transcripts-1)
+[The, timing, of, the, renewal, of, the, solution, will, then, be, specified, below, for, each, experiment, shown, .]
+nsubjpass(specified-12, timing-2)
+[Macronutrient, information, is, provided, in, Table, 1, .]
+nsubjpass(provided-4, information-2)
+[In, this, second, evaluation, step, ,, we, verified, that, on, real, and, simulated, data, ,, the, MSTs, produced, by, MSTmap, are, indeed, very, close, to, TSPs, .]
+nsubj(close-24, we-7)
+nsubj(produced-18, MSTs-17)
+[Note, that, the, metabolism, of, the, wild-type, strains, in, these, experiments, is, not, fully, adapted, to, the, media, and, operates, in, a, suboptimal, regime, .]
+nsubjpass(adapted-15, metabolism-4)
+nsubj(operates-20, metabolism-4)
+[The, correlation, between, an, optimal, level, of, virulence, and, parasite, fitness, may, result, from, the, strong, tradeoff, between, host, and, parasite, fitness, ,, the, researchers, explain, ,, which, emerges, as, these, adversaries, battle, for, the, resources, needed, for, reproduction, .]
+nsubj(result-13, correlation-2)
+nsubj(explain-26, researchers-25)
+nsubj(emerges-29, which-28)
+[Experimental, studies, have, shown, that, a, diet, high, in, n-6, fatty, acids, decreases, the, concentrations, of, marine, n-3, fatty, acid-induced, lipid, peroxidation, products, in, breast, cancers, to, the, lowest, levels, ,, and, that, the, lower, this, concentration, ,, the, bigger, the, tumor, volumes, resulting, from, n-6, fatty, acid, administration, -LRB-, 52, ,, 55, -RRB-, .]
+nsubj(shown-4, studies-2)
+nsubj(decreases-13, high-8)
+nsubj(volumes-43, tumor-42)
+[Experimental, results, have, already, shown, that, direct, phosphoryl, transfer, takes, place, in, the, ternary, complex, -LRB-, 24, -RRB-, ,, thereby, excluding, the, Theorell-Chance, Bi-Bi, mechanism, ,, where, only, binary, complexes, are, formed, .]
+nsubj(shown-5, results-2)
+nsubj(takes-10, transfer-9)
+nsubjpass(formed-32, complexes-30)
+[Finally, ,, both, post-tetanic, ?, oscillations, and, hyperthermic, epileptiform-like, population, spikes, were, completely, blocked, by, a, GABAA, receptor, antagonist, ,, BMI, .]
+nsubjpass(blocked-14, oscillations-6)
+nsubjpass(blocked-14, spikes-11)
+[Hypoxia, has, also, been, shown, to, increase, arginase, activity, in, macrophages, -LRB-, 133, -RRB-, ,, thus, diverting, L-arginine, metabolism, away, from, the, NO, generation, pathway, and, into, the, urea, cycle, .]
+nsubjpass(shown-5, Hypoxia-1)
+[Here, ,, p11-CT, was, also, found, both, in, the, cytoplasm, and, nucleus, ,, however, ,, the, nuclear, localization, was, substantially, pronounced, when, compared, to, the, full, length, Cx55, .5, -LRB-, Fig, ., 8C, ,, enlarged, inset, -RRB-, .]
+nsubjpass(found-6, p11-CT-3)
+nsubj(pronounced-21, localization-18)
+[Intermediate, 7, rearranged, strictly, to, the, ortho, isomer, ,, 8, ., This, finding, strongly, supports, attack, in, the, Elbs, oxidation, by, the, para-carbanion, tautomer, of, the, phenolate, anion, ,, 5, ,, rather, than, through, the, intermediate, 3, -LRB-, Scheme, 4, -RRB-, .]
+nsubj(rearranged-3, Intermediate-1)
+nsubj(supports-15, 8-10)
+nsubj(supports-15', 8-10)
+[With, oral, administration, of, absolute, or, hydrochloric, acid-acidified, ethanol, ,, extensive, hemorrhagic, lesions, can, be, produced, in, the, gastric, mucosa, .]
+nsubjpass(produced-16, lesions-13)
+[Additionally, to, its, radical, scavenging, activity, an, inhibition, of, NF, -, ?, B-dependent, gene, expression, and, decrease, of, the, activity, of, various, pro-inflammatory, mediators, and, adhesion, molecules, was, observed, after, incubation, of, cells, with, the, Pycnogenol, extract, -LRB-, 8, ,, 9, -RRB-, .]
+nsubjpass(observed-29, inhibition-8)
+[Therefore, ,, we, defined, an, experimental, list, of, discriminating, A-positions, ,, using, the, actual, observed, peak, positions, rather, than, their, original, theoretically, predicted, positions, ,, as, explained, and, highlighted, in, red, in, Figure, 1B, .]
+nsubj(defined-4, we-3)
+[Participants, were, randomly, allocated, to, either, an, experimental, stress, induction, -LRB-, preparation, period, for, a, video-taped, speech, -RRB-, or, relaxation, induction, condition, -LRB-, listening, to, relaxing, music, -RRB-, ,, with, each, induction, lasting, five, minutes, .]
+nsubjpass(allocated-4, Participants-1)
+[The, uncaging, method, induces, spatially, homogeneous, Ca2, +, elevation, ,, implying, that, measuring, the, Ca2, +, fluorescent, indicator, gives, an, indication, of, the, real, Ca2, +, sensed, by, the, vesicles, .]
+nsubj(induces-4, method-3)
+nsubj(sensed-27, indication-21)
+[Elevating, free, carnitine, levels, in, insulin, depleted, diabetic, animals, with, a, fixed, and, relatively, inadequate, availability, of, glucose, as, a, myocardial, fuel, apparently, corrected, the, defects, in, myocardial, function, by, providing, more, intracellular, fatty, acids, as, an, energy, substrate, .]
+nsubj(corrected-24, fuel-22)
+[Although, tests, based, on, the, proliferation, of, hormone-dependent, breast, cancer, cells, have, been, used, extensively, in, the, past, ,, none, of, them, can, detect, compounds, that, perturb, the, crosstalk, between, estrogenic, and, androgenic, pathways, -LRB-, 59, -RRB-, .]
+nsubjpass(used-14, tests-2)
+nsubj(detect-24, none-20)
+nsubj(perturb-27, compounds-25)
+[We, therefore, performed, measurements, in, an, animal, model, of, acute, lung, injury, induced, by, bronchoalveolar, lavage, .]
+nsubj(performed-3, We-1)
+[It, was, recently, demonstrated, that, admixtures, of, mammary, epithelial, cells, and, cells, from, adult, male, seminiferous, tubules, produce, chimeric, glands, ,, in, which, both, testicular, and, mammary, cell, progeny, play, interchangeable, roles, in, mammary, growth, ,, development, ,, and, differentiation, -LRB-, 3, -RRB-, .]
+nsubjpass(demonstrated-4, It-1)
+nsubj(tubules-17, admixtures-6)
+nsubj(play-30, testicular-25)
+nsubj(play-30, progeny-29)
+[To, investigate, whether, the, protective, effect, of, the, heat, shock, response, could, be, generalized, to, other, models, of, acute, lung, injury, and, could, prevent, or, reduce, extrapulmonary, organ, injury, and, death, ,, we, chose, to, study, this, effect, in, a, rat, model, of, intra-abdominal, sepsis, produced, by, cecal, ligation, and, perforation, -LRB-, 21, -RRB-, .]
+nsubjpass(generalized-14, effect-6)
+nsubj(prevent-24, effect-6)
+nsubj(chose-34, we-33)
+[Even, though, our, results, do, not, provide, additional, data, regarding, the, mechanisms, underlying, the, role, played, by, PRs, in, mediating, tumor, growth, ,, they, provide, further, support, to, our, hypothesis, and, extend, our, previous, data, to, the, whole, category, of, progestin-independent, tumors, .]
+nsubj(provide-7, results-4)
+nsubj(provide-25, they-24)
+nsubj(extend-32, they-24)
+[The, present, study, was, therefore, designed, to, examine, the, effects, of, HA, in, rat, antigen-induced, arthritis, -LRB-, AIA, -RRB-, .]
+nsubjpass(designed-6, study-3)
+[Besides, the, biological, noise, ,, microarrays, are, subject, to, random, experimental, noise, .]
+nsubj(subject-8, microarrays-6)
+[Presumably, ,, there, is, residual, uncoated, -LRB-, i.e., ,, lipid-free, -RRB-, pyrite, present, and, its, dissolution, at, the, beginning, of, the, experiment, starts, to, provide, nutrients, for, the, bacteria, so, that, a, net, growth, can, be, achieved, after, the, 5-day, period, .]
+nsubj(is-4, uncoated-6)
+nsubj(starts-23, dissolution-16)
+nsubjpass(achieved-37, growth-34)
+[As, iron, is, increased, ,, H2O2, decreases, .]
+nsubjpass(increased-4, iron-2)
+nsubj(decreases-7, H2O2-6)
+[In, 1974, ,, Lance, K, Gould, -LRB-, 1, -RRB-, proposed, the, relationship, between, the, anatomic, condition, and, behavior, of, coronary, hyperaemic, flow, -LRB-, figure2, -RRB-, ,, whereby, an, inverse, curvilinear, relationship, exists, between, the, narrowing, of, lumen, of, coronary, artery, and, hyperaemic, capability, ,, up, to, a, completely, abolished, coronary, reserve, for, stenosis, -RRB-, 90, %, .]
+nsubj(proposed-10, Gould-6)
+nsubj(exists-32, relationship-31)
+[The, algorithm, presented, in, this, paper, provides, a, method, for, identifying, significant, temporal, variation, in, time, course, gene, expression, data, without, requiring, replicates, .]
+nsubj(provides-7, algorithm-2)
+[In, particular, ,, the, study, of, the, evolution, of, laboratory, populations, since, their, foundation, from, the, wild, allows, us, to, study, the, effects, of, population, of, origin, ,, demographic, structure, ,, and, the, absence, of, gene, flow, on, the, process, of, evolutionary, domestication, .]
+nsubj(allows-18, study-5)
+nsubj(study-21, us-19)
+[In, addition, ,, experiments, in, outbred, mice, are, cost-effective, and, can, be, performed, in, larger, animal, groups, thereby, improving, statistical, significance, .]
+nsubj(cost-effective-9, experiments-4)
+nsubjpass(performed-13, experiments-4)
+[Cell, population, measurements, were, made, at, a, single, time, point, upon, completion, ,, using, a, Perkin-Elmer, Victor, II, plate, reader, -LRB-, excitation, at, 535, \/, 590, nm, emission, -RRB-, .]
+nsubjpass(made-5, measurements-3)
+[All, animals, were, sacrificed, under, deep, anesthesia, .]
+nsubjpass(sacrificed-4, animals-2)
+[Experimental, animal, work, was, conducted, according, to, Spanish, regulations, ,, in, agreement, with, European, Union, directives, .]
+nsubjpass(conducted-5, work-3)
+[Complete, Freund, 's, adjuvant-induced, arthritis, was, stimulated, by, injection, of, 50, µl, Complete, Freund, 's, adjuvant, emulsion, intradermally, at, the, base, of, the, tail, ,, as, described, previously, -LRB-, 37-39, -RRB-, .]
+nsubjpass(stimulated-7, arthritis-5)
+[RNA, from, each, fraction, was, labeled, with, red, fluorescent, dye, and, hybridized, together, with, an, unrelated, RNA, sample, ,, labeled, with, green, fluorescence, as, a, reference, to, a, DNA, microarray, .]
+nsubjpass(labeled-6, RNA-1)
+nsubjpass(hybridized-12, RNA-1)
+[The, objective, of, this, study, was, to, evaluate, the, use, of, bi-level, NPPV, for, patients, who, fail, weaning, from, IMV, .]
+nsubj(was-6, objective-2)
+nsubj(fail-17, patients-15)
+[p., quinquefasciatus, in, its, native, geographic, range, .]
+nsubj(quinquefasciatus-2, p.-1)
+[As, the, histological, work, of, Santiago, Ramón, y, Cajal, -LRB-, 1852-1934, -RRB-, ,, Rudolf, von, Koelliker, -LRB-, 1817-1905, -RRB-, and, others, provided, evidence, for, a, discontinuity, between, nerve, endings, and, nerve, cells, ,, 48, Langley, began, to, doubt, his, former, interpretation, and, tended, to, believe, that, nicotine, did, not, actually, affect, the, nerve, cells, in, the, ganglion, but, rather, the, endings, of, the, pre-ganglionic, fibers, that, terminated, close, to, them, .49, However, ,, after, cutting, the, preganglionic, nerve, fibers, and, allowing, them, to, degenerate, for, up, to, twenty-six, days, ,, local, application, of, nicotine, to, the, superior, cervical, ganglion, still, caused, its, characteristic, effects, .]
+[In, the, cases, tested, ,, RT-PCR, products, confirmed, the, ReAnoCDS05, CDS, predictions, as, compared, to, the, alternative, Ensembl, predictions, .]
+nsubj(confirmed-8, products-7)
+[It, has, recently, been, demonstrated, that, in, patients, with, parkinsonian, disease, ,, both, the, expectation, and, the, actual, experience, of, a, clinical, benefit, during, placebo, treatment, activates, the, inner-brain, reward, circuitry, -LRB-, 74, ,, 82, -RRB-, .]
+nsubjpass(demonstrated-5, It-1)
+nsubj(activates-27, circuitry-31)
+[A, recent, single-molecule, kinetic, analysis, on, aM2, of, nAChR, suggested, that, most, of, the, residues, throughout, the, length, of, aM2, move, relatively, early, in, the, gating, reaction, ,, but, some, at, the, mid-section, move, later, -LRB-, 26, -RRB-, .]
+nsubj(suggested-10, analysis-5)
+nsubj(move-21, most-12)
+nsubj(move-34, some-30)
+[We, found, the, same, result, for, single, mutants, -LRB-, unpublished, data, -RRB-, but, in, double, mutants, ,, uncharacterized, previously, ,, the, standard, deviation, of, the, location, of, the, anterior, hb, border, doubles, and, that, of, the, posterior, border, of, the, third, anterior, gt, domain, increases, significantly, -LRB-, Figure, 6, -RRB-, .]
+nsubj(found-2, We-1)
+nsubj(uncharacterized-18, We-1)
+nsubj(doubles-32, deviation-23)
+nsubj(gt-43, that-34)
+[On, the, other, hand, ,, Nilsson, et, al., -LRB-, 33, -RRB-, have, nicely, showed, that, ,, even, on, a, short, evolutionary, time, scale, ,, the, disappearance, of, large, stretches, of, DNA, can, be, frequent, in, bacteria, establishing, in, a, constant, environment, .]
+nsubj(showed-14, Nilsson-6)
+nsubj(showed-14, al.-8)
+nsubj(frequent-34, disappearance-26)
+[Obviously, ,, the, long-term, outcome, can, interpret, the, result, of, the, AACC, version, but, not, that, of, the, BBDD, version, .]
+nsubj(interpret-7, outcome-5)
+[We, placed, ventralized, Nkx2.2-expressing, explants, into, contact, with, BMP-expressing, ectodermal, cells, along, one, edge, of, the, explant, -LRB-, Figure, 4B, -RRB-, .]
+nsubj(placed-2, We-1)
+[PBS, injections, ,, injections, of, empty, PLG-particles, and, injections, of, PLG-particles, loaded, with, an, irrelevant, antigen, -LRB-, BSA, -RRB-, on, the, effect, of, intravesical, PstS1, treatment, .]
+nsubj(loaded-12, injections-2)
+[Any, ring, tone, can, be, wired, to, any, cell, phone, and, therefore, can, not, predict, the, model, or, brand, of, a, phone, .]
+nsubjpass(wired-6, tone-3)
+nsubj(predict-15, tone-3)
+[In, contrast, ,, normal, SFs, ,, osteoarthritis, SFs, or, dermal, fibroblasts, do, not, show, such, an, invasive, behavior, .]
+nsubj(show-14, SFs-5)
+nsubj(show-14, SFs-8)
+nsubj(show-14, fibroblasts-11)
+[Previous, reports, have, demonstrated, that, the, controlled, exposure, to, ozone, after, a, late, airway, response, elicited, by, allergen, challenge, can, potentiate, the, eosinophilic, inflammatory, response, induced, by, the, allergen, challenge, itself, in, subjects, with, mild, atopic, asthma, -LRB-, 34, -RRB-, .]
+nsubj(demonstrated-4, reports-2)
+nsubj(potentiate-21, exposure-8)
+nsubj(challenge-30, response-25)
+[Total, RNA, from, each, case, was, hybridized, to, Affymetrix, U133A, oligonucleotide, arrays, ,, without, pre-amplification, .]
+nsubjpass(hybridized-7, RNA-2)
+[In, addition, ,, we, excised, trachea, from, larvae, of, the, same, age, and, used, the, remaining, material, -LRB-, whole, larval, animals, without, their, major, trachea, -RRB-, as, control, .]
+nsubj(excised-5, we-4)
+nsubj(used-14, we-4)
+[Because, supraphysiological, concentrations, of, HCl, -LRB-, 0.15, M, or, higher, -RRB-, are, required, to, induce, c-Fos, in, the, NTS, ,, it, has, been, inferred, that, only, a, massive, increase, in, the, proton, gradient, across, the, acid-tight, gastric, mucosal, barrier, is, able, to, drive, sufficient, protons, into, the, lamina, propria, where, they, can, excite, vagal, afferent, nerve, fibers, either, directly, or, indirectly, via, neuroactive, factors, released, in, the, tissue, -LRB-, 2, -RRB-, .]
+nsubjpass(required-13, concentrations-3)
+nsubjpass(inferred-24, it-21)
+nsubj(able-41, increase-29)
+nsubj(excite-53, they-51)
+[For, instance, ,, a, typical, experiment, using, oligonucleotide, microarrays, involves, a, 3, ', -, biased, labeling, protocol, and, by, necessity, a, probe, or, probes, placed, near, the, 3, ', end, of, the, mRNA, transcript, -LRB-, 19, -RRB-, .]
+nsubj(involves-10, experiment-6)
+[The, concentrations, of, the, cRNA, pools, span, slightly, more, than, one, order, of, magnitude, ,, and, the, cRNA, concentrations, of, the, S, samples, are, between, one, and, four, times, larger, than, the, corresponding, clones, ', cRNA, concentrations, in, the, C, sample, .]
+nsubj(span-7, concentrations-2)
+nsubj(larger-30, concentrations-19)
+[In, the, present, study, ,, the, patient, reference, base, was, attached, to, a, head, clamp, ,, which, was, ,, in, turn, ,, connected, via, pins, to, the, patient, 's, skull, while, surgery, was, performed, at, the, levels, C1, and, C2, .]
+nsubjpass(attached-11, base-9)
+nsubjpass(connected-23, clamp-15)
+nsubjpass(performed-34, surgery-32)
+[There, was, 100, %, concordance, in, the, genotype, assignment, when, the, blinded, samples, were, decoded, .]
+nsubjpass(decoded-15, samples-13)
+[The, latter, describes, the, aversion, to, discriminate, against, those, with, a, limited, potential, for, health, as, of, chronic, conditions, or, disabilities, .]
+nsubj(describes-3, latter-2)
+[The, prediction, intervals, ,, however, ,, presented, wide, measurements, ,, indicating, large, uncertainties, with, regards, to, predicting, skGFR, from, any, stereological, parameter, ,, presumably, due, to, imprecise, skGFR, measurements, .]
+nsubj(presented-7, intervals-3)
+[Our, planned, clinical, impact, assessment, in, real, life, would, help, clarify, many, of, the, questions, raised, during, this, experimental, study, .]
+nsubj(help-10, assessment-5)
+[Little, is, known, however, ,, whether, the, '', direction, '', in, which, changes, in, health, are, experienced, is, important, for, the, public, in, prioritizing, among, patients, .]
+nsubjpass(known-3, Little-1)
+nsubj(experienced-17, changes-13)
+[The, mechanisms, of, the, protective, effects, of, taurine, may, be, related, to, the, decrease, of, MDA, level, and, the, increase, of, SOD, and, GPx, activity, .]
+nsubjpass(related-11, mechanisms-2)
+nsubj(GPx-24, mechanisms-2)
+[Other, animals, have, been, used, ,, such, as, rabbits, -LRB-, 7, ,, 11, ,, 12, -RRB-, or, dogs, -LRB-, 13, -RRB-, .]
+nsubjpass(used-5, animals-2)
+[Nevertheless, ,, at, any, time, of, the, year, ,, only, a, small, percentage, of, aquatic, habitats, actually, contained, mosquito, larvae, -LRB-, 20, -RRB-, suggesting, that, other, criteria, than, those, surveyed, under, operational, conditions, may, be, responsible, for, habitat, colonization, and, productivity, ,, such, as, microclimate, ,, water, quality, and, interactions, with, other, aquatic, organisms, .]
+nsubj(contained-18, percentage-13)
+nsubj(suggesting-24, larvae-20)
+nsubj(responsible-36, criteria-27)
+[However, ,, the, mechanism, of, nitric, oxide, inhibition, by, AVP, ,, for, example, ,, has, recently, been, proven, to, play, only, a, minor, or, irrelevant, role, in, the, clinical, setting, -LRB-, 7, -RRB-, .]
+nsubjpass(proven-18, mechanism-4)
+[The, density, of, fluorescence, was, estimated, by, calculating, the, area, of, fluorescent, cells, by, NIH, image, software, .]
+nsubjpass(estimated-6, density-2)
+[Few, studies, ,, however, ,, have, utilised, EIT, to, make, concurrent, measurements, of, ventilation, and, perfusion, .]
+nsubj(utilised-7, studies-2)
+nsubj(make-10, EIT-8)
+[We, have, successfully, utilised, the, DNA, delivery, method, to, examine, the, therapeutic, antiviral, and, antimyocarditic, effects, of, both, individual, and, combinational, IFN, subtypes, in, vivo, .]
+nsubj(utilised-4, We-1)
+[The, minichromosomes, in, the, nuclei, undergo, one, round, of, semiconservative, DNA, replication, under, cell, cycle, control, .]
+nsubj(undergo-6, minichromosomes-2)
+[The, activation, of, NMD, in, this, assay, is, achieved, by, single, EJC, proteins, tethered, to, the, 3, ', UTR, of, a, reporter, mRNA, .]
+nsubjpass(achieved-9, activation-2)
+[When, transwells, containing, mixed, cultures, were, placed, above, the, neuronal-enriched, cultures, -LRB-, during, and, 48, hours, prior, to, NMDA, challenge, -RRB-, ,, the, EP1, antagonist, was, not, neuroprotective, in, the, neuronal-enriched, cultures, grown, below, -LRB-, Figure, 6, -RRB-, .]
+nsubjpass(placed-7, transwells-2)
+nsubj(neuroprotective-28, antagonist-25)
+[We, have, recently, found, that, migraine, and, TTH, patients, have, more, stress-induced, muscle, pain, and, slower, muscle, pain, recovery, after, long-lasting, cognitive, stress, than, controls, -LRB-, 34, ,, 35, -RRB-, .]
+nsubj(found-4, We-1)
+nsubj(have-10, patients-9)
+[The, surface, myoelectric, activity, -, and, subsequent, muscle, onsets, -, of, the, right, transverse, abdominis, \/, internal, oblique, and, erector, spinae, -LRB-, at, L3, -RRB-, was, recorded, during, ballistic, raising, of, the, right, arm, into, flexion, of, 90, °, .]
+nsubjpass(recorded-27, activity-4)
+nsubjpass(recorded-27, onsets-9)
+[Recently, sets, of, transcripts, with, precise, initiation, sites, have, been, produced, and, mapped, onto, their, positions, in, the, genome, .]
+nsubjpass(produced-11, sets-2)
+nsubjpass(mapped-13, sets-2)
+[Initially, ,, a, single, computed, tomographic, section, was, used, to, assess, recruitment, defined, as, the, decrease, in, nonaerated, lung, units, .]
+nsubjpass(used-9, section-7)
+[The, response, of, RMAs, to, dynamic, changes, in, intercostal, muscle, length, was, determined, by, varying, the, stretch, velocities, of, the, intercostal, space, .]
+nsubjpass(determined-13, response-2)
+[Taken, together, ,, these, results, are, highly, suggestive, of, a, feedforward, mode, of, processing, that, propagates, nonconsciously, and, is, initially, largely, unaffected, by, masking, .]
+nsubj(suggestive-8, results-5)
+nsubj(propagates-16, mode-12)
+nsubj(unaffected-22, mode-12)
+[We, estimate, that, 71, %, of, the, recombination, occurred, in, ~, 12, %, of, our, sequence, .]
+nsubj(estimate-2, We-1)
+nsubj(occurred-9, %-5)
+[Furthermore, ,, the, change, in, expression, for, these, four, proteins, is, consistent, for, different, time, points, after, Nanog, knock-down, ,, and, increases, consistently, over, the, time, course, -LRB-, Figure, 4B, -RRB-, .]
+nsubj(consistent-12, change-4)
+nsubj(increases-22, change-4)
+[The, glnA429, allele, specific, primers, are, in, the, reverse, direction, ,, hence, the, inconsistency, between, the, alleles, and, the, 3, ', terminal, nucleotides, .]
+nsubj(are-6, primers-5)
+[The, zoledronic, acid-docetaxel, combination, produced, a, highly, significant, synergistic, effect, on, the, LNCaP, cell, line, grown, in, normal, or, hormone-deprived, medium, ,, the, principal, molecular, mechanisms, involved, being, apoptosis, and, decreased, pMEK, and, Mcl-1, expression, .]
+nsubj(produced-5, combination-4)
+nsubj(involved-27, mechanisms-26)
+nsubj(decreased-31, mechanisms-26)
+[Because, oviposition, was, suppressed, in, these, females, and, the, developmental, progression, of, oogenesis, was, halted, ,, oocytes, ``, aged, '', within, their, abdomens, .]
+nsubjpass(suppressed-4, oviposition-2)
+[More, generally, ,, we, predict, that, a, suboptimal, cell, will, activate, more, transport, reactions, ,, and, hence, excrete, larger, number, of, metabolites, than, a, growth-optimized, cell, .]
+nsubj(predict-5, we-4)
+nsubj(activate-11, cell-9)
+nsubj(excrete-18, cell-9)
+[Because, of, its, central, position, in, the, microbial, research, community, ,, the, Gram-negative, bacterium, Escherichia, coli, plays, a, leading, role, in, investigations, of, the, fundamental, molecular, biology, of, bacteria, -LRB-, 1-8, -RRB-, .]
+nsubj(plays-17, coli-16)
+[RT-PCR, primers, were, designed, such, that, the, PCR, product, spanned, an, exon, boundary, ,, so, that, amplification, from, any, contaminating, genomic, DNA, could, be, eliminated, .]
+nsubjpass(designed-4, primers-2)
+nsubj(spanned-10, product-9)
+nsubjpass(eliminated-25, amplification-17)
+[The, transcriptional, activity, of, a, series, of, 5, ', promoter, deletion, mutants, was, determined, by, luciferase, reporter, system, .]
+nsubjpass(determined-14, activity-3)

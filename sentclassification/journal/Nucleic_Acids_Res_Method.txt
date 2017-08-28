@@ -1,0 +1,183 @@
+We were able to measure the quantity of dye bound using time-resolved fluorescence spectroscopy , as an estimate of the ribozyme double helical content .
+This method , calibrated by using oligonucleotides with defined tertiary structure and denaturing solvents , parallels NMR and UV measurements as a function of temperature .
+--
+LAMP is also applicable to RNA upon use of reverse transcriptase ( RTase ) together with DNA polymerase ( 12 ) .
+This method ( reverse transcription-coupled LAMP ) easily detected prostate-specific antigen ( PSA ) mRNA in one PSA-expressing LNCaP cell mixed with 1 000 000 PSA-negative K562 cells ( 13-15 ; Fig. 5 , lane 6 ) .
+--
+Recently , we developed a novel methodology that can rapidly identify the differences between two populations of DNA .
+This method , termed ' differential subtraction chain ' ( DSC ) , is based on a novel ' negative amplification ' strategy that converts ( amplifiable ) tester sequences to counterpart ( unamplifiable ) driver sequences .
+--
+A pseudo-rapid kinetic method for studying transcription was developed by using an immobilized template DNA packed in a minute column , in a micro-scale liquid chromatography system .
+This method , which has a dead-time of only several seconds , is quick enough to allow analysis of the release of product RNA in transcription by Escherichia coli RNA polymerase .
+--
+We developed a method for the specific detection of HAV negative-strand RNA by RNA-DNA hybridization and luminescence detection using an anti-RNA : DNA hybrid antibody .
+This method , which is also applicable for the specific detection of positive-strand RNA , offers a simple , yet relatively rapid and certain means of detecting low amounts of RNA such as HAV negative-strand RNA .
+--
+The fragments of various length were then cloned into the other vector ( s ) specifically designed for selective cloning of insert-derived DNA fragments to generate a library of nested deletions .
+This method allowed a single person to generate > 20 nested deletion libraries sufficient to cover 100 kb in a few days .
+--
+In the past , a highly sensitive and efficient method was developed to map DNA replication origins in human cells , based on quantitative PCR performed on nascent DNA samples .
+This method allowed the identification of a replication origin in the myeloid HL-60 cell line , located on chromosome 19 within an approximately 500 bp segment near the lamin B2 gene [ Giacca et al. ( 1994 ) Proc. Natl. Acad. Sci. USA , 91 , 7119 ] .
+--
+During cycles of thermal denaturation , annealing and extension , the former enzyme primarily amplifies the target sequence whereas the latter enzyme primarily performs a sequencing reaction .
+This method allows the determination of single-copy nuclear DNA sequences from amounts of human genomic DNA comparable to those used to amplify nucleotide sequences by the polymerase chain reaction .
+--
+In the subsequent selection cycles , however , antisense sequences shorter than ~14 nt will not be included for technical reasons ( data not shown ) .
+This method allows the generation of genotypically defined sequence spaces on the level of RNA , cDNA and genomic sequences according to the sequence input .
+--
+In PRAGA several genetic algorithms run in parallel and exchange individual solutions .
+This method allows us to optimize an objective function that describes the quality of a RNA pairwise alignment , taking into account both primary and secondary structure , including pseudoknots .
+--
+These findings are notable in that PAC and BAC library construction is a very labor-intensive and costly procedure , such that any net improvement in cloning efficiency is highly advantageous .
+This method also should prove useful towards other applications which require purification of very large DNA molecules , such as YAC cloning .
+--
+The recombinant plasmid can subsequently be transferred to and stably maintained in bacteria for efficient plasmid preparation .
+This method can also be applied to inserts from P1 artificial chromosome or bacterial artificial chromosome vectors .
+--
+The free energy of dye binding to several duplexes was calculated from the equilibrium melting curves of the duplexes formed on the oligonucleotide microchips .
+This method can be used as a general approach for massive screening of the sequence specificity of DNA-binding compounds .
+--
+Heteroduplex recombination provides a convenient addition to existing DNA recombination methods ( ' DNA shuffling ' ) and should be particularly useful for recombining large genes or entire operons .
+This method can be used to create libraries of chimeric polynucleotides and proteins for directed evolution to improve their properties or to study structure-function relationships .
+--
+The Klenow fragment of DNA polymerase I can then cleanly and efficiently extend the 3'-end of the RNA by the incorporation of a single alpha-32P-labeled dATP residue .
+This method can be used to label one RNA in a mixture of RNAs , or to label 5'-blocked RNAs such as mRNA .
+--
+Most interestingly , extension temperatures of 37 degrees C during amplification using the thermolabile DNA polymerases Sequenase 1.0 , Sequenase 2.0 , and 3 ' -- > 5 ' exonuclease-deficient Klenow fragment greatly decreased the production of frameshift products .
+This method can improve the resolution of heterozygous or mutant ( dC-dA ) n x ( dG-dT ) n alleles differing in size by one or two repeat units .
+--
+For that purpose , an improved method for making subtracted cDNA libraries , using uracil DNA glycosylase , has been developed .
+This method can overcome a general problem of subtraction , that rare cDNAs are easily lost .
+--
+We have isolated several clones containing ( CAG / GTC ) n sequences , which include previously identified sequences that map to chromosome 12 .
+This method could be a new PCR approach for the cloning of repeats based on their proximity to Alu sequences .
+--
+After the powdering and incubating of the bone samples Dextran Blue was added as a carrier for removing the PCR inhibitors with selective ethanol precipitation .
+This method could eliminate the time-consuming separate decalcification step , dialysis , application of centrifugation-driven microconcentrators and the second consecutive PCR amplification .
+--
+We have developed a novel method , termed loop-mediated isothermal amplification ( LAMP ) , that amplifies DNA with high specificity , efficiency and rapidity under isothermal conditions .
+This method employs a DNA polymerase and a set of four specially designed primers that recognize a total of six distinct sequences on the target DNA .
+--
+We here report an efficient method to analyze the qualitative and quantitative aspects of transcripts and to construct an extensive gene expression profile in any kind of cell or tissue of interest .
+This method enables us to analyze the composition of mRNA species , reflecting gene activities , by measuring the frequency of appearance of concatamerized 17mer cDNA mini-fragments , which are proportional to the abundance of mRNA .
+--
+We describe a general method for random mutagenesis of cloned genes by error-prone PCR or DNA shuffling that eliminates the need for post-amplification subcloning following each cycle of mutagenesis .
+This method exploits the highly efficient and recombinogenic nature of DNA uptake during natural transformation in the Gram-positive bacterium Bacillus subtilis and the Gram-negative bacterium Acinetobacter calcoaceticus .
+--
+We have developed a rapid method for unambiguous identification and mutant fraction determination of individual mutants in mixtures of DNA sequence variants each differing by one or a few nucleotides .
+This method has applications to such diverse areas as interpretation of mutational spectra , screening of populations for polymorphisms and identification of species in environmental mixtures .
+--
+The 35S signal intensity of the bound oligodeoxyribonucleotide was proportional to the concentration of each ( n-1 ) mer deletion sequence in the analyte solution .
+This method has been applied to a number of synthetic phosphorothioate oligodeoxy-ribonucleotide lots and shown to be reliable for speciation and relative quantitation of the internal ( n -1 ) mer deletion sequences present .
+--
+Preferential removal of the blocked nucleotide allows subsequent extension and selective amplification , and provides the basis for distinguishing mutant from normal genes .
+This method has been used here to detect a transition mutation within the P53 gene of HaCaT cells with verification by direct sequencing of the selectively amplified DNA .
+--
+A new method is reported for the synthesis of oligodeoxyribonucleotides containing 2-aminopurine residues at selected sites .
+This method involves protection of the 2-aminopurine ribonucleoside , reduction to the deoxyribonucleoside and standard preparation of the 5'-0- ( 4 , 4'-dimethoxytrityl ) -3'-O- ( 2-cyanoethyl ) -N , N- diisopropylphosphoramidite .
+--
+Cleavage specific to the elongation complex has been quantified using ternary complex analysis .
+This method involves radioactively labeling the complex by in vitro transcription followed by determining the extent of linearization by electrophoresis in an agarose gel .
+--
+A rapid and efficient procedure is described for mapping and cloning the 5'-ends of mRNAs , including those generated from a unique gene by alternative splicing and promoter usage .
+This method involves reverse transcription of the targeted mRNAs from a long , highly labeled specific primer , resolution of the extension products on a DNA sequencing gel , elution and poly ( dC ) tailing of the single-stranded cDNAs of interest , amplification of these cDNAs by PCR using an oligo ( dG ) adapter-primer and a gene-specific primer and finally DNA sequencing of the subcloned PCR fragments .
+--
+DNA is detected and analysed using readily available camera equipment and image analysis software .
+This method is as sensitive as [ 3H ] thymidine prelabelling of cells and allows DNA dsb to be measured simply and economically in non-cycling cells .
+--
+We developed a method for affinity purification of plasmids by triple helix interaction .
+This method is based on sequence-specific binding of an oligonucleotide immobilized on a large pore chromatography support to a target sequence on the plasmid .
+--
+We have developed a 2-dimensional gel method for identification of RNA sequences crosslinked by the intercalative drug 4'-hydroxymethyl-4 , 5 ' , 8-trimethylpsoralen ( HMT ) .
+This method is being used to localize such sites in E. coli ribosomal RNA .
+--
+A rapid 5'-labeling method of single-stranded DNA / RNA was developed , which is based on the utilization of an adenylated intermediate in the reaction of T4 RNA ligase .
+This method is commonly useful for fluorescence- , isotope- or biotin-labeling of the 5'-ends of both oligo- and polynucleotides .
+--
+In contrast to chromatin purified in sucrose-containing buffers , the minichromosomes obtained with this method are suitable for transcriptional analysis .
+This method is fast , quantitative , flexible , can deal with several samples simultaneously and leads to concentration of the chromatin .
+--
+A simple and effective modified ethanol precipitation-based protocol is described for the preparation of DNA from ancient human bones .
+This method is fast and requires neither hazardous chemicals nor special devices .
+--
+Because of the flanking RNA polymerase sites incorporated in both probes , hybridization with the sense riboprobe at a much lower concentration than the antisense probe generates a larger product that can be readily separated from the endogenous protected fragment .
+This method is generally applicable to any riboprobe that has a T3 and T7 RNA polymerase site and allows any externally added riboprobe use for assessing endogenous gene expression to be used as the external spike control .
+--
+A matrix-assisted laser desorption / ionization time-of-flight mass spectrometry based method has recently been reported for the typing of single nucleotide polymorphisms using single nucleotide primer extension .
+This method is limited in some cases by the resolution of the mass determination , as the mass difference between nucleotides can be as little as 9 Da ( the difference between A and T ) .
+--
+The final step is PCR amplification of the fragment composed of a selectable marker and two flanking sequences with the outermost primers .
+This method is rapid and needs only short oligonucleotides as primers .
+--
+Electroporation is one of the most common methods used transform mammalian cells with plasmids .
+This method is versatile and can be adapted to meet the requirements of many cell lines .
+--
+Using the PHO5 promoter we show that templates prepared from cells grown in inducing or repressing conditions show native chromatin structures .
+This method may be widely applicable as the chromatin structures at a centromere , at ARS1 and at part of the lacZ region on two other plasmids are preserved after chromatin isolation .
+--
+The position of the abasic sugar and the orphan base have been mainly determined by the application of repulsive , ‘non-NOE’ restraints for atom pairs where NOE peaks were not experimentally observed .
+This method may not be reliable because the lack of NOE peaks can be due to conformational or motional exchange .
+--
+Up to six different oligodeoxyribonucleotide syntheses or up to 25 cycles of nucleoside derivatization and cleavage were consecutively performed on the reusable support .
+This method may provide a significant cost advantage over conventional single-use solid supports currently used for the manufacture of antisense oligodeoxyribonucleotides .
+--
+Application of proline as a buffer additive in the range of 3.0-5.5 M remarkably increases the thermal stability of the polymerase and decreases the denaturation temperature of DNAtemplate .
+This method might be applicable to a broad spectrum of thermolabile DNA polymerases in cycled PCR and other methods of DNA amplification .
+--
+EST expression provides insight into possible interrelated physiological functions and putative interacting molecules during differentiation .
+This method offers a functional genomics approach to isolate differentiation stage-specific genes in samples as small as a single cell .
+--
+Using microSAGE gene expression profiles can be obtained from minute quantities of tissue such as a single hippocampal punch from a rat brain slice of 325 micrometers thickness , estimated to contain , at most , 10 ( 5 ) cells .
+This method opens up a multitude of new possibilities for the application of SAGE , for example the characterization of expression profiles in tissue biopsies , tumor metastases or in other cases where tissue is scarce and the generation of region-specific expression profiles of complex heterogeneous tissues .
+--
+In all these cells a dramatic ( up to 8-fold ) increase in transfection efficiency occurred after this treatment .
+This method opens up the possibility of using electroporation even in cells which are difficult to transfect .
+--
+The limited protease digestion assay can be used as a tool for the determination of a functional dissociation constant ( K ( df ) ) of VDR with any potential ligand .
+This method provided with the natural hormone VD two protease-resistant fragments of the VDR LBD and with the 20-epi conformation of VD , known as MC1288 , even an additional fragment of intermediate size .
+--
+These termination fragments can be examined for sequence variation in either denaturing or non-denaturing polyacrylamide gels .
+This method provides a one-step and highly effective approach for the detection of both insertions / deletions and single base pair substitutions in sequences up to 1 kb in length .
+--
+Such silanized molecules can be immobilized instantly onto glass surfaces after manual or automated deposition .
+This method provides a simple and rapid , yet very efficient , solution to the immobilization of prefabricated oligonucleotides and DNA for chip production .
+--
+A certain number of gel retardation studies have also appeared ( i.e. , 8-12 ) in which the interactions between ER and DNA , the effects of ligand and target sequence were explored .
+This method provides interesting information concerning the number of stoichiometric complexes formed , but suffers from its non-equilibrium nature and the relatively low signal-to-noise ratio inherent in the titration curves derived from quantification of the bands .
+--
+As a result , complete digestion of the modified PCR products with a 5-methyl-dCTP-sensitive enzyme will produce an array of restriction fragments equivalent to a partial restriction enzyme digestion reaction done on unmethylated PCR products .
+This method reduces the time and material needed to produce partially-digested DNA fragments by traditional methods .
+--
+Aliquots of 2 µl of the amplification products were mixed with 300 µl of 1 / 10 000 diluted original SYBR Green I in 10 mM Tris-HCl ( pH 8.0 ) , and 1 mM EDTA , incubated at room temperature for 30 min and quantified for fluorescent intensity with a Shimadzu RF-5000 spectrophotometer .
+This method relies on auto-cycling strand displacement DNA synthesis that is performed by a DNA polymerase with high strand displacement activity and a set of two specially designed inner and two outer primers .
+--
+Serial analysis of gene expression ( SAGE ) is a widely used technology for determining gene expression profiles of tissues and cell lines under different extracellular stimuli or under different phenotypic changes derived from genetic mutations ( 1 , 2 ) .
+This method relies on isolation of polyadenylated mRNAs with subsequent synthesis of biotinylated cDNAs .
+--
+The retarded product peak is collected , lyophilized , desilylated in the normal way and then desalted .
+This method removes the lipophilic capture tag yet leaves behind the hexanediol entity which helps protect the compound against degradation by 5'-exonucleases .
+--
+A new analysis program , BLKPROB , computes E-values for multiple block hits using methods developed for searches of block queries against sequence databases with the MAST searching tool ( 15 , 16 ) .
+This method requires computing the score distribution for each block , which can be done explicitly when the position-specific scoring matrix ( PSSM ) derived from a block contains only integers ( 17 ) .
+--
+Using this technique we examined 10 100 cDNA mini-fragments from HeLa cells and constructed a gene expression profile consisting of 3665 genes .
+This method should thus provide an overall indication of gene activities and a rational means for monitoring gene fluctuation in different cells or tissues at different stages of development , in normal and disease states .
+--
+Consequently , repeated application of RAP-PCR probes allows a greater fraction of the message population to be screened on this type of array than can be achieved with a radiolabeled total cDNA probe .
+This method was applied to RNA from HaCaT keratinocytes treated with epidermal growth factor .
+--
+The modified hairpin-primers do not interfere with the activity of DNA polymerase , and both thermostable Pfu and Taq polymerase can be used .
+This method was applied to the detection of cDNA for prostate specific antigen .
+--
+To determine the presence and identity of isopentenyladenosine-containing transfer RNAs ( tRNAs ) in a mammalian cell line , we adopted a novel method to isolate , clone and sequence these RNAs .
+This method was based on 3 ' polyadenylation of the tRNA prior to cDNA synthesis , PCR amplification , cloning and DNA sequencing .
+--
+Mapping the modified PAC 148 clones ( PAC 148?lox ) , showed that the region corresponding to the ß-globin locus was unaltered and showed only the required change ( Fig. 2c ) .
+This method was used for modifying several positions in PAC 148?lox and also employed to modify a 120 kb PAC clone of the MCP ( membrane cofactor protein CD46 ) locus ( 13 ) .
+--
+By choosing a high dilution of mutagenic primers it was possible to run an overlap extension PCR in only one reaction without purification of intermediate products .
+This method which we have named one-step overlap extension PCR ( OOE-PCR ) can in principle be applied to every DNA fragment which can be cloned into a multiple cloning site of any common cloning vector .
+--
+With these modifications we have considerably simplified the generation of the repeat probe used to screen for anomalous bands .
+This method will facilitate the molecular approach to other genetic disorders where expansions of repeat sequences could be involved .
+--
